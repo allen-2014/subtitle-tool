@@ -1,5 +1,5 @@
 # subtitle-tool
-merging two subtitle files into one subtitle file, which belonging to the same video,including movie, or TV Series etc.
+merging two subtitle files(.srt) into one subtitle file(.srt), which belonging to the same video,including movie, or TV Series etc.
 
 # Problems encounted and Solution
 ## PS1

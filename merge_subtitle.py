@@ -7,7 +7,7 @@ import os
 import sys
 from subtitle_time import  SubtitleTime
 import utils
-
+from subtitle import Subtitle
 
 if len(sys.argv) == 6:
     path1 = sys.argv[1]
@@ -17,7 +17,7 @@ if len(sys.argv) == 6:
     acd2_subtitle_num = int(sys.argv[4])
     acd = int(sys.argv[5])
     """
-    file1 merge into file2,
+    srt file1 and srt file2 into new srt file,
     """
     fd1 = open(path1, mode='tr',buffering=-1,encoding="utf-8-sig")
     fd2 = open(path2, mode='tr',buffering=-1,encoding="utf-8-sig")
@@ -47,9 +47,9 @@ if len(sys.argv) == 6:
     subtitle_time1 = SubtitleTime(one_line1)
     subtitle_time2 = SubtitleTime(one_line2)
     if acd == 1:
-        base_line_time = one_line1.strip()
+        base_line_time = one_line1
     elif acd == 2:
-        base_line_time = one_line2.strip()
+        base_line_time = one_line2
     #
     time_bias_list = [0,0,0,0,0]
     base_time_bias = 0
@@ -76,116 +76,76 @@ if len(sys.argv) == 6:
 
     while (True):
         if time12_bias[2] < 0:
-            #read num
-            one_line11 = fd1.readline()
-            #time
-            one_line11 = fd1.readline()
-            if one_line11 == "":
-                fd_merge.write(str(merge_subtitle_num) + "\n" + base_line_time + "\n" + (subtitle2 + subtitle1) + "\n")
+            subtitle11_list = utils.read_subtitle(fd1)
+            if subtitle11_list == None:
+                fd_merge.write(str(merge_subtitle_num) + "\n" + base_line_time + (subtitle2 + subtitle1) + "\n")
                 fd_merge.flush()
                 break
-            line11_time = one_line11
-            #subtitle
-            subtitle11 = ""
-            while(True):
-                one_line11 = fd1.readline()
-                if one_line11 == "\n" or one_line11 == "":
-                    break
-                subtitle11 += one_line11
         if time12_bias[2] > 0:
-            #read num
-            one_line21 = fd2.readline()
-            #time
-            one_line21 = fd2.readline()
-            if one_line21 == "":
-                fd_merge.write(str(merge_subtitle_num) + "\n" + base_line_time + "\n" + (subtitle2 + subtitle1) + "\n")
+            subtitle21_list = utils.read_subtitle(fd2)
+            if subtitle21_list == None:
+                fd_merge.write(str(merge_subtitle_num) + "\n" + base_line_time + (subtitle2 + subtitle1) + "\n")
                 fd_merge.flush()
-                break
-            line21_time = one_line21
-            #subtitle
-            subtitle21 = ""
-            while(True):
-                one_line21 = fd2.readline()
-                if one_line21 == "\n" or one_line21 == "":
-                    break
-                subtitle21 += one_line21
-            # if acd == 1:
-            #     base_line_time = one_line11.strip();
-            # elif acd == 2:
-            #     base_line_time = one_line21.strip();
-            #bias:ms
+                break         
+        
         if time12_bias[2] == 0:
-            #read num
-            one_line11 = fd1.readline()
-            one_line21 = fd2.readline()
-            if one_line11 == "" or one_line21 == "":
-                fd_merge.write(str(merge_subtitle_num) + "\n" + base_line_time + "\n" + (subtitle2 + subtitle1) + "\n")
+            subtitle11_list = utils.read_subtitle(fd1)
+            if subtitle11_list == None:
+                fd_merge.write(str(merge_subtitle_num) + "\n" + base_line_time + (subtitle2 + subtitle1) + "\n")
                 fd_merge.flush()
                 break
-            #time
-            one_line11 = fd1.readline()
-            one_line21 = fd2.readline()
-            line11_time = one_line11
-            line21_time = one_line21
-            #subtitle
-            subtitle11 = ""
-            subtitle21 = ""
-            while(True):
-                one_line11 = fd1.readline()
-                if one_line11 == "\n" or one_line11 == "":
-                    break
-                subtitle11 += one_line11
-            while(True):
-                one_line21 = fd2.readline()
-                if one_line21 == "\n" or one_line21 == "":
-                    break
-                subtitle21 += one_line21
-
-        subtitle_time11 = SubtitleTime(line11_time)
-        subtitle_time21 = SubtitleTime(line21_time)
-        time12_bias = subtitle_time11.time_bias(subtitle_time21, base_time_bias)
-        #time12_bias = subtitle_time.time_bias(line11_time,line21_time,base_time_bias)
+            subtitle21_list = utils.read_subtitle(fd2)
+            if subtitle21_list == None:
+                fd_merge.write(str(merge_subtitle_num) + "\n" + base_line_time + (subtitle2 + subtitle1) + "\n")
+                fd_merge.flush()
+                break  
+            
+        subtitle11 = Subtitle(subtitle11_list[0],subtitle11_list[1],subtitle11_list[2])
+        subtitle21 = Subtitle(subtitle21_list[0],subtitle21_list[1],subtitle21_list[2])
+        # subtitle_time11 = SubtitleTime(line11_time)
+        # subtitle_time21 = SubtitleTime(line21_time)
+        time12_bias = subtitle11.subtitle_time_inst().time_bias(subtitle21.subtitle_time_inst(), base_time_bias)
         
         #write to new file directly
         if abs(time12_bias[0]) < 1000:
-            fd_merge.write(str(merge_subtitle_num) + "\n" + base_line_time + "\n" + (subtitle2 + subtitle1) + "\n")
+            fd_merge.write(str(merge_subtitle_num) + "\n" + base_line_time + (subtitle2 + subtitle1) + "\n")
             fd_merge.flush()
             #update data
-            #subtitle num    
+            #subtitle num
             merge_subtitle_num += 1
             #time
-            line1_time = line11_time
-            line2_time = line21_time
+            line1_time = subtitle11.subtitle_time_inst().to_string()
+            line2_time = subtitle21.subtitle_time_inst().to_string()
             #subtitle
-            subtitle2 = subtitle21
-            subtitle1 = subtitle11
+            subtitle2 = subtitle21.subtitle_text()
+            subtitle1 = subtitle11.subtitle_text()
             #base_time_bias
             time_bias_list.pop(0)
             time_bias_list.append(time12_bias[0] + base_time_bias)
             base_time_bias = utils.base_time_bias(time_bias_list)
             if acd == 1:
-                base_line_time = line1_time.strip()
+                base_line_time = line1_time
             elif acd == 2:
-                base_line_time = line2_time.strip()
+                base_line_time = line2_time
             
             time12_bias[2] = 0
         #subtitle of file1 need to be self merging,and then with file2 write to new file
         elif time12_bias[2] < 0:
-            subtitle1 += subtitle11
+            subtitle1 += subtitle11.subtitle_text()
             if acd == 1:
                 subtitle_time1 = SubtitleTime(line1_time)
-                subtitle_time11 = SubtitleTime(line11_time)
+                subtitle_time11 = subtitle11.subtitle_time_inst()
                 base_line_time = SubtitleTime(subtitle_time1.get_begin_time(), subtitle_time11.get_end_time()).to_string()
             elif acd == 2:
-                base_line_time = line2_time.strip()
+                base_line_time = line2_time
         #subtitle of file2 need to be self merging,and then with file1 write to new file    
         elif time12_bias[2] > 0:
-            subtitle2 += subtitle21
+            subtitle2 += subtitle21.subtitle_text()
             if acd == 1:
-                base_line_time = line1_time.strip()
+                base_line_time = line1_time
             elif acd == 2:
                 subtitle_time2 = SubtitleTime(line2_time)
-                subtitle_time21 = SubtitleTime(line21_time)
+                subtitle_time21 = subtitle21.subtitle_time_inst()
                 base_line_time = SubtitleTime(subtitle_time2.get_begin_time(), subtitle_time21.get_end_time()).to_string()
         
 

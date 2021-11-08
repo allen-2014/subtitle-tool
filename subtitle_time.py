@@ -7,10 +7,13 @@ class SubtitleTime:
     begin_time = ""
     end_time = ""
     link_sig = " --> "
+    line_sig = "\n"
     
     def __init__(self, begin_time: str="", end_time: str=""):
-        if end_time == "":
-            two_time_list = begin_time.strip().split("-->")
+        if end_time == "" and begin_time == "":
+            return None
+        elif end_time == "":
+            two_time_list = begin_time.strip().split(self.link_sig.strip())
             self.begin_time = two_time_list[0].strip()
             self.end_time = two_time_list[1].strip()
         else:
@@ -72,7 +75,7 @@ class SubtitleTime:
         return [int(time_list[0]), int(time_list[1]), int(sec_list[0]),int(sec_list[1])]
 
     def to_string(self) -> str:
-        return self.begin_time + self.link_sig + self.end_time
+        return self.begin_time + self.link_sig + self.end_time + self.line_sig
 
     # def line_time_split(one_line_time: str ="") -> List[str]:
     #     """
