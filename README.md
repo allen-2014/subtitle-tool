@@ -8,10 +8,12 @@ because of the end time not matching the actual time in the video so much,so if
 want to merge exactly, this program hava to use and uses the begin time of 
 subtitle, not the end time of it.
 ## PS2
-time bias of two subtitle begin time which belongs to different file each other,
-can be the base time bias of two begin time.That's meaning every begin time of each two matching 
-subtitles int two files has the same time bias theoretically,but actually not, they may have some little(or big)
-difference each other,so how to compute the base time bias reasonably.
+time bias of two begin time of subtitle which belongs to different srt files,
+can be the base time bias of the left begin time.That's meaning each two begin 
+times corresponding the same subtitle in two files has the same time bias 
+theoretically(if srt files are faultless), but actually not, they may have some 
+little(or big) difference each other,so how to compute the base time bias reasonably 
+is a problem.
 this program use the following solution:
 
 step 1:time_biase_list = [time_bias1,time_bias2,time_bias3,time_bias4,time_bias5]
