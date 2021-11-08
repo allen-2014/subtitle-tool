@@ -5,7 +5,9 @@ or TV Series etc.
 """
 import os
 import sys
-import subtitle_time
+from subtitle_time import  SubtitleTime
+import utils
+
 
 if len(sys.argv) == 6:
     path1 = sys.argv[1]
@@ -42,19 +44,21 @@ if len(sys.argv) == 6:
     one_line2 = fd2.readline()
     line1_time = one_line1
     line2_time = one_line2
+    subtitle_time1 = SubtitleTime(one_line1)
+    subtitle_time2 = SubtitleTime(one_line2)
     if acd == 1:
         base_line_time = one_line1.strip()
     elif acd == 2:
         base_line_time = one_line2.strip()
     #
     time_bias_list = [0,0,0,0,0]
+    base_time_bias = 0
     if merge_subtitle_num == acd1_subtitle_num or merge_subtitle_num == acd2_subtitle_num:
         #bias:ms
-        time12_bias = subtitle_time.time_bias(one_line1,one_line2)
+        time12_bias = subtitle_time1.time_bias(subtitle_time2)
         time_bias_list[4] = time12_bias[0]
-        base_time_bias = subtitle_time.base_time_bias(time_bias_list)
+        base_time_bias = utils.base_time_bias(time_bias_list)
     #bias:ms
-    #time12_bias = subtitle_time.time_bias(one_line1,one_line2,base_time_bias)
     time12_bias[2] = 0
     #subtitle
     subtitle1 = ""
@@ -137,8 +141,11 @@ if len(sys.argv) == 6:
                     break
                 subtitle21 += one_line21
 
-        time12_bias = subtitle_time.time_bias(line11_time,line21_time,base_time_bias)
-
+        subtitle_time11 = SubtitleTime(line11_time)
+        subtitle_time21 = SubtitleTime(line21_time)
+        time12_bias = subtitle_time11.time_bias(subtitle_time21, base_time_bias)
+        #time12_bias = subtitle_time.time_bias(line11_time,line21_time,base_time_bias)
+        
         #write to new file directly
         if abs(time12_bias[0]) < 1000:
             fd_merge.write(str(merge_subtitle_num) + "\n" + base_line_time + "\n" + (subtitle2 + subtitle1) + "\n")
@@ -155,7 +162,7 @@ if len(sys.argv) == 6:
             #base_time_bias
             time_bias_list.pop(0)
             time_bias_list.append(time12_bias[0] + base_time_bias)
-            base_time_bias = subtitle_time.base_time_bias(time_bias_list)
+            base_time_bias = utils.base_time_bias(time_bias_list)
             if acd == 1:
                 base_line_time = line1_time.strip()
             elif acd == 2:
@@ -166,9 +173,9 @@ if len(sys.argv) == 6:
         elif time12_bias[2] < 0:
             subtitle1 += subtitle11
             if acd == 1:
-                begin_time = subtitle_time.line_time_split(line1_time)[0]
-                end_time = subtitle_time.line_time_split(line11_time)[1]
-                base_line_time = begin_time + " --> " + end_time
+                subtitle_time1 = SubtitleTime(line1_time)
+                subtitle_time11 = SubtitleTime(line11_time)
+                base_line_time = SubtitleTime(subtitle_time1.get_begin_time(), subtitle_time11.get_end_time()).to_string()
             elif acd == 2:
                 base_line_time = line2_time.strip()
         #subtitle of file2 need to be self merging,and then with file1 write to new file    
@@ -177,13 +184,13 @@ if len(sys.argv) == 6:
             if acd == 1:
                 base_line_time = line1_time.strip()
             elif acd == 2:
-                begin_time = subtitle_time.line_time_split(line2_time)[0]
-                end_time = subtitle_time.line_time_split(line21_time)[1]
-                base_line_time = begin_time + " --> " + end_time
+                subtitle_time2 = SubtitleTime(line2_time)
+                subtitle_time21 = SubtitleTime(line21_time)
+                base_line_time = SubtitleTime(subtitle_time2.get_begin_time(), subtitle_time21.get_end_time()).to_string()
         
 
     fd1.close()
     fd2.close()
-    print("good job^_^")
+    print("merge finished.")
 else:
-    print("wrong^-^")
+    print("wrong")

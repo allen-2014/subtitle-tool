@@ -122,18 +122,21 @@ Bene!
 什麼美妙？
 Bene?
 Bene! Fabulous!
-What's fabulous?
 
 23
-00:03:47,815 --> 00:03:52,274
+00:03:47,815 --> 00:03:50,283
 您開的那小玩意兒
-你覺得我不配？
+What's fabulous?
 That fine piece of steel
 you have back there.
+
+24
+00:03:51,285 --> 00:03:52,274
+你覺得我不配？
 Ah, you don't think
 I deserve it.
 
-24
+25
 00:03:53,420 --> 00:03:56,412
 不，相反，配得很好
 No, sir.
@@ -141,7 +144,7 @@ On the contrary.
 I think
 it's great.
 
-25
+26
 00:03:56,957 --> 00:04:00,950
 博德的男校長
 怎能開破車呢？
@@ -150,7 +153,7 @@ headmaster of Baird
 be seen putt-putting
 around in some junker?
 
-26
+27
 00:04:01,362 --> 00:04:07,301
 我想，董事會諸公
 早有此意了吧
@@ -159,7 +162,7 @@ board of trustees have had
 their first true stroke
 of inspiration in some time.
 
-27
+28
 00:04:07,368 --> 00:04:11,702
 謝謝，海夫曼
 我照單收下
@@ -167,18 +170,18 @@ Well, thank you,
 Havemeyer.
 I'll take that at face value.
 
-28
+29
 00:04:12,173 --> 00:04:13,834
 正合我意，先生
 I'd expect
 nothing less, sir.
 
-29
+30
 00:04:15,009 --> 00:04:15,998
 祝您今天好
 Have a good day.
 
-30
+31
 00:04:19,180 --> 00:04:20,841
 早安，杭賽克太太
 早安
@@ -186,19 +189,19 @@ Morning,
 Mrs. Hunsaker.
 Good morning.
 
-31
+32
 00:04:20,915 --> 00:04:23,247
 這堆是什麼？
 殺人犯名單？
 What have we here,
 Murderer's Row?
 
-32
+33
 00:04:30,324 --> 00:04:31,313
 你們講什麼？
 What was that about?
 
-33
+34
 00:04:31,525 --> 00:04:35,325
 沒什麼
 和校長打聲招呼而已
@@ -206,7 +209,7 @@ Nothing. Just saying hello.
 I like to say hello
 to Headmaster Trask.
 
-34
+35
 00:04:36,397 --> 00:04:39,463
 「甘蔗叢」
 滑雪場門票
@@ -214,20 +217,20 @@ to Headmaster Trask.
 Sugarbush. Lift tickets
 and condo vouchers.
 
-35
+36
 00:04:39,533 --> 00:04:40,932
 不是要去斯朵嗎？
 I thought we were
 going to Stowe.
 
-36
+37
 00:04:41,335 --> 00:04:43,394
 「甘蔗叢」就在斯朵
 吉米
 Sugarbush
 is Stowe, Jimmy.
 
-37
+38
 00:04:43,871 --> 00:04:47,534
 感恩節在佛蒙特
 聖誕節到瑞士
@@ -236,7 +239,7 @@ doing it right.
 Thanksgiving in Vermont,
 Christmas in Switzerland...
 
-38
+39
 00:04:47,608 --> 00:04:49,735
 去瑞士吉斯達可貴了！
 斯達！
@@ -244,23 +247,26 @@ Christmas in Gstaad
 is gonna cost us...
 "Staad."
 
-39
+40
 00:04:50,544 --> 00:04:53,012
 G不發音，念斯達
 喬治？
 The "G" is silent.
 "Staad." George?
 
-40
-00:04:53,414 --> 00:04:57,279
+41
+00:04:53,414 --> 00:04:55,405
 斯達
-斯達什麼？
 "Staad."
 Trent?
+
+42
+00:04:55,482 --> 00:04:57,279
+斯達什麼？
 "Staad," man.
 So what about Staad?
 
-41
+43
 00:04:57,351 --> 00:05:01,219
 去那兒少說也要三千元
 Fine. The "G" may
@@ -268,13 +274,13 @@ be silent,
 but it's gonna take at least
 three grand to get there.
 
-42
+44
 00:05:01,555 --> 00:05:03,147
 只好打電話給我爸
 I'll have to talk
 to my father.
 
-43
+45
 00:05:03,224 --> 00:05:06,091
 最好快點
 要他打給我爸爸
@@ -282,55 +288,55 @@ Better yet,
 have my father
 talk to your father.
 
-44
+46
 00:05:06,160 --> 00:05:07,218
 我爸再打給你爸
 Or my father
 talk to your father.
 
-45
+47
 00:05:10,698 --> 00:05:12,359
 週末回家嗎？
 You going home
 this weekend, Chas?
 
-46
+48
 00:05:13,434 --> 00:05:14,765
 不一定
 I don't know.
 
-47
+49
 00:05:15,502 --> 00:05:17,629
 你要回他媽的愛達荷？
 You going home
 to fuckin' Idaho
 for Thanksgiving?
 
-48
+50
 00:05:18,239 --> 00:05:19,365
 我家在奧勒岡
 I'm from Oregon.
 
-49
+51
 00:05:20,574 --> 00:05:22,098
 他媽的奧勒岡
 I meant
 fuckin' Oregon.
 
-50
+52
 00:05:22,843 --> 00:05:24,572
 想不想去滑雪…
 Charlie, how do you
 feel about skiing?
 
-51
+53
 00:05:26,046 --> 00:05:28,378
 徜徉在白茫茫的佛蒙特州？
 You in the mood for
 the white-bosomed
 slopes of Vermont?
 
-52
+54
 00:05:30,517 --> 00:05:34,851
 優惠價，我的朋友打八折
 我爸安排的
@@ -339,13 +345,13 @@ Got a deal going.
 my friends.
 My father set it up.
 
-53
+55
 00:05:35,389 --> 00:05:37,254
 聖誕節就去瑞士斯達
 Christmas
 in Switzerland.
 
-54
+56
 00:05:37,324 --> 00:05:40,259
 分明念「吉斯達」嘛
 是你叫我們念「斯達」的
@@ -356,7 +362,7 @@ You said
 everybody
 says "Staad."
 
-55
+57
 00:05:40,327 --> 00:05:43,660
 你又沒去過
 復活節去百慕達
@@ -370,7 +376,7 @@ weekend.
 We could fit
 you in, kid.
 
-56
+58
 00:05:47,534 --> 00:05:51,197
 去「白茫茫的佛蒙特」
 要多少錢？
@@ -378,7 +384,7 @@ Well, how much are
 these white-bosomed
 slopes of Vermont?
 
-57
+59
 00:05:51,872 --> 00:05:57,208
 一千二
 含九道大菜和香檳晚餐
@@ -387,19 +393,19 @@ Includes a nine-course,
 champagne
 Thanksgiving dinner.
 
-58
+60
 00:05:57,945 --> 00:06:00,743
 一千二對我而言是多了
 $1,200 is a little rich
 for my blood, Harry.
 
-59
+61
 00:06:01,682 --> 00:06:02,876
 你差多少？
 Well, how short
 are you?
 
-60
+62
 00:06:03,751 --> 00:06:08,814
 差到你根本不必問
 How short, Harry?
@@ -407,26 +413,26 @@ So short it wouldn't be
 worth the trouble
 of you and George to measure.
 
-61
+63
 00:06:09,556 --> 00:06:11,547
 還是謝謝你的邀請
 But thanks for askin',
 all right?
 Mmm-hmm.
 
-62
+64
 00:06:12,626 --> 00:06:14,150
 如果你改變心意的話…
 If you change
 your mind...
 
-63
+65
 00:06:14,495 --> 00:06:16,292
 何必問他？他靠獎學金的
 What'd you do that for?
 You know he's on aid.
 
-64
+66
 00:06:17,164 --> 00:06:21,294
 假期裡富人總願施捨窮者
 On major
@@ -436,64 +442,64 @@ for the lord of the manor
 to offer drippings
 to the poor.
 
-65
+67
 00:06:21,368 --> 00:06:22,699
 你真臭屁！
 You're so
 full of shit!
 
-66
+68
 00:06:49,930 --> 00:06:50,919
 羅絲太太！
 Hi. Mrs. Rossi?
 Yes?
 
-67
+69
 00:06:53,067 --> 00:06:54,193
 我是來應徵的
 I'm here about
 the weekend job.
 
-68
+70
 00:06:57,004 --> 00:06:57,800
 請進
 Come on in.
 
-69
+71
 00:07:02,676 --> 00:07:05,941
 有沒有粉刺？他痛恨粉刺
 Does he got pimples?
 He hates pimples.
 
-70
+72
 00:07:06,347 --> 00:07:07,746
 法蘭絲，安靜點
 Francine, be quiet.
 
-71
+73
 00:07:07,881 --> 00:07:10,543
 粉刺，粉刺
 Pimples.
 Pimples. Yeah.
 
-72
+74
 00:07:10,684 --> 00:07:11,673
 噓…
 Shush!
 
-73
+75
 00:07:12,519 --> 00:07:14,885
 抱歉，我忘了你名字
 I'm sorry. The school
 gave me your name,
 but I've forgotten it.
 
-74
+76
 00:07:14,955 --> 00:07:16,286
 查理.西門
 It's Charlie Simms.
 
-75
+77
 00:07:16,357 --> 00:07:18,348
 你好嗎？
 好
@@ -501,29 +507,32 @@ How are you,
 Charlie?
 Fine, thanks.
 
-76
+78
 00:07:18,559 --> 00:07:19,218
 往這兒
 Right this way.
 
-77
+79
 00:07:23,630 --> 00:07:25,222
 這週末都有空嗎？
 You're available
 the whole weekend?
 Yeah.
 
-78
+80
 00:07:27,301 --> 00:07:28,268
 不回家過感恩節啊？
-不
-很好！
 Not going home
 for Thanksgiving?
 No.
+
+81
+00:07:28,302 --> 00:07:32,497
+不
+很好！
 Good.
 
-79
+82
 00:07:32,497 --> 00:07:35,022
 本來他在榮民之家
 他不喜歡
@@ -531,20 +540,20 @@ They put him in
 a veteran's home,
 but he hated it,
 
-80
+83
 00:07:35,566 --> 00:07:37,295
 我和爸就接他來了
 so I told my dad
 that we'd take him.
 
-81
+84
 00:07:39,904 --> 00:07:42,566
 進去以前先聽我說
 Before you go in,
 do you mind my
 telling you a few things?
 
-82
+85
 00:07:43,174 --> 00:07:47,167
 不要稱他「長官」
 別問太多
@@ -552,52 +561,58 @@ Don't "sir" him
 and don't ask him
 too many questions.
 
-83
-00:07:47,645 --> 00:07:56,443
+86
+00:07:47,645 --> 00:07:51,103
 他站不起來時，別去扶他
-我一看就知道你能勝任
 And if he
 staggers a little
 when he gets up,
 don't pay
 any attention.
+
+87
+00:07:53,451 --> 00:07:56,443
+我一看就知道你能勝任
 Charlie,
 I can tell you're
 the right person for the job.
 
-84
-00:07:57,255 --> 00:08:03,650
+88
+00:07:57,255 --> 00:07:59,382
 法蘭克舅舅一定會喜歡你
-你們要去哪裡
 And Uncle Frank's
 gonna like you a lot, too.
+
+89
+00:08:02,160 --> 00:08:03,650
+你們要去哪裡
 Where you gonna be
 this weekend?
 
-85
+90
 00:08:04,462 --> 00:08:05,861
 開車回紐約
 We're driving to Albany.
 
-86
+91
 00:08:06,864 --> 00:08:10,598
 唐尼…
 我先生，他家在那兒
 Donny, my husband,
 has family there.
 
-87
+92
 00:08:15,673 --> 00:08:17,334
 要不要湯米出去？
 Do you want
 Tommy in or out?
 
-88
+93
 00:08:17,475 --> 00:08:18,134
 出去！
 Leave him out!
 
-89
+94
 00:08:18,943 --> 00:08:22,736
 他又在追小野貓了…
 從路頭追起呢
@@ -605,51 +620,54 @@ He's chasing that
 Calico ginch from
 the track houses again!
 
-90
+95
 00:08:28,886 --> 00:08:31,411
 其實他甜的跟糖似的
 Down deep, the man
 is a lump of sugar.
 
-91
+96
 00:08:52,043 --> 00:08:52,702
 長官？
 Sir?
 
-92
+97
 00:08:53,444 --> 00:08:54,968
 少叫我「長官」
 Don't call me sir.
 
-93
+98
 00:08:55,513 --> 00:08:58,846
 抱歉，我是說「先生」
 長官
 I'm sorry.
 I mean mister, sir.
 
-94
+99
 00:08:59,050 --> 00:09:02,577
 啊！來了個白癡
 不是嗎？
 Uh-oh, we got a moron here,
 is that it?
 
-95
-00:09:02,987 --> 00:09:09,716
+100
+00:09:02,987 --> 00:09:06,320
 不，先生，那…呃…
-中尉，是的，長官，中…
 No, mister...
 That is...
+
+101
+00:09:08,192 --> 00:09:09,716
+中尉，是的，長官，中…
 Lieutenant.
 Yes, sir...
 
-96
+102
 00:09:09,794 --> 00:09:11,455
 中校
 Lieutenant Colonel.
 
-97
+103
 00:09:12,196 --> 00:09:16,189
 服役廿六年
 從沒有人連降我四級
@@ -657,43 +675,43 @@ Twenty-six years on the line,
 nobody ever busted me
 four grades before.
 
-98
+104
 00:09:17,068 --> 00:09:18,729
 進來，笨蛋！
 Get in here,
 you idiot!
 
-99
+105
 00:09:25,676 --> 00:09:28,474
 靠近點，我要看清楚
 Come a little closer.
 I wanna get a
 better look at you.
 
-100
+106
 00:09:37,688 --> 00:09:38,882
 你的皮膚怎樣？
 How's your skin, son?
 
-101
+107
 00:09:40,825 --> 00:09:41,757
 我皮膚，長官？
 My skin, sir?
 
-102
+108
 00:09:42,159 --> 00:09:43,820
 媽呀！上帝！
 Oh, for
 Christ's sake.
 
-103
+109
 00:09:44,095 --> 00:09:46,560
 對不起…
 叫我法蘭克
 I'm sorry, I don...
 Just call me Frank.
 
-104
+110
 00:09:47,031 --> 00:09:52,764
 叫我史雷德先生
 或上校，隨你便
@@ -703,12 +721,12 @@ Call me Colonel,
 if you must. Just don't
 call me sir.
 
-105
+111
 00:09:54,171 --> 00:09:55,832
 好，上校
 All right, Colonel.
 
-106
+112
 00:09:57,842 --> 00:10:02,108
 西門，查理，高三
 拿獎學金的，西門？
@@ -717,63 +735,63 @@ A senior.
 You on
 student aid, Simms?
 
-107
+113
 00:10:02,580 --> 00:10:03,569
 是
 Yes, I am.
 
-108
+114
 00:10:04,248 --> 00:10:06,716
 改叫「獎學金」為「罪犯」
 For "student aid"
 read "crook."
 
-109
+115
 00:10:07,919 --> 00:10:11,446
 你父親賣的電話特別昂貴
 Your father
 peddles car telephones
 at a 300% markup.
 
-110
+116
 00:10:11,522 --> 00:10:14,047
 你母親在照像館上班
 Your mother works
 on heavy commission
 in a camera store.
 
-111
+117
 00:10:14,258 --> 00:10:16,453
 最會燒特濃咖啡
 Graduated to it
 from espresso machines.
 
-112
+118
 00:10:23,868 --> 00:10:26,996
 你呢？患了膽小症
 What are you, dying of
 some wasting disease?
 
-113
+119
 00:10:29,674 --> 00:10:31,471
 沒有，我在這兒
 No, I'm right...
 I'm right here.
 
-114
+120
 00:10:32,209 --> 00:10:34,734
 我知道你站在哪兒
 I know exactly where
 your body is.
 
-115
+121
 00:10:35,346 --> 00:10:38,213
 我要的是個有腦子的看護
 What I'm lookin' for
 is some
 indication of a brain.
 
-116
+122
 00:10:39,417 --> 00:10:45,749
 踢足球把腦子踢壞了？
 詹森總統評福特總統
@@ -782,14 +800,14 @@ without a helmet?
 Hah! Lyndon's line
 on Gerry Ford.
 
-117
+123
 00:10:47,224 --> 00:10:50,625
 我負責簡報
 巴黎和談，1968
 Deputy Debriefer, Paris,
 Peace Talks, '66.
 
-118
+124
 00:10:50,895 --> 00:10:54,892
 得完「銀星」得「銀熊」
 調我去G-2
@@ -797,114 +815,114 @@ Snagged the Silver Star
 and a silver bar.
 Threw me into G-2.
 
-119
+125
 00:10:55,967 --> 00:10:56,899
 情報大隊嗎？
 G-2?
 
-120
+126
 00:10:57,234 --> 00:11:00,169
 聰明人才能做
 你不夠格
 Intelligence,
 of which you have none.
 
-121
+127
 00:11:04,375 --> 00:11:05,501
 家在哪？
 Where you from?
 
-122
+128
 00:11:06,377 --> 00:11:08,038
 葛遜，奧勒岡
 Gresham, Oregon,
 
-123
+129
 00:11:09,914 --> 00:11:10,778
 長…上校
 Colonel.
 
-124
+130
 00:11:11,182 --> 00:11:14,640
 爸爸在奧勒岡做什麼的？
 What does your daddy do
 in Gresham, Oregon?
 
-125
+131
 00:11:14,719 --> 00:11:15,777
 數碎木片？
 Hmm?
 Count wood chips?
 
-126
+132
 00:11:17,388 --> 00:11:21,051
 繼父和媽媽開便利商店
 My stepfather and my mom
 run a convenience store.
 
-127
+133
 00:11:21,392 --> 00:11:24,591
 真便利
 什麼時候開？
 How convenient.
 What time they open?
 
-128
+134
 00:11:25,196 --> 00:11:26,128
 早上五點
 5:00 a.m.
 
-129
+135
 00:11:26,330 --> 00:11:26,989
 打烊呢？
 Close?
 
-130
+136
 00:11:27,732 --> 00:11:28,528
 凌晨一點
 1:00 a.m.
 
-131
+137
 00:11:28,799 --> 00:11:30,130
 很賣力
 Hard workers.
 
-132
+138
 00:11:30,801 --> 00:11:32,462
 真叫我熱淚盈眶
 You got me all
 misty-eyed!
 
-133
+139
 00:11:37,074 --> 00:11:40,407
 那你在這鳥不拉屎
 的地方幹嘛
 So, what are you doing here
 in this sparrow-fart town?
 
-134
+140
 00:11:41,145 --> 00:11:42,669
 我念博德的
 I attend Baird.
 
-135
+141
 00:11:44,548 --> 00:11:46,209
 念博德
 Attend Baird!
 
-136
+142
 00:11:47,551 --> 00:11:49,678
 我知道你上博德
 I know you go
 to the Baird school.
 
-137
+143
 00:11:50,154 --> 00:11:52,486
 問題是，你怎麼上的起？
 Point is,
 how do you afford it,
 
-138
+144
 00:11:53,357 --> 00:11:57,817
 靠獎學金和老鄉
 努力賣玉米？
@@ -912,85 +930,85 @@ even with the student aid
 and the folks back home
 hustlin' corn nuts?
 
-139
+145
 00:11:59,497 --> 00:12:02,694
 我還得了
 「年輕美國之光」獎學金
 I won a Young American
 merit scholarship.
 
-140
+146
 00:12:03,167 --> 00:12:04,498
 哇！
 Hoo-ah!
 
-141
+147
 00:12:06,637 --> 00:12:10,630
 榮耀，榮耀屬我主！
 Glory, glory
 Hallelujah
 
-142
+148
 00:12:10,708 --> 00:12:14,644
 榮耀，榮耀屬我主！
 Glory, glory
 Hallelujah
 
-143
+149
 00:12:18,649 --> 00:12:19,377
 是誰？
 Who's there?
 
-144
+150
 00:12:20,518 --> 00:12:22,042
 那小不點？
 That little
 piece of tail?
 
-145
+151
 00:12:25,456 --> 00:12:26,787
 叫她走開！
 Get her outta here!
 Yeah.
 
-146
+152
 00:12:39,070 --> 00:12:40,731
 竟然是我們家的種！
 Can't believe
 they're my blood.
 
-147
+153
 00:12:46,343 --> 00:12:49,676
 懶鬼的智商
 妖精般的禮貌
 IQ of sloths and
 the manners of banshees.
 
-148
+154
 00:12:50,414 --> 00:12:52,405
 她爹是技工，她娘是管家
 He's a mechanic,
 she's a homemaker.
 
-149
+155
 00:12:52,950 --> 00:12:55,282
 他很懂車…
 He knows as much about cars
 as a beauty queen,
 
-150
+156
 00:12:55,352 --> 00:12:58,344
 而她烤的餅乾脆又香
 and she bakes cookies,
 taste like wing nuts.
 
-151
+157
 00:12:59,156 --> 00:13:02,148
 生的孩子，卻是白癡
 As for the tots,
 they're twits.
 
-152
+158
 00:13:02,827 --> 00:13:05,421
 你的皮膚如何？
 我的助理要能站得出去
@@ -998,13 +1016,13 @@ How's your skin, son?
 I like my aides
 to be presentable.
 
-153
+159
 00:13:08,966 --> 00:13:13,096
 嗯，我有幾顆青春痘…
 Well, I...
 I've had a few zits.
 
-154
+160
 00:13:13,971 --> 00:13:17,907
 我室友借我保養霜
 他是…
@@ -1014,71 +1032,71 @@ because he's from
 Chestnut Hill
 and he's got...
 
-155
+161
 00:13:18,042 --> 00:13:20,169
 「我的皮膚史」
 查理西門著
 "The History of My Skin,"
 by Charles Simms.
 
-156
+162
 00:13:22,246 --> 00:13:23,577
 你在唬我？
 You patronizing me,
 peewee? Hmm?
 
-157
+163
 00:13:25,583 --> 00:13:28,450
 名校的那套馬屁功？
 You givin' me
 that old prep school
 palaver?
 
-158
+164
 00:13:29,587 --> 00:13:30,713
 博德學院
 Baird School!
 
-159
+165
 00:13:32,456 --> 00:13:35,857
 流著鼻涕
 穿蘇格蘭呢的小鬼
 A bunch of runny-nosed
 snots in tweed jackets
 
-160
+166
 00:13:35,926 --> 00:13:38,258
 個個想當喬治布希
 all studyin'
 to be George Bush.
 Well...
 
-161
+167
 00:13:42,333 --> 00:13:45,325
 布希總統念的是
 安多佛學院吧
 I believe President Bush
 went to Andover, Colonel.
 
-162
+168
 00:13:49,073 --> 00:13:50,734
 你挑我毛病？
 You sharpshootin'
 me, punk?
 
-163
+169
 00:13:52,476 --> 00:13:53,807
 是不是？
 Is that what
 you're doin'?
 
-164
+170
 00:13:55,479 --> 00:13:57,470
 少對我「雞蛋裡挑骨頭」
 Don't you
 sharpshoot me.
 
-165
+171
 00:13:57,815 --> 00:14:02,149
 先做四十下伏地挺身
 再四十
@@ -1086,20 +1104,20 @@ You'll give me 40.
 Then you're gonna give me
 40 more.
 
-166
+172
 00:14:02,753 --> 00:14:06,018
 然後就以為能當重任了？
 Then you're gonna
 pull K.P.,
 the grease pit!
 
-167
+173
 00:14:06,757 --> 00:14:10,488
 我會按著你的頭浸油槽…
 I'll rub your nose
 in enlisted men's crud
 
-168
+174
 00:14:10,561 --> 00:14:14,224
 直到你分不清方向
 明白嗎？
@@ -1108,30 +1126,33 @@ know which end is up!
 You understand?
 Yeah.
 
-169
-00:14:16,700 --> 00:14:19,967
+175
+00:14:16,700 --> 00:14:17,689
 你要什麼？
-您什麼意思？
 What do you want?
+
+176
+00:14:19,103 --> 00:14:19,967
+您什麼意思？
 What do you mean,
 what do I want?
 
-170
+177
 00:14:20,171 --> 00:14:21,638
 你所為何來
 What do you want here?
 
-171
+178
 00:14:24,375 --> 00:14:26,172
 我需要一份工作
 I want a job.
 
-172
+179
 00:14:27,044 --> 00:14:28,170
 一份工作
 A job!
 
-173
+180
 00:14:28,779 --> 00:14:32,909
 我好賺錢買機票
 回家過聖誕
@@ -1140,7 +1161,7 @@ so I can make, you know,
 my plane fare home
 for Christmas.
 
-174
+181
 00:14:34,985 --> 00:14:37,977
 好，真令人感動
 Oh, God,
@@ -1153,35 +1174,35 @@ Till the riverboat gambler
 Went off to make a killin'
 And bring it on back to you
 
-175
+182
 00:15:12,957 --> 00:15:14,424
 你還沒走，哭窮鬼？
 Still here, poormouth?
 Hmm?
 
-176
+183
 00:15:17,695 --> 00:15:20,687
 便利商店？我的媽！
 Convenience store,
 my ass!
 
-177
+184
 00:15:22,032 --> 00:15:26,025
 忙著給老鄉拌調味醬
 Hustlin' jalapeno dips
 to the appleseeds.
 
-178
+185
 00:15:27,238 --> 00:15:28,227
 去吧
 Go on.
 
-179
+186
 00:15:29,573 --> 00:15:30,904
 解散
 Dismissed.
 
-180
+187
 00:15:34,245 --> 00:15:35,576
 解散！
 Dismissed!
@@ -1189,14 +1210,14 @@ Evangeline
 Evangeline
 Mrs. Rossi?
 
-181
+188
 00:15:51,992 --> 00:15:54,649
 查理，我們在這兒呢
 上來吧
 Charlie, we're up here!
 Come on up.
 
-182
+189
 00:15:57,464 --> 00:15:59,125
 這是唐尼
 嗨，查理
@@ -1204,21 +1225,24 @@ This is Donny.
 Hey, Charlie.
 Hi.
 
-183
-00:16:01,468 --> 00:16:06,536
+190
+00:16:01,468 --> 00:16:04,528
 羅絲太太，我搞砸了
-不會啦
 Mrs. Rossi, I got
 the feelin' I screwed up.
+
+191
+00:16:05,672 --> 00:16:06,536
+不會啦
 Oh, you couldn't have.
 
-184
+192
 00:16:07,073 --> 00:16:08,335
 面試一團糟
 It was a
 bad interview.
 
-185
+193
 00:16:08,475 --> 00:16:13,071
 什麼面試？
 只有你來應徵而已
@@ -1228,7 +1252,7 @@ You're the only
 one that showed up.
 You have to take the job.
 
-186
+194
 00:16:13,880 --> 00:16:18,675
 他睡的多
 你可以看電視
@@ -1237,48 +1261,54 @@ He sleeps a lot. You can
 watch television,
 call your girlfriend.
 
-187
-00:16:18,952 --> 00:16:24,556
+195
+00:16:18,952 --> 00:16:20,749
 輕輕鬆鬆賺三百塊錢
-我可不覺得輕鬆
 I promise you,
 an easy 300 bucks.
+
+196
+00:16:23,089 --> 00:16:24,556
+我可不覺得輕鬆
 I don't get
 an easy feeling.
 
-188
+197
 00:16:28,361 --> 00:16:30,352
 他只是會吼而已
 His bark is worse
 than his bite.
 
-189
+198
 00:16:31,565 --> 00:16:34,762
 以前他是大戰英雄
 He was a great soldier,
 a real hero.
 
-190
+199
 00:16:36,770 --> 00:16:38,032
 能交心的那種人
 The man grows on you.
 
-191
-00:16:38,505 --> 00:16:40,302
+200
+00:16:38,505 --> 00:16:44,576
 星期天你們就成哥兒們了
 拜託，查理
-我和唐尼想去
-叔叔卻不想
 By Sunday night,
 you'll be best friends.
 Charlie, please.
+
+201
+00:16:45,979 --> 00:16:49,437
+我和唐尼想去
+叔叔卻不想
 I want to get
 away with my husband
 for a few days,
 and Uncle Frank
 won't come with us.
 
-192
+202
 00:16:50,784 --> 00:16:54,777
 六個月前他還看的見光
 現在什麼都看不見了
@@ -1287,19 +1317,19 @@ he could sometimes tell
 light from dark,
 but now there's nothing.
 
-193
+203
 00:16:55,589 --> 00:16:58,581
 有人陪他，我比較放心
 I just feel better
 having someone else
 around just in case.
 
-194
+204
 00:17:05,198 --> 00:17:06,187
 拜託？
 Please?
 
-195
+205
 00:17:09,870 --> 00:17:12,202
 好吧，羅絲太太
 謝謝你，查理
@@ -1309,30 +1339,30 @@ Thank you, Charlie.
 Come here, you.
 There you go.
 
-196
+206
 00:17:26,686 --> 00:17:28,347
 小查！等等！
 Chas. Chas, hold up.
 
-197
+207
 00:17:30,957 --> 00:17:32,618
 你好嗎
 好
 How you doin'?
 I'm good.
 
-198
+208
 00:17:32,692 --> 00:17:33,681
 那好
 That's great.
 
-199
+209
 00:17:34,694 --> 00:17:36,821
 這本不能借，是參考書
 This can't go out.
 This is on reserve.
 
-200
+210
 00:17:40,433 --> 00:17:41,422
 老實說吧
 不K這本
@@ -1343,7 +1373,7 @@ for a Thanksgiving quiz
 with big-shit Preston
 in the morning.
 
-201
+211
 00:17:49,042 --> 00:17:50,839
 我知道
 所以他才不准書外借
@@ -1351,12 +1381,12 @@ Yeah, I know.
 That's why he
 put it on reserve.
 
-202
+212
 00:17:50,911 --> 00:17:52,105
 館裡只有一本
 This is our only copy.
 
-203
+213
 00:17:52,178 --> 00:18:02,988
 今晚我要熬夜
 沒這本書就死定了
@@ -1369,7 +1399,7 @@ If it's not back
 by 7:30, it's gonna
 be my ass.
 
-204
+214
 00:18:03,089 --> 00:18:05,080
 沒問題
 Oh, I promise.
@@ -1377,90 +1407,93 @@ I promise.
 Got it?
 Yeah.
 
-205
+215
 00:18:30,750 --> 00:18:32,081
 等等，我得鎖門
 Just a second.
 I gotta lock up.
 Okay.
 
-206
+216
 00:18:40,493 --> 00:18:42,427
 真等不及放假走人了！
 God, can you wait
 to get out of this
 dump or what?
 
-207
+217
 00:18:48,902 --> 00:18:51,370
 你要去哪？「甘蔗包」？
 Where you guys
 going skiing again?
 Sugarloaf or...
 
-208
+218
 00:18:51,438 --> 00:18:53,565
 是「甘蔗叢」，小查
 It's bush, Chas,
 Sugarbush.
 
-209
+219
 00:19:03,783 --> 00:19:06,843
 嘿，我哥兒們哪！
 你們在幹嘛？
-小聲點！明早再報告
 That's my boys.
 What are you doin'?
+
+220
+00:19:08,121 --> 00:19:12,148
+小聲點！明早再報告
 Keep your voice down!
 I'll tell you about it
 in the morning.
 What...
 
-210
+221
 00:19:17,864 --> 00:19:19,456
 杭賽克太太，您好！
 Mrs. Hunsaker,
 have a nice day?
 
-211
+222
 00:19:19,532 --> 00:19:20,863
 大呼小叫些什麼
 George, why
 all the noise?
 
-212
+223
 00:19:22,869 --> 00:19:24,996
 是杭賽克！快走
 It's Hunsaker! Go! Go!
 
-213
+224
 00:19:25,739 --> 00:19:27,798
 和小查胡鬧罷了！
 I was just
 messin' around with Chas.
 
-214
+225
 00:19:27,874 --> 00:19:29,671
 你好，查理
 你好
 Good evening, Charles.
 Hi, Mrs. Hunsaker.
 
-215
+226
 00:19:36,282 --> 00:19:38,273
 什麼聲音？
 不知道啊
 What was that?
 I don't know, ma'am.
 
-216
+227
 00:19:38,885 --> 00:19:40,477
 什麼人在那兒啊
 天曉得
 Who were
 those boys?
 
-217
+228
 00:19:40,553 --> 00:19:43,021
 他們在幹嘛？查理？
 Oh, who knows?
@@ -1468,7 +1501,7 @@ What were they doing?
 Charles?
 Um...
 
-218
+229
 00:19:45,759 --> 00:19:49,092
 您自己織的圍巾嗎？
 不，買的
@@ -1477,7 +1510,7 @@ scarf yourself?
 No, George,
 I bought it.
 
-219
+230
 00:19:49,162 --> 00:19:51,892
 是嗎？真是漂亮呆了！
 謝了
@@ -1485,7 +1518,7 @@ I bought it.
 It really is.
 Thank you, George.
 
-220
+231
 00:19:52,165 --> 00:19:54,827
 感恩節前
 恐怕再見不到你了…
@@ -1493,7 +1526,7 @@ In case I don't
 see you before
 the Thanksgiving holidays,
 
-221
+232
 00:19:55,368 --> 00:19:58,496
 何不給我抱抱？
 抱一個嘛
@@ -1502,7 +1535,7 @@ one of your big hugs?
 Oh, George!
 Please?
 
-222
+233
 00:19:58,571 --> 00:20:00,562
 晚安，男士們
 抱一個嘛
@@ -1511,107 +1544,107 @@ Come on.
 Goodbye,
 Mrs. Hunsaker.
 
-223
+234
 00:20:23,363 --> 00:20:26,025
 垂斯克先生
 是大無畏的領導
 Mr. Trask is our
 fearless leader,
 
-224
+235
 00:20:27,634 --> 00:20:30,432
 好學不倦，囫圇吞棗
 a man of learning,
 a voracious reader.
 
-225
+236
 00:20:32,238 --> 00:20:35,036
 能用希腦古文背誦
 《伊里亞德》
 He could recite the lliad
 in ancient Greek
 
-226
+237
 00:20:36,209 --> 00:20:39,542
 還邊在怒溪邊垂釣鱒魚
 while fishing for trout
 in a rippling creek.
 
-227
+238
 00:20:40,847 --> 00:20:44,713
 滿腹經書
 料事如神
 Endowed with wisdom,
 of judgment sound,
 
-228
+239
 00:20:45,518 --> 00:20:49,181
 然而，有一小小疑問
 nevertheless about him
 the questions abound.
 
-229
+240
 00:20:55,195 --> 00:20:58,858
 垂斯克先生何德何能？
 How does Mr. Trask
 make such wonderful deals?
 
-230
+241
 00:20:59,332 --> 00:21:02,995
 迷得董事會送他積架跑車？
 Why did the trustees
 buy him Jaguar wheels?
 
-231
+242
 00:21:04,003 --> 00:21:05,595
 他不奉承
 He wasn't conniving.
 
-232
+243
 00:21:06,272 --> 00:21:08,069
 更不愚昧
 He wasn't crass.
 
-233
+244
 00:21:08,408 --> 00:21:10,467
 只是噘起小嘴
 He merely
 puckered his lips
 
-234
+245
 00:21:13,680 --> 00:21:16,012
 舔他們的屁股
 and kissed their ass!
 
-235
+246
 00:21:34,033 --> 00:21:35,022
 來啊
 Come on.
 
-236
+247
 00:21:35,835 --> 00:21:36,563
 再跳
 Come on.
 
-237
+248
 00:21:41,774 --> 00:21:43,901
 再跳一個
 One more.
 One more, come on!
 
-238
+249
 00:22:03,863 --> 00:22:04,852
 你媽的！
 Fuck you!
 
-239
+250
 00:22:12,205 --> 00:22:13,536
 西門先生
 威利斯先生
 Mr. Simms, Mr. Willis.
 Hmm.
 
-240
+251
 00:22:18,811 --> 00:22:22,872
 杭賽克太太說
 昨晚你們都在現場
@@ -1620,7 +1653,7 @@ that you gentlemen
 were at a vantage
 point last night
 
-241
+252
 00:22:22,949 --> 00:22:25,213
 也曾親眼目擊…
 該負責的人士
@@ -1628,56 +1661,56 @@ to observe who was
 responsible for this
 stunt.
 
-242
+253
 00:22:34,827 --> 00:22:35,623
 是誰？
 Who was it?
 
-243
+254
 00:22:37,230 --> 00:22:39,221
 我真的無可奉告，先生
 I really couldn't
 tell you, sir.
 
-244
+255
 00:22:40,967 --> 00:22:43,435
 我確實看到有人在路燈那兒
 I thought I saw
 someone fooling
 with the lamppost,
 
-245
+256
 00:22:44,170 --> 00:22:47,970
 但再仔細一看，人卻跑了
 but by the time
 I pulled focus,
 they were gone.
 
-246
+257
 00:22:49,509 --> 00:22:50,373
 西門先生呢？
 Mr. Simms?
 
-247
+258
 00:22:52,645 --> 00:22:53,976
 無可奉告
 I couldn't say.
 
-248
+259
 00:22:56,516 --> 00:23:00,384
 那積架不是我的財產
 That automobile
 is not just a
 possession of mine.
 
-249
+260
 00:23:00,453 --> 00:23:05,117
 那是董事會交託給我的
 That automobile was
 presented to me by
 the board of trustees.
 
-250
+261
 00:23:05,391 --> 00:23:10,727
 代表著本校著名的卓越成就
 It is a symbol of
@@ -1686,62 +1719,62 @@ excellence
 for which this
 school is known,
 
-251
+262
 00:23:10,797 --> 00:23:13,595
 我絕不使此精神蒙羞
 and I will not
 have it tarnished.
 
-252
+263
 00:23:14,467 --> 00:23:15,456
 那車嗎？
 The automobile?
 
-253
+264
 00:23:17,870 --> 00:23:19,804
 我說的是標準
 The standard,
 Mr. Willis.
 
-254
+265
 00:23:23,609 --> 00:23:25,270
 你怎麼說，西門先生？
 What's your position,
 Mr. Simms?
 
-255
+266
 00:23:26,512 --> 00:23:27,501
 關於哪方面，先生？
 On what, sir?
 
-256
+267
 00:23:27,747 --> 00:23:29,806
 護衛博德的名譽
 On preserving the
 reputation of Baird.
 
-257
+268
 00:23:30,283 --> 00:23:31,614
 我絕對支持
 I'm for Baird.
 
-258
+269
 00:23:32,485 --> 00:23:33,679
 那是誰幹的？
 Then, who did it?
 
-259
+270
 00:23:35,555 --> 00:23:37,079
 我不確定
 I really
 couldn't say for sure.
 
-260
+271
 00:23:43,296 --> 00:23:44,285
 很好
 Very well.
 
-261
+272
 00:23:52,108 --> 00:23:56,909
 星期一師生委員會要開會
 First thing Monday,
@@ -1750,7 +1783,7 @@ a special session
 of the student-faculty
 disciplinary committee.
 
-262
+273
 00:23:56,980 --> 00:24:02,714
 既然此事件關乎全校
 全體學生都要出席
@@ -1760,101 +1793,104 @@ the whole school,
 the entire student body
 will be present.
 
-263
+274
 00:24:02,786 --> 00:24:05,448
 當天不上課、不舉行活動
 There will be
 no classes,
 no activities.
 
-264
+275
 00:24:05,555 --> 00:24:07,682
 一切取消
 Nothing will
 transpire at
 this institution
 
-265
+276
 00:24:08,058 --> 00:24:10,652
 直到判決確認
 until that proceeding
 is concluded.
 
-266
+277
 00:24:13,196 --> 00:24:16,188
 如果屆時沒有任何進展
 And if, at that time,
 we are no further
 along than we are now,
 
-267
+278
 00:24:18,602 --> 00:24:20,126
 兩位就被開除
 I will expel you both.
 
-268
+279
 00:24:25,742 --> 00:24:28,540
 威利斯先生，請先離開
 Mr. Willis,
 would you excuse us?
 
-269
+280
 00:24:32,949 --> 00:24:33,881
 感恩節快樂
 Have a nice Thanksgiving.
 
-270
+281
 00:24:36,353 --> 00:24:37,684
 你也一樣，威利斯先生
 Thank you.
 You, too, Mr. Willis.
 
-271
+282
 00:24:37,887 --> 00:24:38,876
 我會的
 I will.
 
-272
+283
 00:24:46,963 --> 00:24:48,294
 西門先生
 Mr. Simms,
 
-273
+284
 00:24:50,767 --> 00:24:52,894
 我的話還沒說完
 I'm not quite through
 with you yet.
 
-274
-00:25:01,778 --> 00:25:09,976
+285
+00:25:01,778 --> 00:25:05,111
 本職位的好處之一是
-我有權決定一些校務
 One of the few perks
 of this office is that
+
+286
+00:25:05,448 --> 00:25:09,976
+我有權決定一些校務
 I am empowered to handle
 certain matters on
 my own as I see fit.
 
-275
+287
 00:25:11,488 --> 00:25:12,477
 明白嗎？
 Do you understand?
 
-276
+288
 00:25:13,323 --> 00:25:14,654
 是的，先生
 很好
 Yes, sir.
 Good.
 
-277
+289
 00:25:15,191 --> 00:25:17,989
 我和哈佛大學正在談合作
 The Dean of
 Admissions at Harvard
 and I have an arrangement.
 
-278
+290
 00:25:18,528 --> 00:25:23,261
 除了一般博德申請學生
 Along with the usual
@@ -1862,7 +1898,7 @@ sheaf of applicants
 submitted by Baird,
 of which virtually
 
-279
+291
 00:25:24,000 --> 00:25:29,666
 會有三分之二被錄取外
 我能再加一名
@@ -1870,14 +1906,14 @@ two-thirds are
 guaranteed admittance,
 I add one name,
 
-280
+292
 00:25:31,207 --> 00:25:35,007
 一名優秀
 但環境不好的學生
 somebody who's a standout
 and yet underprivileged.
 
-281
+293
 00:25:36,146 --> 00:25:40,276
 一名付不起
 劍橋學雜費的學生
@@ -1886,57 +1922,57 @@ cannot afford to pay
 the board and
 tuition in Cambridge.
 
-282
+294
 00:25:42,886 --> 00:25:46,481
 你知道今年被提名的人
 是誰嗎？
 Do you know on whose behalf
 I drafted a memo this year?
 
-283
+295
 00:25:47,524 --> 00:25:48,183
 不知道
 No, sir.
 
-284
+296
 00:25:48,825 --> 00:25:49,484
 你
 You.
 
-285
+297
 00:25:50,960 --> 00:25:52,018
 你，西門先生
 You, Mr. Simms.
 
-286
+298
 00:25:55,699 --> 00:25:57,564
 現在你總該告訴我
 是誰幹的吧？
 Now can you tell me
 who did it?
 
-287
+299
 00:26:00,570 --> 00:26:01,696
 不，先生，我不能
 No, sir, I can't.
 
-288
+300
 00:26:03,373 --> 00:26:06,035
 週末想清楚再說
 You take the weekend
 to think about it, Mr. Simms.
 
-289
+301
 00:26:08,712 --> 00:26:09,701
 再會
 Good afternoon.
 
-290
+302
 00:26:13,717 --> 00:26:14,581
 他說什麼？
 What'd he say?
 
-291
+303
 00:26:15,518 --> 00:26:17,179
 沒什麼
 什麼意思？
@@ -1944,138 +1980,138 @@ Nothin'.
 What do you
 mean, nothing?
 
-292
+304
 00:26:17,654 --> 00:26:19,986
 重講一遍對我們講的話
 He said the
 same thing.
-He just said
-it over.
 
-293
+305
 00:26:20,190 --> 00:26:25,184
 你知道他在幹嘛？
 在搞分化啊！
+He just said
+it over.
 You know what
 he's doing?
 He's good-cop,
 bad-coppin' us.
 
-294
+306
 00:26:25,528 --> 00:26:27,792
 我是主流，你是非主流
 He knows I'm old guard.
 You're fringe.
 
-295
+307
 00:26:27,864 --> 00:26:30,526
 他要打壓我，再哄騙你
 He's gonna bear down on me
 and soft-soap you.
 
-296
+308
 00:26:31,868 --> 00:26:35,201
 他有沒有哄你？有沒有？
 Did he try to
 soft-soap you?
 Did he?
 
-297
+309
 00:26:36,673 --> 00:26:37,332
 沒有
 No.
 
-298
+310
 00:26:38,942 --> 00:26:41,604
 顯然你嚇壞了，有沒有？
 Chas, I detect a slight
 panic pulse from you.
 Are you panicking?
 
-299
+311
 00:26:42,078 --> 00:26:43,067
 一點點
 Yeah, a little.
 
-300
+312
 00:26:43,546 --> 00:26:45,878
 別慌，你拿獎學金的對吧？
 Come on.
 You're on
 scholarship, right?
-Yeah.
 
-301
+313
 00:26:48,017 --> 00:26:51,350
 你拿獎學金從奧勒岡來博德
+Yeah.
 You're on scholarship
 from Oregon at Baird.
 
-302
+314
 00:26:52,555 --> 00:26:54,614
 離家可是幾百哩，小查
 You're a long way
 from home, Chas.
 
-303
+315
 00:26:55,625 --> 00:26:57,286
 什麼意思？
 What's that got
 to do with anything?
 
-304
+316
 00:26:58,161 --> 00:27:00,152
 我不知道你們那兒的習慣…
 I don't know how
 it works out there.
 
-305
+317
 00:27:00,497 --> 00:27:03,159
 在這兒，我們很團結
 But how it
 works here?
 We stick together.
 
-306
+318
 00:27:04,167 --> 00:27:05,964
 我們對他們，絕不變卦
 It's us against them,
 no matter what.
 
-307
+319
 00:27:06,569 --> 00:27:10,232
 既不出賣朋友
 也不告訴父母
 We don't cover our ass.
 We don't tell our parents.
 
-308
+320
 00:27:10,507 --> 00:27:12,372
 個個守口如瓶
 Stonewall everybody!
 
-309
+321
 00:27:13,376 --> 00:27:14,434
 最重要的是…
 And above all,
 
-310
+322
 00:27:15,178 --> 00:27:17,373
 絕對、絕對…
 never, ever
 
-311
+323
 00:27:18,114 --> 00:27:21,106
 不能背棄任何一個哥兒們
 leave any of us
 twisting in the wind.
 
-312
+324
 00:27:23,052 --> 00:27:24,041
 就這樣
 And that's it.
 
-313
+325
 00:27:24,854 --> 00:27:27,516
 這些和我拿獎學金
 有關係嗎？
@@ -2084,19 +2120,19 @@ to do with me being
 on scholarship?
 Hey, hey.
 
-314
+326
 00:27:29,793 --> 00:27:32,125
 我只是把情況分析給你聽
 I'm just tryin' to
 bring you up to speed,
 kid, that's it.
 
-315
+327
 00:27:33,263 --> 00:27:34,059
 謝了
 Thanks.
 
-316
+328
 00:27:37,734 --> 00:27:41,397
 這樣吧
 給我幾小時想對策
@@ -2104,13 +2140,13 @@ I'll tell you what.
 Give me a few hours
 to figure out the moves,
 
-317
+329
 00:27:42,071 --> 00:27:43,732
 然後打到維州找我
 and call me tonight
 in Vermont.
 
-318
+330
 00:27:45,542 --> 00:27:48,875
 我都在「甘蔗叢」別墅
 好嗎？
@@ -2118,29 +2154,29 @@ I'll be at
 the Sugarbush lodge,
 all right?
 
-319
+331
 00:27:48,945 --> 00:27:49,604
 好吧
 All right.
 
-320
+332
 00:27:51,481 --> 00:27:52,470
 你還好吧？
 You all right?
 
-321
+333
 00:27:54,017 --> 00:27:55,348
 過得去吧
 Yeah, I guess so.
 Okay.
 
-322
+334
 00:28:01,157 --> 00:28:03,284
 別讓他每天喝超過四杯
 Try to keep him down
 to four drinks a day.
 
-323
+335
 00:28:03,393 --> 00:28:06,191
 別讓他超過四十杯
 就不錯啦
@@ -2148,26 +2184,26 @@ If you can keep
 him down to 40,
 you're doin' good.
 
-324
+336
 00:28:06,362 --> 00:28:08,762
 你會在酒裡摻水吧？
 We try to water
 them down a little.
 Do you know how to do that?
 
-325
+337
 00:28:08,832 --> 00:28:10,493
 該走了，親愛的
 It's a long ride,
 honey.
 
-326
+338
 00:28:11,634 --> 00:28:13,295
 先搬行李吧，我馬上來
 Get the bags in the car.
 I'll be right out.
 
-327
+339
 00:28:13,369 --> 00:28:26,048
 媽咪，別忘了叔公要散步
 你每天要帶他出去透透氣
@@ -2178,14 +2214,14 @@ Oh, yeah.
 You have to air him
 out a little every day.
 
-328
+340
 00:28:28,051 --> 00:28:30,042
 你要不要先回他那兒
 Why don't you
 go on back there,
 get yourself oriented?
 
-329
+341
 00:28:30,119 --> 00:28:33,111
 我馬上過來
 給你聯絡電話號碼
@@ -2193,20 +2229,20 @@ I'll come out in a minute,
 give you telephone
 numbers and stuff.
 
-330
+342
 00:28:36,059 --> 00:28:39,392
 我絕不會貿然動作的
 Well, I wouldn't
 try a thing like that
 unless I knew, would I?
 
-331
+343
 00:28:40,129 --> 00:28:41,323
 我來跟她說吧
 Just let me
 speak to her.
 
-332
+344
 00:28:42,332 --> 00:28:46,530
 嗨，美人，是你嗎？
 昨天我們講過話
@@ -2215,7 +2251,7 @@ Is that you?
 Yeah,
 we spoke yesterday.
 
-333
+345
 00:28:49,138 --> 00:28:51,606
 午飯喝酒了嗎？
 聲音好有磁性
@@ -2224,18 +2260,18 @@ of wine with lunch?
 You sound
 a little dusky. Hmm.
 
-334
+346
 00:28:55,278 --> 00:28:56,677
 等一下，甜心
 Just a minute,
 sweetheart.
 
-335
+347
 00:28:58,948 --> 00:28:59,937
 你回來了？
 You're back, huh?
 
-336
+348
 00:29:01,551 --> 00:29:06,219
 死硬派
 取我的藍制服…
@@ -2245,7 +2281,7 @@ Get out my dress blues.
 They're in a garment bag
 in the closet.
 
-337
+349
 00:29:06,289 --> 00:29:10,749
 肩章在梳妝台上…
 扣上去
@@ -2257,38 +2293,38 @@ and affix them,
 shoulders
 right and left,
 
-338
+350
 00:29:11,160 --> 00:29:13,628
 盡快，立刻！
 ASAP. That means now.
 
-339
+351
 00:29:14,898 --> 00:29:18,231
 抱歉害你久等
 Hello.
 Sorry to keep you
 waiting, sweetheart.
 
-340
+352
 00:29:19,435 --> 00:29:21,960
 我不喜歡催人…
 I'm not the kind of guy
 who likes to rush things,
 
-341
+353
 00:29:22,038 --> 00:29:24,768
 但是我要坐四點的飛機…
 but I'm catchin'
 a 4:00 at Logan,
 I'm lookin' out my window,
 
-342
+354
 00:29:24,841 --> 00:29:26,832
 現在連輛禮車也沒看到
 and there's
 not a taxi in sight.
 
-343
+355
 00:29:28,177 --> 00:29:34,915
 傑特還捨不得投資
 買無線電嗎
@@ -2300,14 +2336,14 @@ in a radio yet?
 Hah! Well,
 get your driver on it.
 
-344
+356
 00:29:36,319 --> 00:29:38,310
 叫他快點
 Tell him to get
 a move on.
 Yes. Mmm.
 
-345
+357
 00:29:42,325 --> 00:29:45,522
 這等「臥室嗓音」
 配的身材一定好
@@ -2315,63 +2351,63 @@ Some kind of body
 has got to go with
 that bedroom voice.
 
-346
+358
 00:29:46,062 --> 00:29:48,394
 哪天要去好好瞧瞧
 One day I'm gonna swing by,
 get a better look at it.
 
-347
+359
 00:29:49,198 --> 00:29:49,994
 一定
 You bet.
 Bye.
 
-348
+360
 00:29:56,272 --> 00:29:59,264
 提袋在床底下，拿出來
 My Valpak's
 underneath the bed.
 Get it out.
 
-349
+361
 00:29:59,876 --> 00:30:02,208
 制服放進去
 Put the boards
 on the blues
 and fold 'em in.
 
-350
+362
 00:30:03,613 --> 00:30:05,410
 我們要去哪兒嗎，中校？
 Are we going
 someplace, Colonel?
 
-351
+363
 00:30:06,282 --> 00:30:07,749
 關你什麼事？
 What business is
 that of yours?
 
-352
+364
 00:30:08,618 --> 00:30:10,609
 別聳肩，小子，我看不見
 Don't shrug, imbecile.
 I'm blind.
 
-353
+365
 00:30:10,687 --> 00:30:13,087
 「身體語言」留給小妞兒們吧
 Save your body language
 for the bimbi.
 
-354
+366
 00:30:13,890 --> 00:30:15,551
 快去整理我的行李
 Now, get my gear out.
 Francine, get in the car.
 
-355
+367
 00:30:19,495 --> 00:30:23,226
 快三點了
 原始人還沒出洞呢
@@ -2381,113 +2417,116 @@ haven't left yet.
 Willie Rossi
 must go in the car.
 
-356
+368
 00:30:28,638 --> 00:30:29,969
 羅絲太太來了
 Here comes
 Mrs. Rossi now.
 
-357
+369
 00:30:30,239 --> 00:30:30,967
 媽的！
 Damn it!
 
-358
+370
 00:30:32,308 --> 00:30:34,503
 今天她已經道別三次了
 She said goodbye to me
 three times today.
 
-359
+371
 00:30:35,778 --> 00:30:37,837
 怎麼搞的？
 她有分離焦慮症？
 What has she got,
 separation anxiety?
 
-360
+372
 00:30:38,181 --> 00:30:39,648
 別讓她進門
 Cut her off
 at the door.
 
-361
+373
 00:30:42,852 --> 00:30:44,649
 嗨，親愛的，拜拜，親愛的
 Hi, honey.
 Bye, honey.
 
-362
+374
 00:30:49,018 --> 00:30:50,007
 真希望你一起去
 I wish you were
 coming with us.
 
-363
+375
 00:30:51,287 --> 00:30:53,482
 我也希望，下次吧
 Me, too.
 Maybe next time.
 
-364
-00:30:58,828 --> 00:31:05,097
+376
+00:30:58,828 --> 00:30:59,886
 小心開車
-我們會在這裡
 Drive carefully now.
 Yeah.
+
+377
+00:31:03,766 --> 00:31:05,097
+我們會在這裡
 Charlie, this is
 where we'll be.
 
-365
+378
 00:31:06,769 --> 00:31:09,363
 祝好運，別讓他喝太多
 Good luck, Charlie.
 Don't let him
 drink too much.
 
-366
+379
 00:31:13,776 --> 00:31:14,765
 再見，查理
 See you, Charlie.
 
-367
+380
 00:31:16,112 --> 00:31:19,240
 別讓他打色情專線
 他喜歡講髒話
 And no 000 numbers.
 He loves to talk dirty.
 
-368
+381
 00:31:27,457 --> 00:31:28,788
 開始工作吧
 All right,
 let's get to work.
 
-369
+382
 00:31:38,735 --> 00:31:40,259
 不會扣那個？
 L- buckles
 givin' you trouble?
 
-370
+383
 00:31:42,672 --> 00:31:44,333
 沒參加過童子軍
 小帥哥？
 Never in the
 Boy Scouts, sluggo?
 
-371
+384
 00:31:45,007 --> 00:31:46,668
 我是童子軍新手
 I made Tenderfoot.
 
-372
+385
 00:31:46,743 --> 00:31:48,142
 新手、新腳
 Tenderfoot,
 my foot!
 
-373
+386
 00:31:48,811 --> 00:31:52,611
 便利店媽咪的寶寶
 我來看看
@@ -2497,7 +2536,7 @@ Here. Let me
 take a look
 at that.
 
-374
+387
 00:31:53,950 --> 00:31:57,147
 敢再碰我我就宰你
 小雜種
@@ -2505,57 +2544,60 @@ Touch me again,
 I'll kill you,
 you little son of a bitch!
 
-375
+388
 00:31:58,621 --> 00:32:00,145
 只有我能碰你
 I touch you.
 
-376
+389
 00:32:02,158 --> 00:32:03,147
 懂嗎？
 Understand?
 
-377
+390
 00:32:05,828 --> 00:32:09,821
 肩章在最上一格，快去拿
 My shoulder boards are
 in the top dresser drawer.
 Get them, son.
 
-378
+391
 00:32:10,500 --> 00:32:12,491
 有銀橡樹葉的那對
-是這些…？
 The epaulets with
 the silver oak leaf.
+
+392
+00:32:30,319 --> 00:32:32,583
+是這些…？
 Are these the...
 
-379
+393
 00:32:32,655 --> 00:32:34,452
 對，車還沒來？
 Good.
 Taxi come yet?
 
-380
+394
 00:32:35,925 --> 00:32:37,256
 中校，我們去哪裡？
 Colonel,
 where are we going?
 
-381
+395
 00:32:38,394 --> 00:32:41,727
 去哪裡？去看畸形人展
 Where are we going?
 Freak show central.
 
-382
+396
 00:32:42,799 --> 00:32:44,722
 在哪裡？
 紐約市
 Where's that?
 New York City.
 
-383
+397
 00:32:47,603 --> 00:32:50,128
 在紐約州
 羅絲太太沒告訴我
@@ -2565,12 +2607,12 @@ Mrs. Rossi didn't say
 anything to me
 about going anywhere.
 
-384
+398
 00:32:54,010 --> 00:32:54,999
 她忘了
 She forgot.
 
-385
+399
 00:32:56,879 --> 00:33:00,474
 要不要打給她…
 你開玩笑啊！
@@ -2578,7 +2620,7 @@ Should we call her,
 'cause I...
 You kidding me?
 
-386
+400
 00:33:00,550 --> 00:33:03,815
 他們開著那小破車到阿伯尼時
 Call her? By the time
@@ -2586,36 +2628,36 @@ they get to Albany
 in that Hupmobile
 he drives
 
-387
+401
 00:33:03,886 --> 00:33:06,548
 大賽馬早開幕了
 it'll be opening day
 at Saratoga.
 
-388
+402
 00:33:06,622 --> 00:33:08,283
 我不能去紐約市
 Colonel, I can't go
 to New York City.
 
-389
+403
 00:33:08,357 --> 00:33:09,346
 為什麼不能？
 Why not?
 
-390
+404
 00:33:10,827 --> 00:33:14,354
 責任太大
 New York...
 New York's too
 much responsibility.
 
-391
+405
 00:33:14,430 --> 00:33:16,295
 算了吧，責任！
 Ah, responsibility!
 
-392
+406
 00:33:16,499 --> 00:33:21,692
 我排上有好多小男生
 都靠我照顧他們
@@ -2626,25 +2668,25 @@ in my first platoon.
 I took care of them.
 All set!
 
-393
+407
 00:33:24,040 --> 00:33:25,234
 我看起來如何？
 How do I look?
 
-394
+408
 00:33:27,176 --> 00:33:30,634
 機票，錢，演講稿
 Tickets. Money.
 Speech.
 
-395
+409
 00:33:31,514 --> 00:33:34,642
 老笑話一則
 詹森時代流行的
 Old Washington joke
 from my days with Lyndon.
 
-396
+410
 00:33:37,253 --> 00:33:40,245
 我就知道能信得過交通車
 你好了？
@@ -2652,14 +2694,14 @@ I knew I could
 count on transportation.
 Are you ready?
 
-397
+411
 00:33:43,259 --> 00:33:46,057
 這兒不是板門店
 一句「是」就能成事
 This is not Panmunjom.
 A simple yes will do.
 
-398
+412
 00:33:47,396 --> 00:33:50,388
 好，拿著，動作要快
 Um...
@@ -2667,30 +2709,30 @@ Good! Here you go.
 Come on!
 Hop to, son!
 
-399
+413
 00:33:51,934 --> 00:33:53,731
 到我前面，我們走
 You're in front of me.
 Let's go.
 
-400
+414
 00:33:55,471 --> 00:33:57,063
 湯姆斯特，快來
 Tomster,
 come here, boy.
 
-401
+415
 00:33:59,342 --> 00:34:00,138
 快來
 Come on.
 
-402
+416
 00:34:00,676 --> 00:34:04,669
 湯姆斯特，湯姆斯特…
 Here, Tomster, come on.
 Tomster, Tomster. Yeah.
 
-403
+417
 00:34:06,148 --> 00:34:06,944
 記著…
 有疑問的時候…
@@ -2698,27 +2740,27 @@ Tomster, Tomster. Yeah.
 Remember, when in doubt,
 fuck.
 
-404
+418
 00:34:14,423 --> 00:34:16,618
 飛到哪兒，先生？
 Good afternoon, sir.
 Where's our destination?
 
-405
+419
 00:34:16,692 --> 00:34:20,219
 紐約市，勇者之家
 Our destination
 New York City,
 home of the brave!
 
-406
+420
 00:34:20,296 --> 00:34:21,957
 兩位普通艙飛紐約
 We got two for
 the shuttle
 to New York.
 
-407
+421
 00:34:22,031 --> 00:34:24,966
 我才不「普通」呢
 我們是頭等艙
@@ -2726,13 +2768,13 @@ I'm not shuttling anywhere.
 Look at those tickets.
 First class.
 
-408
+422
 00:34:25,034 --> 00:34:26,501
 是，頭等艙
 Yes, sir,
 first class.
 
-409
+423
 00:34:26,836 --> 00:34:30,636
 你替我買票了？
 我沒說過要去紐約啊
@@ -2742,7 +2784,7 @@ a ticket?
 I never said I'd
 go to New York.
 
-410
+424
 00:34:30,706 --> 00:34:34,506
 你是只敢照規矩做的膽小鬼？
 What are you,
@@ -2751,115 +2793,127 @@ chicken-shit,
 sticks to job
 description only?
 
-411
+425
 00:34:34,977 --> 00:34:36,171
 46號登機門，先生
 Gate 46, sir.
 
-412
+426
 00:34:36,846 --> 00:34:38,313
 謝啦，士官長
 As you were, son.
 Thank you, sir.
 
-413
+427
 00:34:39,849 --> 00:34:40,975
 門在哪裡？
 Which way's the door?
 
-414
+428
 00:34:42,585 --> 00:34:46,578
 你瞎了？你瞎了嗎？
 當然沒有
 Are you blind?
 Are you blind?
-Of course not.
 
-415
+429
 00:34:46,656 --> 00:34:49,181
 那你媽的猛抓我手幹嘛？
+Of course not.
 Then why do you keep grabbin'
 my goddamn arm?
 
-416
+430
 00:34:49,992 --> 00:34:51,983
 我才能抓你的手！
 I take your arm.
 
-417
-00:34:56,732 --> 00:35:03,463
+431
+00:34:56,732 --> 00:34:59,667
 對不起
 別對不起了，不知者無罪
-你一輩子大概都在看MTV
-好啊！
 I'm sorry.
 Don't be sorry.
+
+432
+00:34:59,735 --> 00:35:01,396
+你一輩子大概都在看MTV
 How would you know,
 watchin' MTV all your life?
+
+433
+00:35:02,405 --> 00:35:03,463
+好啊！
 Gentlemen?
 Yeah!
 
-418
+434
 00:35:06,142 --> 00:35:08,337
 傑克丹尼爾
 好！
 Jack Daniels.
 You bet.
 
-419
+435
 00:35:10,079 --> 00:35:11,546
 低卡汽水
 And Diet Slice.
 
-420
+436
 00:35:12,014 --> 00:35:13,276
 低卡汽水
 The old Diet Slice.
 
-421
-00:35:13,349 --> 00:35:26,356
+437
+00:35:13,349 --> 00:35:15,681
 再加一杯水
 謝謝你，黛芬妮
-不客氣，先生
-你怎麼知道她名字？
 And a water.
+
+438
+00:35:15,952 --> 00:35:17,078
+不客氣，先生
 Thank you,
 Daphne.
 Certainly, sir.
+
+439
+00:35:25,094 --> 00:35:26,356
+你怎麼知道她名字？
 Mmm!
 How did you
 know her name?
 
-422
+440
 00:35:28,898 --> 00:35:31,628
 嗯，她擦「芙蕾絲」
 Well, she's
 wearin' Floris.
 
-423
+441
 00:35:32,501 --> 00:35:34,093
 英國香水
 That's an
 English cologne.
 
-424
+442
 00:35:35,638 --> 00:35:38,971
 但是她又有加州腔
 But her voice is
 California chickie.
 
-425
+443
 00:35:39,709 --> 00:35:42,906
 加州小妞嚮往英國淑女
 Now, California chickie
 bucking for English lady.
 
-426
+444
 00:35:43,646 --> 00:35:44,840
 所以我叫她黛芬妮
 I call her Daphne.
 
-427
+445
 00:35:47,316 --> 00:35:51,309
 你那小玩意兒
 可能會大幹一場
@@ -2867,38 +2921,38 @@ Oh, big things may
 happen to that
 little thing of yours.
 
-428
+446
 00:35:53,322 --> 00:35:54,186
 中校…
 Look, Colonel,
 
-429
+447
 00:35:56,325 --> 00:35:57,792
 我陪你去紐約
 I'll get you to New York,
 all right?
 Uh-huh.
 
-430
+448
 00:35:58,461 --> 00:36:00,452
 然後我就立刻回來
 Then I'm gonna have
 to turn around and come back.
 
-431
+449
 00:36:02,064 --> 00:36:03,929
 做你應當做的，查兒
 Well, Chuck,
 you gotta do
 what you gotta do.
 
-432
+450
 00:36:05,201 --> 00:36:08,193
 叫我查理，或查爾斯
 Charlie, all right?
 Or Charles.
 
-433
+451
 00:36:08,537 --> 00:36:11,870
 抱歉，不能怪你
 查兒是…
@@ -2906,74 +2960,74 @@ Sorry.
 I can't blame you, though.
 Chuck is a...
 
-434
+452
 00:36:16,078 --> 00:36:17,602
 我們為什麼去紐約？
 So, why are we
 going to New York?
 
-435
+453
 00:36:18,414 --> 00:36:21,349
 不重要的事你不需要知道
 All information will be given
 on a need-to-know basis.
 Hoo-ah!
 
-436
+454
 00:36:25,287 --> 00:36:27,278
 黛芬妮呢？找她過來吧
 Where's Daphne?
 Let's get her down here.
 
-437
+455
 00:36:30,493 --> 00:36:31,551
 她在後面
 She's in the back.
 
-438
+456
 00:36:32,561 --> 00:36:34,028
 小尾巴在「尾巴」呢
 A tail's in the tail.
 Hah!
 
-439
+457
 00:36:37,633 --> 00:36:39,294
 但是我一樣聞得到她
 Oh, but I still smell her.
 
-440
+458
 00:36:43,039 --> 00:36:43,698
 女人…
 Women.
 
-441
+459
 00:36:45,574 --> 00:36:46,700
 能怎麼說呢？
 What can you say?
 
-442
+460
 00:36:48,711 --> 00:36:49,700
 誰創造她們的？
 Who made 'em?
 
-443
+461
 00:36:51,380 --> 00:36:53,371
 上帝真他媽的是天才
 God must have been
 a fuckin' genius.
 
-444
+462
 00:36:58,254 --> 00:36:59,243
 秀髮
 The hair...
 
-445
+463
 00:37:00,990 --> 00:37:02,719
 秀髮是最重要的部份
 They say the hair
 is everything, you know.
 
-446
+464
 00:37:05,261 --> 00:37:09,197
 有沒有把鼻子
 埋在一堆雲鬢中…
@@ -2981,46 +3035,46 @@ Have you ever
 buried your nose
 in a mountain of curis
 
-447
+465
 00:37:09,265 --> 00:37:12,723
 然後希望就此睡去的經驗？
 and just wanted
 to go to sleep forever?
 
-448
+466
 00:37:14,336 --> 00:37:15,928
 還有香唇
 Or lips,
 
-449
+467
 00:37:18,140 --> 00:37:20,131
 輕輕黏上你的…
 and when they touched,
 yours were like
 
-450
+468
 00:37:20,209 --> 00:37:23,667
 就像越過沙漠後
 that first swallow of wine
 
-451
+469
 00:37:23,946 --> 00:37:25,675
 喝下的第一口美酒
 after you just crossed
 the desert.
 
-452
+470
 00:37:29,952 --> 00:37:30,941
 乳房
 Tits!
 Hoo-ah.
 
-453
+471
 00:37:33,622 --> 00:37:35,954
 大的，小的…
 Big ones, little ones,
 
-454
+472
 00:37:37,159 --> 00:37:41,425
 乳頭瞪著你
 像秘密探照燈
@@ -3029,63 +3083,63 @@ right out at you
 like secret searchlights.
 Mmm.
 
-455
+473
 00:37:46,435 --> 00:37:47,424
 還有腿…
 And legs...
 
-456
+474
 00:37:49,171 --> 00:37:52,368
 不管是不是符合黃金比例
 I don't care if
 they're Greek columns
 
-457
+475
 00:37:52,575 --> 00:37:54,566
 或像二手貨的史坦威鋼琴
 or secondhand Steinways.
 
-458
+476
 00:37:56,045 --> 00:37:57,103
 兩腿中間的…
 What's between 'em,
 
-459
+477
 00:37:59,582 --> 00:38:01,243
 正是通往天堂的護照
 passport to heaven.
 
-460
+478
 00:38:03,052 --> 00:38:04,178
 我得喝一杯
 I need a drink.
 
-461
+479
 00:38:08,524 --> 00:38:10,185
 是的，西門先生
 Yes, Mr. Simms,
 
-462
+480
 00:38:11,927 --> 00:38:16,455
 這世上只有兩個字動聽…
 there's only two syllables
 in this whole wide
 world worth hearing.
 
-463
+481
 00:38:21,737 --> 00:38:22,533
 陰部
 Pussy.
 Hah!
 
-464
+482
 00:38:26,008 --> 00:38:28,533
 你有沒有在聽？
 這可是智慧結晶
 Are you listening to me, son?
 I'm givin' you pearis here.
 
-465
+483
 00:38:30,880 --> 00:38:35,544
 你真的很喜歡女人
 勝於一切
@@ -3093,28 +3147,28 @@ I guess you
 really like women.
 Oh, above all things!
 
-466
+484
 00:38:41,023 --> 00:38:44,686
 遠次於女人，排名第二的
 A very, very
 distant second
 
-467
+485
 00:38:46,562 --> 00:38:47,893
 是法拉利跑車
 is a Ferrari.
 
-468
+486
 00:38:55,574 --> 00:38:56,563
 查理
 Charlie?
 
-469
+487
 00:38:59,578 --> 00:39:00,636
 給我你的手
 Give me your hand.
 
-470
+488
 00:39:03,248 --> 00:39:05,978
 此乃你教育的開始
 「華爾道夫大飯店」
@@ -3122,28 +3176,28 @@ This is just the start
 of your education, son.
 Hoo-ah.
 
-471
+489
 00:39:23,802 --> 00:39:24,791
 我們在哪裡？
 Where are we?
 
-472
+490
 00:39:25,203 --> 00:39:26,192
 我們在哪裡？
 Where are we, eh?
 
-473
+491
 00:39:27,272 --> 00:39:30,264
 一切文明的中心
 The cynosure of
 all things civilized.
 
-474
+492
 00:39:30,609 --> 00:39:32,270
 華爾道夫大飯店
 The Waldorf-Astoria.
 
-475
+493
 00:39:33,678 --> 00:39:37,205
 上次是和布魯塞爾同事
 一起來的
@@ -3151,12 +3205,12 @@ The last time I
 was here, Charlie,
 was with a G-2 from Brussels.
 
-476
+494
 00:39:37,282 --> 00:39:38,408
 他有部法拉利
 Had a Ferrari.
 
-477
+495
 00:39:39,017 --> 00:39:43,750
 每天我都幫他開車門
 他竟然沒邀我兜過風
@@ -3166,17 +3220,17 @@ for the fucker.
 Never even
 offered me a ride.
 
-478
+496
 00:39:44,289 --> 00:39:45,278
 去他的
 Well, fuck him.
 
-479
+497
 00:39:46,358 --> 00:39:47,825
 他死了，我瞎了
 He's dead and I'm blind.
 
-480
+498
 00:39:52,364 --> 00:39:56,698
 幫我找個妞兒
 Spread the word.
@@ -3184,12 +3238,12 @@ Thank you, sir.
 And the intelligence
 will be forthcoming?
 
-481
+499
 00:39:57,168 --> 00:39:57,964
 什麼？
 Sir?
 
-482
+500
 00:39:58,436 --> 00:39:59,630
 找個妞兒
 是的，歡迎光臨華爾道夫
@@ -3199,12 +3253,12 @@ Yes, sir.
 And welcome to
 the Waldorf.
 
-483
+501
 00:40:05,009 --> 00:40:06,203
 多謝，朋友
 Gracias, amigo.
 
-484
+502
 00:40:08,146 --> 00:40:11,604
 波多黎各人
 是最好的陸戰隊
@@ -3213,52 +3267,52 @@ Always made
 the best infantrymen.
 Oh!
 
-485
+503
 00:40:27,232 --> 00:40:28,563
 又回家啦！
 I'm home again.
 
-486
+504
 00:40:29,567 --> 00:40:31,091
 給我來點酒
 Give me an inventory
 on this, will you?
 
-487
+505
 00:40:37,909 --> 00:40:39,638
 我在哪？亞洲嗎？
 All right, where am I,
 in Asia?
 
-488
+506
 00:40:40,178 --> 00:40:42,772
 他說電話在房間另一頭
 He told me the phone
 was on the other side
 of the room, didn't he?
 
-489
+507
 00:40:42,981 --> 00:40:43,970
 在那兒呢？
 By the windows?
 
-490
+508
 00:40:45,984 --> 00:40:46,973
 在這裡
 It's right here.
 Okay.
 
-491
+509
 00:40:51,189 --> 00:40:52,520
 咱們上路啦
 We're in business.
 
-492
+510
 00:40:57,462 --> 00:40:58,520
 請接橡樹廳
 Get me the Oak Room.
 
-493
+511
 00:41:00,532 --> 00:41:01,726
 酒夠嗎？
 只有吉米賓和早時年兩種
@@ -3267,25 +3321,25 @@ comin'?
 There's Jim Beam
 and Early Times.
 
-494
+512
 00:41:09,007 --> 00:41:10,736
 補給官又給收買了！
 Quartermaster's
 on the take again.
 
-495
+513
 00:41:11,409 --> 00:41:14,401
 薛登或麥克在嗎？
 Hello. Is Sheldon
 or Mack there?
 
-496
+514
 00:41:15,947 --> 00:41:18,074
 我是法蘭克史雷德中校
 This is Lieutenant
 Colonel Frank Slade.
 
-497
+515
 00:41:18,349 --> 00:41:21,682
 以前是常客
 和巴將軍來過
@@ -3293,14 +3347,14 @@ I used to be a regular.
 I used to come in
 with a General Garbisch.
 
-498
+516
 00:41:24,222 --> 00:41:26,952
 大概是因為他現在住地府吧
 Yes, that's
 probably because he's at
 Arlington, six feet under.
 
-499
+517
 00:41:27,025 --> 00:41:31,894
 我要一張桌子，兩個人
 別靠廚房，八點十五
@@ -3309,13 +3363,13 @@ I want a table for two,
 and I don't mean Siberia,
 15.
 
-500
+518
 00:41:33,498 --> 00:41:35,227
 把瓶子清掉
 Clear them little
 bottles off.
 
-501
+519
 00:41:35,300 --> 00:41:39,100
 我打完電話
 你就叫海曼來
@@ -3323,64 +3377,70 @@ And when I get
 off the phone,
 call up Hyman.
 
-502
-00:41:39,170 --> 00:41:45,304
+520
+00:41:39,170 --> 00:41:42,105
 我要滿滿一房間的
 「約翰丹尼爾」
-你是說「傑克丹尼爾」？
 Tell him I want it
 wall to wall
 with John Daniels.
+
+521
+00:41:43,575 --> 00:41:45,304
+你是說「傑克丹尼爾」？
 Don't you mean
 Jack Daniels?
 
-503
+522
 00:41:45,577 --> 00:41:48,444
 熟客才這麼叫的
 He may be Jack to you, son.
 But when you've known him
 as long as I have...
 
-504
+523
 00:41:49,380 --> 00:41:50,039
 是玩笑
+That's a joke. Hello!
+
+524
+00:41:50,114 --> 00:41:54,847
 這是史中校
 八點我要轎車
-That's a joke. Hello!
 This is Lieutenant
 Colonel Frank Slade.
 I would like a limo,
 00.
 
-505
+525
 00:42:02,393 --> 00:42:03,325
 你要喝什麼？
 What are you drinkin'?
 
-506
+526
 00:42:04,395 --> 00:42:07,125
 不用，謝謝，我不喝酒
 Nothing, thanks.
 I don't use it.
 
-507
+527
 00:42:07,599 --> 00:42:08,930
 那有什麼「用」？
 What's useful about it?
 
-508
+528
 00:42:11,069 --> 00:42:14,061
 中校，我要走了
 I don't know.
 Listen, Colonel,
 I have to get going.
 
-509
+529
 00:42:15,340 --> 00:42:16,204
 走去哪？
 Where you goin'?
 
-510
+530
 00:42:16,741 --> 00:42:20,006
 回學校
 有很重要的事要做
@@ -3389,19 +3449,19 @@ I've got some real
 important stuff I
 have to take care of.
 
-511
+531
 00:42:21,813 --> 00:42:22,802
 好啊
 Very well.
 
-512
+532
 00:42:24,415 --> 00:42:26,747
 但我從不讓助理餓著走
 But I never let
 my aides leave
 on an empty stomach.
 
-513
+533
 00:42:27,619 --> 00:42:31,555
 吃完晚餐
 我司機會送你
@@ -3409,37 +3469,37 @@ You'll dine with me
 and then my driver
 will transport you
 
-514
+534
 00:42:31,623 --> 00:42:34,217
 往波士頓的飛機十點起飛
 to the airport for
 the Boston shuttle
 departing at 2200 hours.
 
-515
+535
 00:42:35,827 --> 00:42:39,160
 現在，打開我的行李箱
 Meanwhile,
 unpack my bag.
 
-516
+536
 00:42:39,697 --> 00:42:41,221
 我要上廁所
 I'm gonna christen
 the latrine.
 
-517
+537
 00:42:43,902 --> 00:42:44,960
 你叫什麼，司機？
 What's your name,
 driver?
 
-518
+538
 00:42:45,770 --> 00:42:46,429
 曼尼，先生
 Manny, sir.
 
-519
+539
 00:42:46,704 --> 00:42:51,368
 華爾道夫的小廝…
 這裡的小妞好不好？
@@ -3448,56 +3508,56 @@ at the Waldorf,
 are they any good
 at getting escorts?
 
-520
+540
 00:42:52,043 --> 00:42:53,169
 我不知道，先生
 I wouldn't know, sir.
 
-521
+541
 00:42:54,045 --> 00:42:55,034
 那你知道什麼？
 What would you know?
 
-522
+542
 00:42:55,647 --> 00:42:56,579
 哪方面的？
 About what?
 
-523
+543
 00:42:57,582 --> 00:42:58,640
 你知道哪方面？
 About you-know-what?
 
-524
+544
 00:43:01,052 --> 00:43:02,644
 你知道我能做點安排
 Maybe I could
 manage something.
 
-525
+545
 00:43:03,388 --> 00:43:05,117
 我要的可是一流的
 I'm talkin'
 top of the line, now.
 
-526
+546
 00:43:05,924 --> 00:43:07,255
 我想一想，先生
 Let me think
 about this, sir.
 
-527
+547
 00:43:16,334 --> 00:43:17,460
 你怎麼回事？
 What's the matter
 with you?
 
-528
+548
 00:43:19,003 --> 00:43:19,799
 我？
 With me?
 
-529
+549
 00:43:20,605 --> 00:43:25,201
 車感覺沉重，怎麼搞的？
 全世界都在你肩上了
@@ -3507,18 +3567,18 @@ You got the fuckin'
 weight of the world
 on your shoulders.
 
-530
+550
 00:43:30,281 --> 00:43:32,215
 學校裡出了點事
 I got a little problem
 at school, that's all.
 
-531
+551
 00:43:32,617 --> 00:43:33,811
 講吧
 Spit it out!
 
-532
+552
 00:43:34,018 --> 00:43:37,419
 不是大事
 我們去橡樹廳？
@@ -3528,7 +3588,7 @@ Where we going,
 the Oak Room
 or somethin'?
 
-533
+553
 00:43:37,488 --> 00:43:42,221
 你說是「重要的事」
 你和院長女兒上床了？
@@ -3539,31 +3599,31 @@ What are you doin',
 banging the dean's daughter?
 Hah!
 
-534
+554
 00:43:46,164 --> 00:43:47,825
 不是，惹了點麻煩而已
 I'm just in
 a little trouble.
 
-535
+555
 00:43:47,899 --> 00:43:48,957
 哪一類的？
 What kind of trouble?
 
-536
+556
 00:43:49,968 --> 00:43:51,629
 我看到有些傢伙做的些事
 I saw some guys
 doing something.
 
-537
+557
 00:43:54,639 --> 00:43:57,904
 要不要說，不然有得賠
 To tell or not to tell,
 or it's your ass.
 Hmm?
 
-538
+558
 00:44:02,046 --> 00:44:05,906
 你怎麼知道？
 我是男巫
@@ -3573,7 +3633,7 @@ I'm a wizard.
 Give me the details,
 come on.
 
-539
+559
 00:44:12,390 --> 00:44:18,254
 有個叫哈瑞的，很有錢
 他當頭兒
@@ -3584,94 +3644,97 @@ real rich kid,
 and he like,
 runs the show.
 
-540
+560
 00:44:18,796 --> 00:44:19,785
 別人呢？
 Who else?
 
-541
+561
 00:44:21,599 --> 00:44:24,932
 另一個叫喬治
 什麼也沒做
 There's another guy, George,
 but George didn't do anything.
 
-542
+562
 00:44:26,004 --> 00:44:28,598
 我們看到哈瑞那伙做的事
 George and I saw
 Harry and his buddies
 doin' somethin'.
 
-543
+563
 00:44:29,874 --> 00:44:31,933
 現在博德的人…
 Now, the folks at Baird,
 
-544
+564
 00:44:32,010 --> 00:44:35,070
 知道你和喬治能抓出元兇
 they know you and George
 can identify
 the guilty parties?
 
-545
-00:44:39,083 --> 00:44:41,941
+565
+00:44:39,083 --> 00:44:40,072
 他們以為我們會
-喬治是你的朋友
 Yeah, they think we can.
+
+566
+00:44:40,952 --> 00:44:41,941
+喬治是你的朋友
 George is
 a friend of yours.
 
-546
+567
 00:44:43,621 --> 00:44:44,883
 不是，不過他人不壞
 He's not a friend,
 but he's all right.
 
-547
+568
 00:44:45,289 --> 00:44:46,085
 你相信他？
 You trust him?
 
-548
+569
 00:44:47,558 --> 00:44:48,547
 大概吧
 Yeah, I guess so.
 
-549
+570
 00:44:48,960 --> 00:44:50,291
 他也拿獎學金？
 He's on
 scholarship, too?
 
-550
+571
 00:44:52,497 --> 00:44:53,486
 沒有，有關係嗎？
 No, why?
 
-551
+572
 00:44:54,098 --> 00:44:56,965
 我們有喬治、哈瑞和麻煩
 We got George,
 we got Harry,
 we got trouble.
 
-552
+573
 00:44:57,368 --> 00:45:00,030
 他們有錢，你沒錢
 你想有錢
 They're rich, you're poor.
 You wanna get rich.
 
-553
+574
 00:45:00,104 --> 00:45:03,369
 你想畢業後像他們一樣有錢
 You wanna graduate Baird,
 become a rich
 big shot like them.
 
-554
+575
 00:45:03,474 --> 00:45:06,534
 對不對？
 不，不完全是
@@ -3680,23 +3743,23 @@ No.
 It's not that
 way at all.
 
-555
+576
 00:45:07,712 --> 00:45:08,838
 好吧，查理
 Okay, Charlie!
 
-556
+577
 00:45:10,915 --> 00:45:13,179
 到了，橡樹廳
 Here we are, gentlemen,
 the Oak Room.
 
-557
+578
 00:45:13,851 --> 00:45:16,365
 橡樹廳！
 The Oak Room!
 
-558
+579
 00:45:16,365 --> 00:45:19,960
 菜單和雙份傑克丹尼爾加冰
 Bring us a menu and
@@ -3704,7 +3767,7 @@ double Jack Daniels
 on the rocks.
 Charlie, sit down here.
 
-559
+580
 00:45:20,702 --> 00:45:23,432
 也許您穿上這件會更舒服些
 你很帥
@@ -3713,53 +3776,53 @@ comfortable in this, sir.
 You look great!
 Thank you.
 
-560
+581
 00:45:39,388 --> 00:45:42,448
 這就是橡樹廳
 Here we are, Charlie,
 the Oak Room.
 
-561
+582
 00:45:43,459 --> 00:45:45,723
 現在念菜單吧
 Now, read me
 the bill of fare.
 
-562
+583
 00:45:46,795 --> 00:45:47,454
 好
 Let's see.
 
-563
+584
 00:45:48,530 --> 00:45:51,397
 橡樹廳漢堡加薯條
 要24塊錢
 You got the Oak Room
 burger and fries for $24.
 
-564
+585
 00:45:51,533 --> 00:45:54,730
 酒呢？上菜慢的像泥巴
 Where's the booze?
 Flowin' like
 mud around here.
 
-565
+586
 00:45:55,003 --> 00:45:56,470
 24塊的漢堡？
 A $24 hamburger?
 
-566
+587
 00:45:58,006 --> 00:45:59,064
 怎麼搞的？
 What's the story?
 
-567
+588
 00:45:59,408 --> 00:46:00,340
 什麼？
 What story?
 
-568
+589
 00:46:02,411 --> 00:46:04,402
 你不是個
 有錢的守財奴？
@@ -3767,66 +3830,69 @@ Are you a rich
 miser or something?
 Hah!
 
-569
+590
 00:46:06,014 --> 00:46:08,141
 不是，只是個普通瞎子罷了
 No, I'm just
 your average blind man.
 
-570
+591
 00:46:08,550 --> 00:46:09,744
 「普通瞎子」
 Your average
 blind man.
 
-571
+592
 00:46:11,220 --> 00:46:13,415
 你怎麼付這些錢呢？
 How do you plan on paying
 for all this stuff?
 
-572
+593
 00:46:14,623 --> 00:46:17,615
 用乾乾淨淨的美鈔
 Crisp, clean dollars.
 American.
 
-573
+594
 00:46:18,093 --> 00:46:19,958
 我存的傷殘退休俸
 I saved up my
 disability checks.
 
-574
-00:46:20,362 --> 00:46:26,959
+595
+00:46:20,362 --> 00:46:21,886
 你存了多少？
-我們坐頭等艙還住華爾道夫
-吃24塊錢的漢堡
 How much did you save?
 I mean, we flew first class,
+
+596
+00:46:22,498 --> 00:46:26,959
+我們坐頭等艙還住華爾道夫
+吃24塊錢的漢堡
 we're at the Waldorf-Astoria,
 a $24 hamburger restaurant.
 
-575
+597
 00:46:27,035 --> 00:46:28,764
 計劃的一部份
 All part of
 a plan, Charlie.
 
-576
+598
 00:46:29,171 --> 00:46:30,502
 要不要告訴我？
 You want to let
 me in on it?
 
-577
+599
 00:46:30,706 --> 00:46:33,174
 為什麼要？你又不關心
 Why should I?
 You're not interested.
 You don't give a shit!
 
-578
+600
 00:46:33,375 --> 00:46:37,368
 你就要坐末班飛機走了
 You're leavin' on that
@@ -3834,7 +3900,7 @@ last shuttle
 out of LaGuardia.
 Hmm? Ooh!
 
-579
+601
 00:46:41,450 --> 00:46:43,975
 只剩15分鐘
 可能趕不上
@@ -3842,7 +3908,7 @@ You got 15 minutes, son.
 I don't think
 you're gonna make it.
 
-580
+602
 00:46:44,987 --> 00:46:49,253
 除非橡樹廳陽台上
 有直升機
@@ -3851,44 +3917,44 @@ keeps some
 complimentary
 helicopter on the roof.
 
-581
+603
 00:46:49,725 --> 00:46:52,057
 不，不，先生
 No, sir. No!
 
-582
+604
 00:46:52,661 --> 00:46:54,128
 你得待到明天
 You're here till tomorrow.
 
-583
+605
 00:46:55,931 --> 00:47:00,061
 你說最後班機十點起飛
 You said the last shuttle
 leaves at 2200 hours.
 That's 10:00, right?
 
-584
+606
 00:47:01,136 --> 00:47:02,330
 我是這麼聽說的
 Last I heard, yeah.
 
-585
+607
 00:47:03,605 --> 00:47:04,799
 現在只有八點半
 It's only ·:30.
 
-586
+608
 00:47:05,607 --> 00:47:07,336
 騙你的，飛機九點起飛
 I lied. Leaves at 0:00.
 
-587
+609
 00:47:08,343 --> 00:47:09,674
 九點起飛？
 It leaves at 0:00?
 
-588
+610
 00:47:09,878 --> 00:47:16,548
 別緊張
 事實是，查理…
@@ -3896,24 +3962,24 @@ Calm down. Calm down.
 Ahh! The truth is,
 Charlie,
 
-589
+611
 00:47:18,954 --> 00:47:22,754
 我需要一隻導盲犬
 幫我執行計劃
 I need a guide dog
 to help me execute my plan.
 
-590
+612
 00:47:22,824 --> 00:47:23,483
 什麼計劃？
 What plan?
 
-591
+613
 00:47:25,694 --> 00:47:27,025
 你有權利知道
 You have a right to know.
 
-592
+614
 00:47:29,164 --> 00:47:34,227
 不全是計劃
 比較像旅行
@@ -3921,44 +3987,44 @@ It's not really a plan,
 Charlie. It's sort of a...
 More like a tour,
 
-593
+615
 00:47:35,037 --> 00:47:37,164
 小小的快樂之旅
 a little tour
 of pleasures.
 
-594
+616
 00:47:38,040 --> 00:47:41,908
 一流的飯店，美食…
 Stay in a first-class hotel,
 eat an agreeable meal,
 
-595
+617
 00:47:42,711 --> 00:47:44,235
 飲一杯好酒
 drink a nice
 glass of wine,
 
-596
+618
 00:47:46,448 --> 00:47:49,440
 看我大哥…親情最偉大
 see my big brother.
 Nothing like family,
 you know.
 
-597
+619
 00:47:50,919 --> 00:47:54,787
 然後和一個妙女郎做愛
 And then, make love
 to a terrific woman.
 
-598
+620
 00:47:57,125 --> 00:47:58,114
 再然後
 After that...
 Yeah?
 
-599
+621
 00:48:08,203 --> 00:48:12,401
 我要躺在華爾道夫的
 豪華大床
@@ -3966,45 +4032,48 @@ I'm gonna lie down on
 my big, beautiful bed
 at the Waldorf
 
-600
+622
 00:48:12,941 --> 00:48:14,465
 把我的腦袋射爛
 and blow my brains out.
 
-601
+623
 00:48:18,680 --> 00:48:19,669
 能向您建議特餐嗎？
 May I tell you
 our specials?
 
-602
+624
 00:48:20,349 --> 00:48:21,543
 可以
 You may, sir.
 
-603
-00:48:22,417 --> 00:48:26,418
+625
+00:48:22,417 --> 00:48:24,942
 今日特餐有嫩烤碧玉絲…
-和胡椒子
 Tonight we have
 charred venison with
+
+626
+00:48:25,087 --> 00:48:26,418
+和胡椒子
 buckwheat spaetzle
 and green peppercorn.
 
-604
+627
 00:48:26,888 --> 00:48:30,415
 焗茄子
 Grilled veal paillards,
 tomato tapenade,
 and roasted eggplants.
 
-605
+628
 00:48:30,492 --> 00:48:32,153
 我在流口水呢
 Get me a napkin.
 My mouth's watering.
 
-606
+629
 00:48:32,494 --> 00:48:36,692
 如果您要奶酥派
 現在就要點
@@ -4013,39 +4082,39 @@ cr·me souffl· for dessert,
 it would be a good
 idea to order now.
 
-607
+630
 00:48:37,032 --> 00:48:40,559
 先點奶酥，其他的想一想
 Yes, on the souffl·.
 Give us a half a minute
 on the rest.
 
-608
+631
 00:48:41,169 --> 00:48:41,965
 很好，先生
 Very good, sir.
 
-609
+632
 00:48:46,908 --> 00:48:48,375
 我想吃烤碧綠絲
 I'm leaning
 towards the spaetzle.
 
-610
+633
 00:48:48,844 --> 00:48:51,645
 史中校…
 桌上有小麵包嗎？
 Colonel Slade...
 Charlie, rolls on the table?
 
-611
+634
 00:48:52,180 --> 00:48:54,978
 給我，你一定要嘗嘗
 Give 'em to me.
 You should
 try these rolls, Charlie.
 
-612
+635
 00:48:55,584 --> 00:49:02,186
 我在華楚卡堡時做夢都夢到
 科羅拉多以西的麵包就不行了
@@ -4055,29 +4124,29 @@ Colonel Slade...
 Bread's no good
 west of the Colorado.
 
-613
+636
 00:49:02,257 --> 00:49:03,588
 水太鹹
 Water's too alkaline.
 
-614
+637
 00:49:03,992 --> 00:49:05,391
 史中校，剛才您說…
 Colonel Slade,
 did you say...
 
-615
+638
 00:49:07,262 --> 00:49:08,456
 我沒聽錯吧？
 Did I hear you right?
 
-616
+639
 00:49:10,399 --> 00:49:12,128
 你說你要自殺？
 You said you're gonna
 kill yourself?
 
-617
+640
 00:49:12,934 --> 00:49:16,131
 不對
 我說我要把腦袋打爛
@@ -4085,7 +4154,7 @@ No.
 I said I was gonna
 blow my brains out.
 
-618
+641
 00:49:17,606 --> 00:49:20,803
 試試小麵包
 我幫你塗奶油
@@ -4093,19 +4162,19 @@ Try one of these
 rolls, Charlie.
 I buttered it for you.
 
-619
+642
 00:49:22,210 --> 00:49:23,404
 我不要吃
 I don't want a roll,
 all right?
 
-620
+643
 00:49:23,679 --> 00:49:25,408
 那就吃點紅蘿蔔
 Okay. Have a radish!
 Hah!
 
-621
+644
 00:49:29,017 --> 00:49:33,350
 哈囉
 再來一杯雙份的傑克丹尼爾
@@ -4113,42 +4182,42 @@ Hello! Bring me
 a double Jack Daniels
 on the rocks.
 
-622
+645
 00:49:33,422 --> 00:49:34,753
 立刻就來，先生
 Yes, sir.
 Right away.
 
-623
+646
 00:49:38,627 --> 00:49:40,959
 拜託，別來那套
 Please, don't do that.
 
-624
+647
 00:49:42,431 --> 00:49:43,625
 不要
 Don't do that.
 Hmm.
 
-625
+648
 00:49:54,976 --> 00:49:56,375
 真是好地方！
 What a marvelous place.
 Okay.
 Yeah.
 
-626
+649
 00:50:09,191 --> 00:50:10,522
 你睡這兒
 Your billet is here.
 
-627
+650
 00:50:11,860 --> 00:50:14,590
 床具在櫃裡
 You'll find bedding
 in the closet on the shelf.
 
-628
+651
 00:50:15,731 --> 00:50:19,667
 早晨要還原成起居間
 In the morning,
@@ -4156,29 +4225,29 @@ the area will be
 returned to
 sitting-room mode
 
-629
+652
 00:50:19,935 --> 00:50:22,335
 不能睡過七點
 no later than
 0700 hours.
 
-630
+653
 00:50:26,274 --> 00:50:27,263
 你做什麼？
 What was that?
 
-631
+654
 00:50:30,345 --> 00:50:31,209
 沒什麼
 Nothing.
 
-632
+655
 00:50:32,748 --> 00:50:35,683
 下次，快動作
 Next time
 snap it out!
 
-633
+656
 00:50:37,953 --> 00:50:40,945
 大姆指頂掌心
 食指要對準
@@ -4190,7 +4259,7 @@ smartly aligned,
 sharp to the hairline,
 down!
 
-634
+657
 00:50:50,766 --> 00:50:55,100
 比你優秀的好多人
 都敬過禮
@@ -4199,14 +4268,14 @@ far better than you,
 have executed
 that courtesy.
 
-635
+658
 00:50:55,904 --> 00:50:59,237
 你要是聰明的話
 就別再做
 And if you're smart,
 you won't try it again.
 
-636
+659
 00:51:02,978 --> 00:51:07,438
 這老蝙蝠的雷達
 可不是蓋的
@@ -4214,47 +4283,47 @@ This bat has
 got sharper radar
 than the Nautilus.
 
-637
+660
 00:51:08,116 --> 00:51:09,583
 少跟我玩花招，查理
 Don't fuck with me,
 Charlie.
 
-638
+661
 00:51:21,530 --> 00:51:23,395
 好好睡一覺，孩子
 See you get
 a good night's
 sleep, son.
 
-639
+662
 00:51:36,571 --> 00:51:38,038
 「今天多美好」
 It's a lovely day today
 
-640
+663
 00:51:39,173 --> 00:51:41,437
 「不論做什麼」
 So, whatever you gotta do
 
-641
+664
 00:51:42,176 --> 00:51:45,043
 「都是好日子，沒錯！」
 You got a lovely day
 to do it in, that's true
 
-642
+665
 00:51:51,719 --> 00:51:53,050
 早安，查理
 Good morning, Charlie.
 Good morning.
 
-643
+666
 00:51:58,326 --> 00:51:59,657
 這是蘇菲亞
 This is Sofia, Charlie.
 
-644
+667
 00:52:00,128 --> 00:52:05,395
 帶針線的魔術師
 她在替我做衣服
@@ -4263,27 +4332,27 @@ with a needle.
 Sofia's workin' me up
 a little Glen Plaid number,
 
-645
+668
 00:52:05,600 --> 00:52:07,932
 我請她也替你做一件
 and I've asked her if
 she'd put something
 together for you.
 
-646
+669
 00:52:08,736 --> 00:52:11,068
 我不需要衣服，中校
 I don't need
 any clothes, Colonel.
 
-647
+670
 00:52:11,139 --> 00:52:14,074
 上流大都會任務的必備品
 Standard issue
 for an upscale
 urban assignment.
 
-648
+671
 00:52:14,609 --> 00:52:18,875
 如果你不喜歡
 任務完了就丟
@@ -4292,65 +4361,65 @@ Charlie,
 on completion of duty,
 you can give 'em away.
 
-649
+672
 00:52:19,680 --> 00:52:22,808
 推車上有咖啡和小餅乾
 Juice, coffee,
 and other assorted goodies
 on the trolley over there.
 
-650
+673
 00:52:22,884 --> 00:52:25,216
 快起來打點一下
 Get yourself up,
 get yourself together.
 
-651
+674
 00:52:26,287 --> 00:52:28,881
 「這是唱歌的好日子」
 It's a great day
 for singin' a song
 
-652
+675
 00:52:28,956 --> 00:52:32,084
 「也是前進的好日子」
 And it's a great day
 for movin' along
 
-653
+676
 00:52:32,960 --> 00:52:35,428
 「從早到晚都是好時光」
 And it's a great day
 from morning to night
 
-654
+677
 00:52:35,496 --> 00:52:37,020
 「這是好日子」
 And it's a great day
 
-655
+678
 00:52:39,033 --> 00:52:40,898
 「適合許心願」
 For everybody's plight
 
-656
+679
 00:52:47,442 --> 00:52:48,841
 今天覺得怎樣？
 How are you feeling
 today, Colonel?
 
-657
+680
 00:52:49,177 --> 00:52:51,839
 棒，棒極了
 Super!
 Superior!
 
-658
+681
 00:52:52,246 --> 00:52:53,907
 沒必要的
 Superfluous!
 
-659
+682
 00:52:55,249 --> 00:52:59,583
 蘇菲感恩節上班
 她半工半讀
@@ -4359,58 +4428,58 @@ is working Thanksgiving
 because she's trying to
 put herself through college.
 
-660
+683
 00:53:00,121 --> 00:53:02,783
 我告訴她你也在上學
 I told her, "My young friend
 Charlie's headed for college."
 
-661
+684
 00:53:03,324 --> 00:53:04,518
 抱歉
 Excuse me.
 
-662
+685
 00:53:05,059 --> 00:53:05,787
 你去哪？
 Where you goin'?
 
-663
+686
 00:53:05,993 --> 00:53:07,392
 打電話
 I need to use
 the phone.
 
-664
+687
 00:53:08,062 --> 00:53:09,529
 這兒有電話
 What's wrong with
 the phones in here?
 
-665
+688
 00:53:10,731 --> 00:53:12,130
 我怕打擾你
 I don't want
 to disturb you.
 
-666
+689
 00:53:12,400 --> 00:53:14,061
 你不會，在這兒打
 You're not disturbing me.
 Make your call.
 
-667
+690
 00:53:15,603 --> 00:53:16,535
 我需要隱私
 I'd kind of like
 to be private.
 
-668
+691
 00:53:16,671 --> 00:53:17,797
 不准進我房間
 Stay out of my room!
 
-669
+692
 00:53:19,807 --> 00:53:21,536
 這兒夠隱私啦
 This is as private
@@ -4421,7 +4490,7 @@ that must be done
 And it can only
 be done by one
 
-670
+693
 00:53:35,089 --> 00:53:40,152
 可不可能讓你也換上西裝？
 Sofia,
@@ -4429,7 +4498,7 @@ what are the chances
 of suitin' you
 up sometime?
 
-671
+694
 00:53:41,829 --> 00:53:44,354
 「甘蔗叢賓館」
 請接喬治威利斯
@@ -4437,7 +4506,7 @@ Sugarbush Lodge.
 George Willis, please.
 Hello.
 
-672
+695
 00:53:48,903 --> 00:53:54,031
 喬治，我是查理
 明年你一定要和我們一起來
@@ -4446,18 +4515,18 @@ Hey, Chas.
 Next year you gotta
 come up with us.
 
-673
+696
 00:53:54,775 --> 00:53:57,243
 白粉灑在兔女郎身上
 White powder on
 a base of snow bunnies.
 
-674
+697
 00:53:59,380 --> 00:54:01,314
 你聽到了嗎？
 Chas, are you there?
 
-675
+698
 00:54:02,049 --> 00:54:05,985
 你叫我打給你，問你計劃
 Yeah, I'm here.
@@ -4465,7 +4534,7 @@ You told me to call
 you for the moves.
 All right.
 
-676
+699
 00:54:07,522 --> 00:54:09,581
 目前，計劃是按兵不動
 保持現狀，先擱在一旁
@@ -4474,43 +4543,43 @@ no move, status quo.
 Everything's
 the way we left it.
 
-677
+700
 00:54:12,860 --> 00:54:13,986
 怎麼擱？
 How did we leave it?
 
-678
+701
 00:54:15,062 --> 00:54:17,860
 沒聽到也沒看到
 See no evil,
 hear no eviI.
 
-679
+702
 00:54:19,267 --> 00:54:20,598
 懂我意思吧？
 You know
 what I mean, Chas?
 
-680
+703
 00:54:22,870 --> 00:54:25,202
 沒聽到也沒看到
 Yeah. See no evil,
 hear no evil.
 
-681
+704
 00:54:27,942 --> 00:54:29,603
 好，輕輕鬆鬆
 Okay, then,
 walk like you talk.
 All right, bye.
 
-682
+705
 00:54:33,281 --> 00:54:34,213
 喬治威利斯？
 George Willis, huh?
 Yeah.
 
-683
+706
 00:54:38,085 --> 00:54:42,954
 喬治威利斯
 他爹可能是一世
@@ -4519,23 +4588,26 @@ That makes his
 father probably
 George Willis, Senior.
 
-684
+707
 00:54:43,891 --> 00:54:45,756
 查理，我問你…
 Charlie, I ask you,
 
-685
+708
 00:54:45,960 --> 00:54:48,758
 你猜老喬治會怎麼反應？
-小喬治所說的
-「沒看沒聽到」
 what do you think
 big George is gonna feel
 about little George
+
+709
+00:54:49,030 --> 00:54:52,966
+小喬治所說的
+「沒看沒聽到」
 seeing no evil,
 hearing no evil?
 
-686
+710
 00:54:55,570 --> 00:55:00,633
 我們說好不告訴爸媽的
 是我們的秘密
@@ -4544,12 +4616,11 @@ tell our parents.
 We're just gonna keep it
 between ourselves.
 
-687
-00:55:01,442 --> 00:55:15,177
+711
+00:55:01,442 --> 00:55:05,902
 喬治不告訴他爸？
 真夠義氣
 我喜歡你把我弄痛
-告訴我，查理…
 Oh, George isn't gonna tell
 his father about this thing!
 Damn decent of him.
@@ -4557,27 +4628,31 @@ Scusi, Colonnello.
 Prego.
 I love it
 when you hurt me.
+
+712
+00:55:14,188 --> 00:55:15,177
+告訴我，查理…
 Tell me now,
 Charlie.
 
-688
+713
 00:55:15,323 --> 00:55:19,259
 喬治威利斯的老爸
 是幹嘛的？
 This George Willis, Jr.,
 what's his father do?
 
-689
+714
 00:55:20,528 --> 00:55:21,392
 不曉得
 I don't really know.
 
-690
+715
 00:55:21,996 --> 00:55:22,985
 我來告訴你
 Well, I'm gonna tell you.
 
-691
+716
 00:55:24,131 --> 00:55:28,864
 當他不忙著當保險公司大經理
 When George Willis, Senior,
@@ -4585,7 +4660,7 @@ isn't busy as
 a million-dollar man
 for Aetna Casualty...
 
-692
+717
 00:55:28,936 --> 00:55:32,269
 或通用汽車駐英國總監的時候
 Or is it
@@ -4593,14 +4668,14 @@ New England distributor
 for the Chrysler
 Corporation?
 
-693
+718
 00:55:32,340 --> 00:55:36,401
 他會關心兒子的生活起居
 He concerns himself
 with his young son,
 George Willis, Jr.
 
-694
+719
 00:55:37,878 --> 00:55:39,812
 喬治不會告訴他爸爸
 George isn't going
@@ -4608,34 +4683,34 @@ to say anything
 to his father.
 Oh, Charlie.
 
-695
+720
 00:55:42,350 --> 00:55:44,477
 老喬治會扭緊小喬治的發條
 Big George is gonna
 wind up little George,
 
-696
+721
 00:55:44,552 --> 00:55:47,419
 後者就會知無不言
 and little George
 is gonna sing
 like a canary.
 
-697
+722
 00:55:47,688 --> 00:55:50,213
 你要聰明的話
 你就先發制人
 And if you're hip, kid,
 you're gonna hop to, too.
 
-698
+723
 00:55:50,758 --> 00:55:52,419
 你都看透了嘛
 You've got this
 all figured out,
 don't you?
 
-699
+724
 00:55:52,960 --> 00:55:56,896
 不需要拿獎學金就能看透
 It don't take no
@@ -4643,7 +4718,7 @@ Young American merit
 scholarship to
 figure this one out.
 
-700
+725
 00:55:56,964 --> 00:56:00,764
 你有你的人生，你念博德
 Charlie,
@@ -4652,14 +4727,14 @@ so you decided
 to go to the
 Baird school
 
-701
+726
 00:56:00,835 --> 00:56:03,030
 因為你想有前途
 to put yourself
 in the market
 for a big one.
 
-702
+727
 00:56:04,105 --> 00:56:08,906
 要想不被淘汰
 你就得說出來
@@ -4669,7 +4744,7 @@ you're gonna have
 to tell these people
 what they want to know.
 
-703
+728
 00:56:10,444 --> 00:56:13,174
 真的嗎？
 好了嗎，蘇菲亞？
@@ -4679,13 +4754,13 @@ Yes.
 Grazie. Grazie.
 Andate.
 
-704
+729
 00:56:18,052 --> 00:56:22,386
 你要是現在不說
 Charlie,
 if you don't sing now,
 
-705
+730
 00:56:23,658 --> 00:56:25,057
 就會落得…
 在奧勒岡看一輩子的便利店
@@ -4694,7 +4769,7 @@ not only shelving biscuits
 in some convenience store
 in the Oregon 'burbs,
 
-706
+731
 00:56:29,997 --> 00:56:34,195
 而且在你翹辮子前聽到的話…
 是你對客人說的「多謝光臨」
@@ -4706,7 +4781,7 @@ gonna be,
 "Have a nice day
 and come back soon."
 
-707
+732
 00:56:39,340 --> 00:56:44,607
 快量查理的尺寸
 我們要赴約
@@ -4716,12 +4791,12 @@ Charlie, here, pronto.
 We got a date
 for Thanksgiving.
 
-708
+733
 00:56:45,613 --> 00:56:46,545
 我們要去赴約？
 We got a date?
 
-709
+734
 00:56:47,014 --> 00:56:51,678
 我大哥家，白原鎮
 紐約州
@@ -4729,43 +4804,43 @@ My brother's place.
 W.R. Slade,
 White Plains, New York.
 
-710
+735
 00:56:52,820 --> 00:56:55,152
 我不能跟你去你大哥家
 Colonel, I can't go with you
 to your brother's place.
 
-711
+736
 00:56:55,222 --> 00:56:58,089
 我要趕回學校去
 I mean, I should be
 getting back to school.
 
-712
+737
 00:57:01,562 --> 00:57:04,156
 你總得過感恩節吧？
 Well, you gotta have
 Thanksgiving somewhere.
 
-713
+738
 00:57:05,099 --> 00:57:06,361
 吃點，玩點
 I mean, eats and treats.
 
-714
+739
 00:57:07,234 --> 00:57:08,701
 我又正好缺個伴
 I can use
 the company, Charlie.
 All right.
 
-715
+740
 00:57:14,108 --> 00:57:15,302
 他知道我要來嗎？
 Does he know
 I'm comin'?
 
-716
+741
 00:57:15,576 --> 00:57:20,377
 他不知道我要來
 我進門時你注意看他臉
@@ -4776,12 +4851,12 @@ the look on his face
 when I walk
 through the door.
 
-717
+742
 00:57:20,514 --> 00:57:21,845
 他愛我
 Oh, he loves me!
 
-718
+743
 00:57:24,452 --> 00:57:28,249
 噢，查理…
 至於你的麻煩
@@ -4789,7 +4864,7 @@ Oh, Charlie,
 about your
 little problem,
 
-719
+744
 00:57:28,389 --> 00:57:33,383
 世上有兩種人
 勇於負責的人
@@ -4798,7 +4873,7 @@ of people in this world:
 Those who stand up
 and face the music,
 
-720
+745
 00:57:33,461 --> 00:57:36,589
 和去找靠山的人
 有靠山比較好
@@ -4806,29 +4881,29 @@ and those who
 run for cover.
 Cover's better.
 
-721
+746
 00:57:37,064 --> 00:57:38,725
 好啦，蘇菲亞，給他穿上
 Okay, Sofia, suit him up!
 
-722
+747
 00:57:39,467 --> 00:57:40,866
 讓他帥點！
 Make him pretty.
 
-723
+748
 00:57:57,066 --> 00:57:58,055
 小心
 Careful.
 
-724
+749
 00:58:00,069 --> 00:58:01,400
 要按門鈴嗎？
 好
 Should I ring it?
 Yeah.
 
-725
+750
 00:58:10,747 --> 00:58:11,577
 什麼事？
 什麼事？你是誰？
@@ -4836,17 +4911,17 @@ Yes?
 Yes!
 Who is this?
 
-726
+751
 00:58:15,084 --> 00:58:16,142
 藍迪
 It's Randy.
 
-727
+752
 00:58:16,686 --> 00:58:18,483
 藍迪？你是我新親戚？
 Randy? You new?
 
-728
+753
 00:58:19,689 --> 00:58:20,747
 我是你外甥
 我來啦
@@ -4857,44 +4932,47 @@ Your sister's been
 hoarding me
 long enough.
 
-729
+754
 00:58:25,428 --> 00:58:27,419
 散財的時候到啦！
 Thought it's time
 to spread the
 riches around.
 
-730
+755
 00:58:28,965 --> 00:58:30,626
 法蘭克叔叔
 葛蘿莉亞
 Uncle Frank.
 Gloria!
 
-731
-00:58:31,201 --> 00:58:37,362
+756
+00:58:31,201 --> 00:58:34,734
 吉兒
 來嘛，說聲哈囉…
-我可是大老遠從紐約來的
 Gail.
 Of course.
+
+757
+00:58:34,837 --> 00:58:37,362
+我可是大老遠從紐約來的
 Say hello to the potluck
 party from New York City.
 
-732
+758
 00:58:37,440 --> 00:58:40,432
 你的法蘭克叔叔和查理西門
 Good old Uncle
 Frank and this here
 with him is Charlie Simms,
 
-733
+759
 00:58:40,510 --> 00:58:43,308
 博德學院足球隊中衛
 star halfback of the
 Baird football team.
 
-734
+760
 00:58:43,413 --> 00:58:47,543
 他們打敗艾斯特隊和國頓
 連阿納斯中學都不是對手
@@ -4902,13 +4980,13 @@ They not only beat
 Exeter and Groton,
 but Aquinas High School, too.
 
-735
+761
 00:58:48,318 --> 00:58:49,979
 你們倒霉的爹在哪？
 Where's your
 miserable father?
 
-736
+762
 00:58:50,053 --> 00:58:55,850
 不，等等，嚇他一跳
 叫他的肥心臟跳一下！
@@ -4919,37 +4997,37 @@ Give that fat
 heart of his
 an attack. Willie!
 
-737
+763
 00:58:58,027 --> 00:58:59,016
 威利！
 Ho, Willie!
 
-738
+764
 00:59:12,642 --> 00:59:13,301
 哈囉！法蘭克
 Hello, Frank.
 
-739
+765
 00:59:14,744 --> 00:59:17,474
 你好？這是我助理
 How you doin'?
 Okay.
 Here's my hand.
 
-740
+766
 00:59:20,083 --> 00:59:22,551
 查理，見過史雷德先生
 Charlie, meet
 W.R. Slade.
 Nice to meet you, sir.
 
-741
+767
 00:59:23,620 --> 00:59:25,747
 最典型的公事箱男士！
 The original
 bulging briefcase man.
 
-742
+768
 00:59:26,689 --> 00:59:32,026
 葛心，有梅子的味道！
 是不是有烤火雞？
@@ -4960,7 +5038,7 @@ We talkin'
 turkey Marbella?
 Yes, we are.
 
-743
+769
 00:59:35,031 --> 00:59:38,967
 咱們來聞聞，來嘛
 我一向暗戀著你
@@ -4970,19 +5048,19 @@ You know, I always
 had a sneaker for you.
 Come here.
 
-744
+770
 00:59:43,072 --> 00:59:45,063
 你跑那去了，蓋瑞？
 Where are you, Garry?
 I heard you cough.
 Right here.
 
-745
+771
 00:59:45,141 --> 00:59:46,403
 你說你是誰來著？
 Who are you again?
 
-746
+772
 00:59:47,243 --> 00:59:51,771
 我待在華爾道夫和…
 您是他大哥嗎？
@@ -4990,27 +5068,27 @@ I'm here at
 the Waldorf with...
 Is it your brother?
 
-747
+773
 00:59:51,981 --> 00:59:54,313
 大哥的小寶貝，你好
 W.R.'s final issue.
 How ya doin', son?
 
-748
+774
 00:59:54,517 --> 00:59:56,712
 他是我弟弟，你又是誰？
 Yeah, sure,
 Frank's my brother.
 Who the hell are you?
 
-749
+775
 00:59:57,854 --> 00:59:59,446
 我算他的看護吧
 I'm takin' care of him
 for the weekend.
 Charlie.
 
-750
+776
 01:00:03,159 --> 01:00:07,653
 抱歉，酒呢？
 這兒的步調真慢
@@ -5018,7 +5096,7 @@ Sorry.
 Where's the booze?
 Flowin' like mud here.
 
-751
+777
 01:00:07,764 --> 01:00:11,427
 老實說吧
 中校情況不太好
@@ -5026,30 +5104,30 @@ To tell the truth,
 the Colonel's not well,
 I don't think.
 
-752
+778
 01:00:12,101 --> 01:00:13,090
 不太好？
 Not well?
 
-753
+779
 01:00:13,836 --> 01:00:15,497
 我想他很寂寞
 I think he's
 a little lonely.
 
-754
+780
 01:00:16,305 --> 01:00:18,102
 那你帶他回你家去
 Why didn't you
 take him to your
 family's for dinner?
 
-755
+781
 01:00:18,441 --> 01:00:19,237
 我聽到了
 I heard that!
 
-756
+782
 01:00:22,044 --> 01:00:25,980
 別管我，查理
 「老大哥經」
@@ -5058,26 +5136,26 @@ Pay no attention
 to him, Charlie.
 That's just big-brother talk.
 
-757
+783
 01:00:26,582 --> 01:00:28,641
 從我出生起他就管著我
 He's been watching out
 for me since day one.
 
-758
+784
 01:00:29,385 --> 01:00:33,185
 替我收的爛攤子
 連他也記不清
 Bailed me out of more trouble
 than he'd like to remember.
 
-759
+785
 01:00:34,457 --> 01:00:35,924
 我來幫你放大衣
 Here, let me
 take your coat.
 
-760
+786
 01:00:37,393 --> 01:00:40,191
 本來要帶酒來的
 竟然忘了
@@ -5085,7 +5163,7 @@ I meant to pick up
 some vino on my way up,
 but I blew it.
 
-761
+787
 01:00:40,596 --> 01:00:45,260
 聖誕節給你們寄好酒
 先看看今天處得好不好吧
@@ -5095,7 +5173,7 @@ for Christmas,
 only let's see how
 Thanksgiving goes.
 
-762
+788
 01:00:45,668 --> 01:00:48,398
 我再加兩個位子
 你的酒
@@ -5104,7 +5182,7 @@ more places.
 Here's
 your drink, Frank.
 
-763
+789
 01:00:48,671 --> 01:00:52,129
 謝謝
 還在雪後糖廠工作？
@@ -5112,7 +5190,7 @@ Thank you, Randy.
 Still with
 Snow Queen Sugar?
 
-764
+790
 01:00:53,276 --> 01:00:56,939
 是雪焰
 你怎麼老是搞錯？
@@ -5120,7 +5198,7 @@ Snow Flake.
 Why do you always
 get that wrong?
 
-765
+791
 01:00:57,113 --> 01:01:00,310
 反正對錯也不重要
 你做什麼
@@ -5130,7 +5208,7 @@ to get it right.
 What are you doing
 there now?
 
-766
+792
 01:01:01,684 --> 01:01:03,618
 市場行銷副總裁
 恭喜，雖然糖很糟糕
@@ -5140,7 +5218,7 @@ Hoo-ah!
 Congratulations!
 Sugar is shit, though.
 
-767
+793
 01:01:08,090 --> 01:01:09,614
 我告訴阿伯姆將軍…
 改供蜂蜜，糖會要人命
@@ -5152,14 +5230,14 @@ blow your brains out,
 sugar, sure as shit,
 was gonna.
 
-768
+794
 01:01:16,499 --> 01:01:17,761
 我們何不都坐下？
 Why don't we
 all sit down?
 Ooh.
 
-769
+795
 01:01:18,768 --> 01:01:25,433
 誘人的「蜜祖琪」
 小心
@@ -5172,20 +5250,20 @@ When the wife
 gets restless,
 the wife gets racy.
 
-770
+796
 01:01:25,508 --> 01:01:26,634
 吃飯吧
 Well, let's
 go and eat,
 shall we?
 
-771
+797
 01:01:27,009 --> 01:01:27,998
 跟我來
 By all means.
 Thank you, Charlie.
 
-772
+798
 01:01:31,714 --> 01:01:35,912
 你想坐哪，法蘭克？
 還是主位？
@@ -5193,19 +5271,19 @@ Where you
 wanna sit, Frank?
 At the head again?
 
-773
+799
 01:01:35,985 --> 01:01:39,648
 麻將桌也成
 這兒很好
 Any old card table
 will do. This is fine.
 
-774
+800
 01:01:41,724 --> 01:01:43,487
 我講到哪了？
 Where was I?
 
-775
+801
 01:01:43,559 --> 01:01:46,960
 我早上四點醒來
 不知道身邊是誰
@@ -5213,26 +5291,26 @@ So, I wake up.
 It's 4:00 in the morning.
 I don't know who I'm with
 
-776
+802
 01:01:47,029 --> 01:01:48,826
 也不知道人在哪
 or why I'm there,
 or where I am.
 
-777
+803
 01:01:49,398 --> 01:01:52,333
 這朵亞洲小野花…
 What am I gonna do?
 I got this Asian flower
 
-778
+804
 01:01:52,668 --> 01:01:56,671
 躺在一邊
 巧笑倩兮
 on one hand,
 all giggly and dewy-like,
 
-779
+805
 01:01:57,006 --> 01:02:00,806
 力大如牛的海軍護士
 躺在另一邊
@@ -5240,7 +5318,7 @@ and this hard-boiled
 Navy nurse outta Omaha,
 on the other.
 
-780
+806
 01:02:00,877 --> 01:02:04,938
 三個成人一張床
 一件衣裳也沒穿
@@ -5248,36 +5326,36 @@ We're three across
 the bed, not a stitch
 of clothes on.
 
-781
+807
 01:02:05,348 --> 01:02:06,679
 我忽然有了點子！
 It comes to me.
 
-782
+808
 01:02:07,817 --> 01:02:12,345
 東西匯合，性橋一座！
 Let east meet west.
 We'll build a
 golden bridge.
 
-783
+809
 01:02:14,223 --> 01:02:16,885
 簡直像個工程大隊！
 I felt like I'd just joined
 the corps of engineers!
 
-784
+810
 01:02:23,266 --> 01:02:24,392
 你們還在聽？
 We all still here?
 
-785
+811
 01:02:25,902 --> 01:02:27,369
 好美的故事
 It's a
 beautiful story.
 
-786
+812
 01:02:30,306 --> 01:02:34,572
 你語不驚人死不休是吧？
 Do you always enjoy
@@ -5285,21 +5363,21 @@ shocking people,
 Uncle Frank?
 Honey...
 
-787
+813
 01:02:35,244 --> 01:02:37,109
 沒想到你這麼容易被驚
 I didn't know
 you were so
 easily shocked, Randy.
 
-788
+814
 01:02:37,847 --> 01:02:39,712
 佩服你的敏感
 I admire your
 sensibilities,
 I'm touched.
 
-789
+815
 01:02:39,982 --> 01:02:45,545
 爸，記得你叫法蘭克
 去狗屋的事？
@@ -5307,40 +5385,40 @@ Dad, remember the time
 you persuaded Frank
 to go to the kennel?
 
-790
+816
 01:02:45,621 --> 01:02:46,280
 怎麼樣？
 What about it?
 
-791
+817
 01:02:46,389 --> 01:02:48,414
 他差點把人家生意毀了
 He almost put
 the seeing eye dog business
 outta business.
 
-792
+818
 01:02:48,558 --> 01:02:49,650
 夠了
 Cool it, Randy.
 
-793
+819
 01:02:50,059 --> 01:02:51,117
 都過去了
 It's over and done with.
 
-794
+820
 01:02:52,461 --> 01:02:53,928
 可不是嘛，蓋瑞
 Indeed it is, Garry.
 
-795
+821
 01:02:54,263 --> 01:02:56,128
 都過去了，晚餐也完了
 Indeed it is.
 So is dinner.
 
-796
+822
 01:02:56,532 --> 01:02:59,467
 查理，幾點了？
 我們該走了
@@ -5349,7 +5427,7 @@ you have?
 I think we better
 be gettin' back.
 
-797
+823
 01:02:59,735 --> 01:03:02,932
 有沒有想過換隻盲人錶？
 You ever given
@@ -5357,26 +5435,26 @@ any thought to
 a Braille watch, Frank?
 Randy...
 
-798
+824
 01:03:03,973 --> 01:03:07,568
 史提夫汪達也戴
 你不喜歡是吧？
 Stevie Wonder wears one,
 or do you rank on him, too?
 
-799
+825
 01:03:07,643 --> 01:03:08,575
 甜心，夠了
 Honey, please.
 
-800
+826
 01:03:08,811 --> 01:03:10,938
 沒關係，葛蘿莉亞…
 It's all right, Gloria.
 I enjoy Randy's
 observations.
 
-801
+827
 01:03:11,080 --> 01:03:14,880
 我太太叫葛兒，法蘭克！
 你聽到沒？是葛兒
@@ -5385,57 +5463,57 @@ is Gail, Frank.
 Can you hear that?
 Gail.
 
-802
+828
 01:03:15,151 --> 01:03:17,483
 對不起，葛兒
 Excuse me.
 Gail.
 
-803
+829
 01:03:18,487 --> 01:03:20,887
 葛兒一定是個漂亮女人
 Gail strikes me as
 a very beautiful woman,
 
-804
+830
 01:03:21,424 --> 01:03:23,949
 但是她的聲音裡透著緊張
 but, you know,
 there's a little
 tension in her voice.
 
-805
+831
 01:03:24,160 --> 01:03:26,822
 可能有一兩個原因
 I don't know what it is.
 It could be one
 of two things,
 
-806
+832
 01:03:27,029 --> 01:03:29,327
 她緊張，或者不滿現狀
 either Gail is nervous
 or unsatisfied.
 
-807
+833
 01:03:31,968 --> 01:03:33,230
 你什麼意思？
 What's your point,
 Uncle Frank?
 
-808
+834
 01:03:33,502 --> 01:03:34,491
 你應該親她那裡
 You ought to
 go down on her.
 
-809
+835
 01:03:35,705 --> 01:03:37,297
 住口，法蘭克
 Cut it out, Frank,
 will ya?
 
-810
+836
 01:03:37,440 --> 01:03:41,240
 你滿腦子放在糖生意上
 卻忘了真正的蜜糖！
@@ -5446,13 +5524,13 @@ you forgotten
 the taste of
 real honey!
 
-811
+837
 01:03:41,744 --> 01:03:43,211
 法蘭克，住口
 Frank, for
 God's sake!
 
-812
+838
 01:03:43,312 --> 01:03:45,906
 聽到沒？
 她衣裳下有熊熊烈火
@@ -5460,7 +5538,7 @@ Hear that voice?
 There's fire
 under that dress.
 
-813
+839
 01:03:46,048 --> 01:03:48,111
 住口！
 你給我出去！
@@ -5468,7 +5546,7 @@ Will you cut it out?
 Just get the fuck
 outta here.
 
-814
+840
 01:03:48,184 --> 01:03:53,850
 到花街去吧！
 跟你同類在一起
@@ -5478,65 +5556,71 @@ Go down to the Bowery.
 Get with the other fucking
 drunks, where you belong!
 
-815
+841
 01:03:54,390 --> 01:03:55,049
 等一等…
 Wait a minute.
 
-816
-01:03:55,458 --> 01:03:57,517
+842
+01:03:55,458 --> 01:03:56,117
 幹嘛
-別認真
 What?
 Can you take it easy?
 
-817
+843
+01:03:56,459 --> 01:03:57,517
+別認真
+What for?
+
+844
 01:03:57,760 --> 01:04:01,661
 為什麼？你要我讓他
 因為他是瞎子，「查仔」？
-What for?
 You want me to lay off him,
 Chucky, 'cause he's blind?
 
-818
+845
 01:04:02,765 --> 01:04:03,561
 不是，但…
 No, but...
 
-819
+846
 01:04:03,633 --> 01:04:04,691
 我朋友的名字是查理
 My friend's name is Charles.
 
-820
+847
 01:04:05,835 --> 01:04:07,325
 別叫他查仔
 He doesn't like to
 be called Chucky.
 
-821
+848
 01:04:07,803 --> 01:04:09,896
 今天是一家人團圓
 This is supposed to be
 a family get-together.
 
-822
+849
 01:04:10,239 --> 01:04:11,035
 我先警告你了
 Just a warning.
 
-823
-01:04:11,674 --> 01:04:22,079
+850
+01:04:11,674 --> 01:04:12,663
 老天爺！
 又來一個把白癡當英雄的笨蛋
-還是過氣的！
 Jesus Christ,
 another sucker who thinks
 this shit-heel's a war hero.
 Hoo-ah!
+
+851
+01:04:19,815 --> 01:04:22,079
+還是過氣的！
 Well, once, maybe.
 
-824
+852
 01:04:23,019 --> 01:04:26,284
 他一定跟你吹過他
 當詹森幕僚
@@ -5544,35 +5628,35 @@ I suppose he told
 you about his days on
 Lyndon Johnson's staff?
 
-825
+853
 01:04:26,355 --> 01:04:27,822
 本來我要走，現在不了
 I was gonna go.
 Now I'm not leaving.
 
-826
+854
 01:04:29,659 --> 01:04:31,991
 法蘭克本來被內定升將軍
 Frank was earmarked
 for general.
 
-827
+855
 01:04:32,294 --> 01:04:33,318
 內定…好字眼
 Earmarked, good word.
 
-828
+856
 01:04:34,130 --> 01:04:36,496
 但是他朝每個人亂開炮
 Frank likes to spit
 in everybody's eye!
 
-829
+857
 01:04:36,565 --> 01:04:37,554
 夠了
 Randy, that's enough.
 
-830
+858
 01:04:37,733 --> 01:04:41,999
 他們…
 軍中術語是什麼來著
@@ -5580,46 +5664,46 @@ So they, what do they call it,
 when they give you the
 shaft in the military?
 
-831
+859
 01:04:42,371 --> 01:04:43,030
 跳過！
 Passed over!
 
-832
+860
 01:04:43,339 --> 01:04:46,536
 法蘭克就被跳過了
 Right, Frank was
 passed over
 for promotion.
 
-833
+861
 01:04:47,443 --> 01:04:48,569
 好幾次
 Couple times.
 
-834
+862
 01:04:53,115 --> 01:04:53,979
 結果…
 You wanna know
 what happened then?
 
-835
+863
 01:04:54,216 --> 01:04:55,205
 閉嘴！
 Will you shut
 your mouth?
 
-836
+864
 01:04:55,685 --> 01:04:56,743
 他自己搞砸了
 He blew himself up.
 
-837
+865
 01:04:56,986 --> 01:04:58,180
 住口！
 Stop it, Randy.
 
-838
+866
 01:04:58,621 --> 01:05:00,145
 中校拿著手榴彈…
 在布拉格堡還是什麼的鬼地方
@@ -5628,26 +5712,26 @@ a grenade juggling act
 at Fort Bragg, or wherever
 it was they dumped him.
 
-839
+867
 01:05:04,560 --> 01:05:05,322
 班寧堡
 Fort Benning.
 
-840
+868
 01:05:05,394 --> 01:05:08,329
 他正在教白刃戰…
 He was teaching
 hand-to-hand combat
 to second lieutenants...
 
-841
+869
 01:05:08,397 --> 01:05:10,729
 跟我講話時候要看著我
 Randy, look at me when
 you're talking to me,
 now, son.
 
-842
+870
 01:05:10,900 --> 01:05:15,298
 我是在看，法蘭克
 他的夥伴是上尉…
@@ -5655,30 +5739,33 @@ I'm lookin', Frank.
 His partner in the act
 was some captain.
 
-843
+871
 01:05:15,471 --> 01:05:18,031
 文生史奎斯少校
 管他是誰
 Major Vincent Squires.
 Whoever he was.
 
-844
-01:05:18,107 --> 01:05:23,609
+872
+01:05:18,107 --> 01:05:21,634
 他們先喝早餐酒
 法蘭克喝的是伏特加
-夥伴喝的是血腥瑪莉
 Before going on, they'd
 have a lo-cal breakfast,
+
+873
+01:05:21,744 --> 01:05:23,609
+夥伴喝的是血腥瑪莉
 a screwdriver for Frank,
 bloody mary for his partner.
 
-845
+874
 01:05:23,779 --> 01:05:25,542
 文生又愛喝混酒
 No, Vincent drank
 Sea Breezes.
 
-846
+875
 01:05:25,715 --> 01:05:31,149
 班寧堡的法官說法蘭克喝的
 至少是他夥伴的四倍
@@ -5689,76 +5776,82 @@ at Benning said
 Colonel Slade had four
 to his partner's one.
 
-847
+876
 01:05:31,255 --> 01:05:33,746
 他在課堂上騰雲駕霧
-他開始拉出插銷
 He's really
 flying in class.
 He gets all excited.
+
+877
+01:05:33,824 --> 01:05:36,452
+他開始拉出插銷
 He starts pulling
 the pins out.
 
-848
+878
 01:05:39,296 --> 01:05:41,025
 一枚手榴彈鬆了手
 One grenade got
 away from him.
 
-849
+879
 01:05:41,832 --> 01:05:42,821
 碰…！
 Boom.
 
-850
+880
 01:05:45,836 --> 01:05:47,303
 鬆手的那枚…
 The one that got away.
 
-851
+881
 01:05:47,638 --> 01:05:50,630
 法蘭克堅持沒拔插銷
 The pin was in,
 Frank claims.
 
-852
+882
 01:05:52,176 --> 01:05:53,666
 有什麼差別？
 In or out, what
 difference does it make?
 
-853
+883
 01:05:53,844 --> 01:05:55,971
 哪個笨蛋會去玩手榴彈？
 What kind of
 fucking lunatic
 juggles grenades?
 
-854
+884
 01:05:57,581 --> 01:05:58,570
 文生倒沒事
 Vinnie came out okay.
 
-855
+885
 01:05:58,849 --> 01:06:00,976
 法蘭克也只不過瞎了而已
-想不想聽實話？
-你猜是什麼？
 All Frank lost
 was his eyesight.
+
+886
+01:06:05,656 --> 01:06:07,920
+想不想聽實話？
+你猜是什麼？
 You wanna know
 the truth?
 Got a handle
 on that, do you?
 
-856
+887
 01:06:08,125 --> 01:06:09,456
 他以前是個王八蛋
 He was
 an asshole before.
 Hoo-ah!
 
-857
+888
 01:06:12,730 --> 01:06:25,608
 現在是個瞎了眼的王八蛋
 上帝很好玩
@@ -5767,13 +5860,13 @@ is a blind asshole.
 Hoo-ah.
 Hey, God's a funny guy.
 
-858
+889
 01:06:27,745 --> 01:06:29,804
 挺有幽默感的
 God doth have
 a sense of humor.
 
-859
+890
 01:06:32,349 --> 01:06:36,012
 也許上帝覺得
 有人不配去看
@@ -5782,24 +5875,24 @@ some people don't
 deserve to see.
 Hoo-ah.
 
-860
+891
 01:06:43,026 --> 01:06:44,687
 懂了吧？「查仔」
 You get
 the point, Chucky?
 
-861
+892
 01:06:50,234 --> 01:06:51,496
 他叫查理
 His name is Charles.
 
-862
+893
 01:06:52,903 --> 01:06:54,837
 會不會念？查理
 You can say that,
 can't you? Charles.
 
-863
+894
 01:06:55,105 --> 01:06:56,163
 知道這是什麼吧？
 以前我教那些小鬼的鎖喉扣
@@ -5809,38 +5902,38 @@ From teaching
 those lieutenants.
 Colonel, let go.
 
-864
+895
 01:06:59,643 --> 01:07:02,168
 再使點力
 你的氣管就破了
 Little pressure,
 I bust your windpipe.
 
-865
+896
 01:07:02,513 --> 01:07:04,174
 我不介意的
 I don't care
 what he said to me.
 After me.
 
-866
+897
 01:07:04,248 --> 01:07:06,648
 查理
 中校，我們走吧
 Charles.
 Just let go, please!
 
-867
+898
 01:07:26,937 --> 01:07:27,926
 葛心…
 Gretchen?
 
-868
+899
 01:07:29,673 --> 01:07:31,197
 你菜燒得比上次好
 You outdid yourself.
 
-869
+900
 01:07:33,744 --> 01:07:38,010
 你可把我迷住了
 明年我們吃火雞大餐
@@ -5850,28 +5943,28 @@ we're talking
 turkey Marbella
 next year.
 
-870
+901
 01:07:38,949 --> 01:07:40,007
 也許吧？
 Who knows?
 Frank?
 
-871
+902
 01:07:49,293 --> 01:07:50,351
 再會，威利
 Goodbye, Willie.
 
-872
+903
 01:07:55,699 --> 01:07:57,030
 我是爛人
 I'm no fucking good.
 
-873
+904
 01:07:59,837 --> 01:08:01,168
 一直都是
 And I never have been.
 
-874
+905
 01:08:07,845 --> 01:08:10,109
 走吧，查理，拿大衣
 小心
@@ -5881,81 +5974,81 @@ Colonel.
 Watch your step.
 Hold it.
 
-875
+906
 01:08:36,940 --> 01:08:40,732
 回紐約，兄弟！
 走吧
 Nueva York,
 compadre. Vamos!
 
-876
+907
 01:09:25,455 --> 01:09:26,581
 有沒戴錶？
 You got a watch?
 
-877
+908
 01:09:30,661 --> 01:09:32,390
 七點廿分
 It's 7:20.
 
-878
+909
 01:09:33,330 --> 01:09:35,992
 我問你有沒有戴錶
 不是幾點
 I didn't ask you the time.
 I asked if you had a watch.
 
-879
+910
 01:09:37,668 --> 01:09:38,657
 在另一個房間
 Yeah, in the other room.
 
-880
+911
 01:09:39,336 --> 01:09:40,325
 去拿
 Get it.
 
-881
+912
 01:09:44,608 --> 01:09:46,599
 你床旁邊有鐘
 Colonel, there's a clock
 right next to your bed.
 
-882
+913
 01:09:48,946 --> 01:09:50,607
 有沒有秒針？
 Does it have
 a second hand?
 
-883
+914
 01:09:57,254 --> 01:09:59,210
 有
 替我計時
 Yeah.
 Time me!
 
-884
+915
 01:10:26,917 --> 01:10:27,906
 多久？
 How long?
 
-885
+916
 01:10:31,922 --> 01:10:33,321
 差不多三十秒
 About 30 seconds.
 
-886
+917
 01:10:34,124 --> 01:10:35,182
 我老了
 I'm rusty.
 
-887
+918
 01:10:36,660 --> 01:10:38,252
 你哪來的槍？
 Where did you get
 a gun, Colonel?
 
-888
+919
 01:10:38,328 --> 01:10:40,518
 「零件」或「武器」
 別叫它做槍
@@ -5963,13 +6056,13 @@ Piece or weapon,
 Charlie,
 never gun.
 
-889
+920
 01:10:44,001 --> 01:10:45,525
 你從哪來的這些零件？
 Where did you
 get the piece?
 
-890
+921
 01:10:46,603 --> 01:10:51,199
 我是美國陸軍軍官
 它是我的隨身配備
@@ -5977,7 +6070,7 @@ I'm an officer
 in the US Army.
 This is my sidearm.
 
-891
+922
 01:10:52,075 --> 01:10:55,408
 可是你已經退役了
 我是退役了，又怎樣
@@ -5986,13 +6079,13 @@ an officer anymore.
 So I'm retired,
 so what?
 
-892
+923
 01:10:56,146 --> 01:10:58,808
 軍官永遠不離他的點45
 An officer never
 relinquishes his.45.
 
-893
+924
 01:10:59,349 --> 01:11:02,750
 最好把它給我
 不然我打電話給羅絲太太
@@ -6000,27 +6093,30 @@ You better relinquish
 it to me or I'm gonna
 have to call Mrs. Rossi.
 
-894
+925
 01:11:03,220 --> 01:11:04,278
 好主意
 Good idea.
 
-895
+926
 01:11:06,156 --> 01:11:07,145
 不然我就回學校
 Then I'm going
 back to school.
 
-896
+927
 01:11:08,025 --> 01:11:09,925
 更好！窗外有藍天
-旅途愉快
 Even better.
 Blue skies, green lights.
+
+928
+01:11:09,993 --> 01:11:12,120
+旅途愉快
 I hope you have
 a wonderful trip.
 
-897
+929
 01:11:12,295 --> 01:11:16,493
 應該只花了廿五秒吧？
 你量了沒有？
@@ -6029,112 +6125,112 @@ Gotta be able to
 do a.45 in 25.
 Did you time me?
 
-898
+930
 01:11:16,566 --> 01:11:18,761
 沒有，我要打給羅絲太太
 I did not and
 I'm calling Albany.
 
-899
+931
 01:11:28,912 --> 01:11:29,901
 那很愚蠢
 That was stupid.
 
-900
+932
 01:11:31,782 --> 01:11:32,771
 是嗎？
 Was it?
 
-901
+933
 01:11:34,785 --> 01:11:36,116
 你跟定我了
 You're stuck with me,
 Charlie.
 
-902
-01:11:37,721 --> 01:11:39,545
-沒有，我要走了
+934
+01:11:37,721 --> 01:11:38,817
 沒有，我要走了
 No, I'm not.
 I'm outta here!
 
-903
-01:11:39,618 --> 01:11:41,142
+935
+01:11:38,817 --> 01:11:41,142
+沒有，我要走了
 回新罕布夏？
 Where you going,
 New Hampshire?
 
-904
+936
 01:11:41,353 --> 01:11:43,344
 怎麼回去？你沒錢
 You got no money.
 How you gonna do that?
 
-905
+937
 01:11:48,026 --> 01:11:50,358
 凱倫的號碼嘗起來像在艾伯尼
 Karen's number
 tastes like Albany.
 
-906
+938
 01:11:53,432 --> 01:11:55,093
 好吧，我走了
 Fine.
 I'm leaving.
 
-907
+939
 01:11:55,167 --> 01:11:57,567
 查理！
 Charlie. Charlie!
 
-908
+940
 01:12:10,449 --> 01:12:14,249
 我只要你…
 多陪我一天
 All I want from you
 is another day.
 
-909
+941
 01:12:15,520 --> 01:12:16,509
 做什麼？
 For what?
 
-910
+942
 01:12:19,524 --> 01:12:22,186
 戰場最後的巡禮…
 One last tour
 of the battlefield.
 
-911
+943
 01:12:26,198 --> 01:12:28,325
 紐約我很熟
 I can get around
 a city like New York,
 
-912
+944
 01:12:29,735 --> 01:12:30,724
 但是…
 but I
 
-913
+945
 01:12:31,670 --> 01:12:34,332
 偶爾我需要有人指點方向
 sometimes need a point
 in the right direction.
 
-914
+946
 01:12:37,809 --> 01:12:39,276
 如何，查理？
 What do you say,
 Charles?
 
-915
+947
 01:12:39,745 --> 01:12:42,737
 陪朋友一天算得了什麼？
 What's one day
 between friends?
 
-916
+948
 01:12:46,818 --> 01:12:51,949
 如果我多留一天…
 你能把武器交給我嗎？
@@ -6144,32 +6240,32 @@ Will you give me
 your weapon?
 Oh, Charlie,
 
-917
+949
 01:12:54,226 --> 01:12:56,217
 我是美國陸軍中校
 I'm a lieutenant colonel,
 United States Army.
 
-918
+950
 01:12:56,295 --> 01:12:58,627
 我不把槍交給任何人
 I'm not giving
 my fucking gun
 to anyone.
 
-919
+951
 01:12:58,964 --> 01:13:00,295
 你要喝什麼？
 Now, what are
 you drinkin'?
 
-920
+952
 01:13:01,366 --> 01:13:03,300
 中校，這種行為是不對的
 Colonel, this
 is unacceptable.
 
-921
+953
 01:13:03,902 --> 01:13:08,305
 不對的？
 少給我那套公子經！
@@ -6178,7 +6274,7 @@ What are you givin' me
 that prep school crap for?
 Unacceptable?
 
-922
+954
 01:13:08,373 --> 01:13:11,706
 他們怎麼把你弄得
 這麼沒人性
@@ -6186,76 +6282,76 @@ What have they done,
 taken the Oregon
 out of the boy?
 
-923
+955
 01:13:12,144 --> 01:13:13,907
 答應你哈佛的獎學金是吧？
 Put in Harvard
 Business School?
 
-924
+956
 01:13:15,447 --> 01:13:16,573
 不然把子彈給我
 Then give me
 your bullets.
 
-925
+957
 01:13:23,221 --> 01:13:25,883
 你看穿我要自殺了？
 You do see the sense of it,
 Charlie, don't you?
 
-926
+958
 01:13:29,394 --> 01:13:31,385
 我已形同廢物
 I can't chew
 the leather anymore.
 
-927
+959
 01:13:32,698 --> 01:13:37,897
 為什麼要浪費糧食？
 So, why should I share
 the tribe's provisions?
 
-928
+960
 01:13:39,738 --> 01:13:41,467
 我是說，沒有人…
 I mean, there's no one
 
-929
+961
 01:13:42,341 --> 01:13:45,003
 願意和我共渡良宵了
 wants to tear a herring
 with me anymore.
 
-930
+962
 01:13:47,779 --> 01:13:48,837
 子彈給我，中校
 The bullets, Colonel.
 
-931
+963
 01:13:49,481 --> 01:13:53,815
 你聽來像「傲世軍魂」男主角
 "The bullets, Colonel."
 You sound like a guy in
 Lives of a Bengal Lancer.
 
-932
+964
 01:14:13,638 --> 01:14:15,299
 你才不關心呢？
 What do you
 give a shit for?
 
-933
+965
 01:14:17,175 --> 01:14:18,164
 你指什麼？
 About what?
 
-934
+966
 01:14:18,710 --> 01:14:19,699
 什麼什麼？
 About what?
 
-935
+967
 01:14:20,645 --> 01:14:23,375
 我是不是把自己打的
 腦袋開花
@@ -6263,162 +6359,162 @@ About whether
 I blow my brains
 out or not.
 
-936
+968
 01:14:29,521 --> 01:14:31,318
 我有良心
 Because I have
 a conscience.
 
-937
+969
 01:14:31,390 --> 01:14:32,516
 良心
 You have
 a conscience.
 
-938
+970
 01:14:34,192 --> 01:14:35,386
 我竟然忘了
 I forgot.
 
-939
+971
 01:14:37,062 --> 01:14:38,723
 查理的良心
 The Charlie Conscience.
 
-940
+972
 01:14:41,066 --> 01:14:43,398
 要說？還是不說
 Do we tell?
 Do we not tell?
 
-941
+973
 01:14:45,137 --> 01:14:48,004
 要不要聽從有錢少爺們？
 Do we follow
 the rich boy's code
 or not?
 
-942
+974
 01:14:48,940 --> 01:14:51,272
 要不要讓這瞎眼王八蛋…
 Do we let this
 blind asshole
 
-943
+975
 01:14:52,077 --> 01:14:53,942
 去死？
 die or not?
 Yeah.
 
-944
+976
 01:14:56,515 --> 01:14:58,506
 良心，查理
 Conscience, Charlie.
 
-945
+977
 01:14:59,551 --> 01:15:00,882
 你何時出生的？
 When were
 you born, son?
 
-946
+978
 01:15:01,486 --> 01:15:03,351
 圓桌武士時代？
 Around the time
 of the Round Table?
 
-947
+979
 01:15:05,090 --> 01:15:06,421
 你聽見我沒有？
 Haven't you heard?
 
-948
+980
 01:15:07,225 --> 01:15:10,217
 良心已死
 Conscience is dead.
 
-949
+981
 01:15:11,163 --> 01:15:12,357
 不，我沒聽說過
 No, I haven't heard.
 
-950
+982
 01:15:12,697 --> 01:15:16,565
 那就他媽的擦乾淨你耳朵
 Then take the fucking wax
 outta your ears!
 
-951
+983
 01:15:19,538 --> 01:15:20,300
 長大！
 Grow up!
 
-952
+984
 01:15:31,983 --> 01:15:33,314
 滾你媽的蛋，小傢伙
 It's fuck your buddy.
 
-953
+985
 01:15:35,187 --> 01:15:36,848
 欺騙你太太
 Cheat on your wife.
 
-954
+986
 01:15:40,192 --> 01:15:42,660
 母親節打電話問候你媽
 Call your mother
 on Mother's Day.
 Charlie,
 
-955
+987
 01:15:47,399 --> 01:15:48,798
 都是狗屎
 it's all shit.
 
-956
+988
 01:16:00,612 --> 01:16:01,601
 你去哪裡
 Where you goin'?
 
-957
+989
 01:16:03,215 --> 01:16:04,546
 去尿尿
 I got piss call.
 
-958
+990
 01:16:06,618 --> 01:16:09,553
 雖然我說要你多留一天…
 I know I said I need ya
 forjust one day
 
-959
+991
 01:16:09,621 --> 01:16:11,953
 我的尿可等不了那麼久
 but even I can't
 hold it that long.
 
-960
+992
 01:16:14,559 --> 01:16:15,548
 查理！
 Oh, and Charlie,
 
-961
+993
 01:16:17,762 --> 01:16:19,286
 你忘了槍膛裡還有一粒
 you forgot the one
 in the chamber.
 
-962
+994
 01:16:28,373 --> 01:16:29,362
 好了，先生
 There you go, sir.
 
-963
+995
 01:16:30,575 --> 01:16:31,303
 謝謝
 Thank you.
 
-964
+996
 01:16:34,846 --> 01:16:39,977
 服役26年
 從沒讓助理擦過鞋
@@ -6427,13 +6523,13 @@ in the service,
 never let an aide
 shine my shoes.
 
-965
+997
 01:16:40,785 --> 01:16:43,117
 26年後你會在哪裡？
 Where you gonna be
 in 26 years, Charlie?
 
-966
+998
 01:16:44,189 --> 01:16:47,716
 和你博德的老友
 打高爾夫吧
@@ -6441,44 +6537,44 @@ Playing golf with
 your friends from
 the Baird School, I bet.
 
-967
+999
 01:16:50,929 --> 01:16:52,590
 我根本不喜歡他們
 I don't even
 like those guys.
 
-968
+1000
 01:16:53,331 --> 01:16:56,198
 你當然不喜歡
 他們是王八蛋
 Of course you don't.
 They're all assholes.
 
-969
+1001
 01:16:57,335 --> 01:16:59,326
 能說出他們就好了
 Be a pleasure to
 squeal on 'em,
 wouldn't it?
 
-970
+1002
 01:17:00,872 --> 01:17:02,533
 我不是告密的小人
 Yeah, well,
 I'm not a squealer.
 
-971
+1003
 01:17:02,674 --> 01:17:03,800
 「我不是告密的小人！」
 "I'm not a squealer."
 
-972
+1004
 01:17:04,209 --> 01:17:05,938
 這是什麼？冤獄啊？
 What is this,
 the Dreyfus case?
 
-973
+1005
 01:17:10,815 --> 01:17:12,544
 哦，媽呀…
 Ooh. Ooh, mama!
@@ -6486,63 +6582,63 @@ There you go.
 Thank you.
 Thank you.
 
-974
+1006
 01:17:18,823 --> 01:17:19,755
 小心
 Watch your step.
 
-975
+1007
 01:17:22,894 --> 01:17:25,556
 我又有預感了，查理
 I'm gettin' that heavy
 feelin' again, Charlie.
 
-976
+1008
 01:17:29,501 --> 01:17:30,763
 這事還沒完呢
 There's more to this,
 isn't there?
 
-977
+1009
 01:17:33,038 --> 01:17:34,027
 不是嗎？
 Isn't there?
 
-978
+1010
 01:17:37,842 --> 01:17:39,173
 有人賄賂我
 I was offered
 a bribe.
 
-979
+1011
 01:17:40,178 --> 01:17:41,577
 有點開竅了
 Now we're cookin'.
 
-980
+1012
 01:17:43,181 --> 01:17:45,649
 校長垂斯克先生…
 Mr. Trask,
 the headmaster,
 
-981
+1013
 01:17:47,986 --> 01:17:49,647
 答應讓我進哈佛
 he promised to get
 me into Harvard.
 
-982
+1014
 01:17:49,821 --> 01:17:50,947
 只要你告密
 If you squeal.
 Yeah.
 
-983
+1015
 01:17:53,191 --> 01:17:54,249
 真是悲劇
 What a dilemma.
 
-984
+1016
 01:17:54,993 --> 01:17:58,793
 查理西門
 該不該搭便車進哈佛
@@ -6550,27 +6646,30 @@ Should Charlie Simms
 accept a free ride
 into Harvard, or not?
 
-985
+1017
 01:18:01,066 --> 01:18:04,263
 易地而處，喬治會怎麼辦？
 What do you think your
 friend George would do
 if he were in your shoes?
 
-986
+1018
 01:18:05,003 --> 01:18:07,267
 他一定會的
 怎麼說？
-垂斯克先生
-沒說要送他進哈佛
 He is,
 practically.
+
+1019
+01:18:07,339 --> 01:18:11,673
+垂斯克先生
+沒說要送他進哈佛
 How?
 It's just that Mr. Trask
 hasn't promised to get
 him into Harvard.
 
-987
+1020
 01:18:12,077 --> 01:18:16,411
 他不必要
 喬治的爹會想辦法
@@ -6580,7 +6679,7 @@ George's father's
 gonna take care
 of that.
 
-988
+1021
 01:18:18,583 --> 01:18:22,451
 點頭吧，查理
 進哈佛去
@@ -6588,46 +6687,46 @@ Do the deal,
 Charlie. Take it!
 Go to Harvard.
 
-989
+1022
 01:18:23,755 --> 01:18:24,949
 我不能這麼做
 I can't do that.
 
-990
+1023
 01:18:25,256 --> 01:18:26,245
 為什麼不能？
 Why not?
 
-991
+1024
 01:18:28,760 --> 01:18:31,490
 有些事你就是不能做
 There are just
 some things
 you can't do.
 
-992
+1025
 01:18:32,230 --> 01:18:33,561
 解釋給我聽
 Explain 'em to me.
 
-993
+1026
 01:18:35,767 --> 01:18:36,961
 大聲一點，拜託
 Louder, please.
 
-994
+1027
 01:18:37,035 --> 01:18:38,366
 我不能…
 I can't...
 
-995
+1028
 01:18:40,438 --> 01:18:43,168
 你在這世上可要吃苦頭了
 You're gonna
 have a tough time
 in this world, Charlie.
 
-996
+1029
 01:18:45,043 --> 01:18:48,842
 為了讓你放輕鬆
 請你喝一杯
@@ -6636,51 +6735,51 @@ To ease the blow,
 let me buy you
 a drink. Come on.
 
-997
+1030
 01:18:50,115 --> 01:18:51,980
 傑克丹尼爾加冰塊
 Double
 Jack Daniels on the rocks.
 
-998
+1031
 01:18:52,450 --> 01:18:55,647
 給我朋友一杯雪莉雞尾酒
 And bring my
 young friend here
 a Shirley Temple.
 
-999
+1032
 01:18:56,454 --> 01:18:58,445
 等等，你有啤酒嗎？
 Hold on.
 Do you have beer?
 
-1000
+1033
 01:18:58,790 --> 01:19:01,054
 當然有，你有證件嗎？
 Certainly. May I
 see some ID?
 
-1001
+1034
 01:19:01,259 --> 01:19:04,319
 你想要一輩子當侍者？
 Are you interested
 in walkin' the rest
 of your life, chappy?
 
-1002
+1035
 01:19:04,729 --> 01:19:05,718
 抱歉，但是…
 I'm sorry, sir, but...
 
-1003
+1036
 01:19:05,864 --> 01:19:09,197
 我是這兒的常客
 我孩子快廿三了
 I'm a regular here.
 My boy's going on 23.
 
-1004
+1037
 01:19:09,467 --> 01:19:10,798
 你何不打電話問經理？
 吉伯先生是我朋友
@@ -6690,28 +6789,28 @@ the office?
 Mr. Gilbert,
 he's a friend of mine.
 
-1005
+1038
 01:19:17,409 --> 01:19:18,876
 指定要哪個牌子嗎
 Any particular beer?
 
-1006
+1039
 01:19:19,177 --> 01:19:21,907
 「史利茲」，沒有的話
 Schlitz. No Schlitz?
 
-1007
+1040
 01:19:22,480 --> 01:19:25,278
 就要「布雷茲」
 沒有「布雷茲」的話
 Blatz. No Blatz?
 
-1008
+1041
 01:19:25,884 --> 01:19:27,146
 就隨便了
 Lmprovise.
 
-1009
+1042
 01:19:28,286 --> 01:19:32,357
 一定讓您滿意
 謝了
@@ -6719,19 +6818,19 @@ I'll do my best, sir.
 Thank you, sir.
 Thank you, sir.
 
-1010
+1043
 01:19:32,357 --> 01:19:35,019
 你總算像人了！喝啤酒呢！
 You're human, Charlie.
 Beer?
 
-1011
+1044
 01:19:38,497 --> 01:19:40,158
 我們在跟誰一塊兒喝？
 Who are we
 drinking with?
 
-1012
+1045
 01:19:40,632 --> 01:19:44,432
 上好香皂和水的清香
 從那兒飄來
@@ -6739,12 +6838,12 @@ I'm getting
 a nice soap-and-water
 feeling from down there.
 
-1013
+1046
 01:19:52,377 --> 01:19:54,242
 哦，女性
 A female.
 
-1014
+1047
 01:19:54,646 --> 01:20:00,050
 「女性」就表示你對她
 有意思
@@ -6753,59 +6852,62 @@ You callin' her female
 must mean you like her
 or you wouldn't be so casual.
 
-1015
+1048
 01:20:03,955 --> 01:20:04,751
 她一個人？
 Is she alone?
 
-1016
+1049
 01:20:05,290 --> 01:20:06,416
 一個人
 Yeah, she's alone.
 
-1017
+1050
 01:20:08,960 --> 01:20:11,952
 好戲要開鑼囉，栗色頭髮？
 Things are heatin' up.
 Chestnut hair?
 
-1018
+1051
 01:20:12,898 --> 01:20:15,366
 棕色，淡棕色
 Brown, light brown.
 
-1019
+1052
 01:20:17,669 --> 01:20:18,658
 廿二？
-我不太會猜年齡
 Twenty-two?
+
+1053
+01:20:20,639 --> 01:20:23,039
+我不太會猜年齡
 What am I,
 a guy at a carnival?
 
-1020
+1054
 01:20:24,376 --> 01:20:27,038
 活到老，「泡」到老
 The day we stop lookin',
 Charlie, is the day we die.
 
-1021
+1055
 01:20:28,246 --> 01:20:29,235
 行動
 Move.
 
-1022
+1056
 01:20:29,648 --> 01:20:31,115
 往哪？
 你知道哪兒
 Where?
 You know where, son.
 
-1023
+1057
 01:20:31,516 --> 01:20:32,847
 別害羞
 Don't be coy, Charlie.
 
-1024
+1058
 01:20:35,587 --> 01:20:38,317
 她是為你造的
 我有預感
@@ -6813,31 +6915,31 @@ This woman is
 made for you.
 I can feel it.
 
-1025
+1059
 01:20:39,057 --> 01:20:40,649
 漂亮死了吧？
 Goddamn beautiful,
 isn't she?
 
-1026
+1060
 01:20:41,326 --> 01:20:44,318
 不壞
 賓果！你還活著
 She's not bad.
 Bingo! The boy's alive.
 
-1027
+1061
 01:20:45,597 --> 01:20:48,259
 來吧，孩子，大步走
 Come on, son,
 perambulate.
 
-1028
+1062
 01:20:49,334 --> 01:20:50,528
 大步走
 Perambulate.
 
-1029
+1063
 01:21:00,479 --> 01:21:04,142
 打擾您了，小姐
 介意我們和您同坐嗎？
@@ -6845,115 +6947,115 @@ Excuse me, se·orita,
 do you mind if
 we join you?
 
-1030
+1064
 01:21:05,750 --> 01:21:07,741
 我有個您被忽視的感覺呢
 I'm feelin' you're
 being neglected.
 
-1031
+1065
 01:21:09,488 --> 01:21:11,217
 我在等人
 I'm expecting somebody.
 
-1032
+1066
 01:21:13,425 --> 01:21:14,551
 他馬上就來？
 Instantly?
 
-1033
+1067
 01:21:16,328 --> 01:21:18,990
 不，但隨時會到
 隨時會到
 No, but any minute now.
 Any minute?
 
-1034
+1068
 01:21:19,431 --> 01:21:21,763
 有些人一分鐘內過盡一生
 Some people live
 a lifetime
 in a minute.
 
-1035
+1069
 01:21:23,301 --> 01:21:24,290
 現在你做什麼？
 What are you doin'
 right now?
 
-1036
+1070
 01:21:25,737 --> 01:21:27,466
 我等他
 I'm waiting for him.
 
-1037
+1071
 01:21:28,340 --> 01:21:31,002
 介不介意我們陪你等？
 Would you mind if
 we waited with you,
 
-1038
+1072
 01:21:32,244 --> 01:21:35,304
 好叫登徒子別煩你
 just to keep
 the womanizers
 from bothering you?
 
-1039
+1073
 01:21:39,151 --> 01:21:40,413
 不，我不介意
 No, I don't mind.
 
-1040
+1074
 01:21:41,153 --> 01:21:41,949
 謝謝
 Thank you.
 Charlie.
 
-1041
+1075
 01:21:50,862 --> 01:21:53,854
 空氣中有香味兒
 You know, I detect
 a fragrance
 in the air.
 
-1042
+1076
 01:21:54,199 --> 01:21:55,530
 別告訴我什麼牌子
 Don't tell me
 what it is.
 
-1043
+1077
 01:21:57,269 --> 01:21:58,736
 「歐吉維姐妹」香皂
 Ogilvie Sisters
 soap.
 
-1044
+1078
 01:22:00,939 --> 01:22:02,133
 真不可思議！
 That's amazing.
 
-1045
+1079
 01:22:02,474 --> 01:22:04,203
 我做的正是不可思議之舉
 I'm in the
 amazing business.
 
-1046
+1080
 01:22:04,809 --> 01:22:06,470
 正是「歐吉維姐妹」香皂
 It is
 Ogilvie Sisters
 soap.
 
-1047
+1081
 01:22:07,479 --> 01:22:09,879
 聖誕節祖母送我的
 My grandmother gave me
 three bars for Christmas.
 
-1048
+1082
 01:22:10,148 --> 01:22:13,948
 我對你祖母著迷了！
 她一定會喜歡查理
@@ -6962,7 +7064,7 @@ your grandmother.
 I think she'd have
 liked Charlie, too.
 
-1049
+1083
 01:22:15,220 --> 01:22:17,484
 別理他
 你的芳名是？
@@ -6970,30 +7072,30 @@ Don't pay any
 attention to him.
 What's your name?
 
-1050
+1084
 01:22:18,356 --> 01:22:19,015
 唐娜
 Donna.
 
-1051
+1085
 01:22:19,491 --> 01:22:22,688
 唐娜，我是法蘭克
 這位是…
 Donna? I'm Frank.
 This here is...
 
-1052
+1086
 01:22:22,794 --> 01:22:23,590
 查理
 Charlie.
 
-1053
+1087
 01:22:24,229 --> 01:22:25,958
 她喜歡你
 Yes.
 She likes you.
 
-1054
+1088
 01:22:27,232 --> 01:22:32,169
 查理有煩惱
 他看來如何？
@@ -7004,65 +7106,65 @@ through a crisis.
 How does he look like
 he's holding up?
 
-1055
+1089
 01:22:33,438 --> 01:22:35,167
 看來還好
 He looks fine to me.
 
-1056
+1090
 01:22:35,373 --> 01:22:37,364
 噢，她真的喜歡你
 查理
 She does like you,
 Charlie.
 
-1057
+1091
 01:22:43,248 --> 01:22:44,237
 好，唐娜…
 So, Donna,
 
-1058
+1092
 01:22:47,552 --> 01:22:48,541
 你跳探戈嗎？
 do you tango?
 
-1059
+1093
 01:22:49,854 --> 01:22:52,254
 以前想要學，但是…
 No. I wanted to
 learn once, but...
 
-1060
+1094
 01:22:52,991 --> 01:22:53,980
 但是？
 But?
 
-1061
+1095
 01:22:55,794 --> 01:22:57,125
 麥可不想
 But Michael
 didn't want to.
 
-1062
+1096
 01:22:57,629 --> 01:23:00,757
 麥可，你在等的人
 Michael.
 The one you're
 waiting for.
 
-1063
+1097
 01:23:02,200 --> 01:23:04,532
 麥可覺得探戈很可笑
 Michael thinks
 the tango's hysterical.
 
-1064
+1098
 01:23:04,936 --> 01:23:06,927
 嗯，我想麥可很可笑
 I think Michael's
 hysterical.
 
-1065
+1099
 01:23:08,206 --> 01:23:11,198
 別理他…
 我好像說過了？
@@ -7071,29 +7173,29 @@ attention to him.
 Did I already
 say that?
 
-1066
+1100
 01:23:14,212 --> 01:23:15,543
 多美的笑聲
 What a beautiful laugh.
 
-1067
+1101
 01:23:17,882 --> 01:23:18,940
 謝謝，法蘭克
 Thank you, Frank.
 
-1068
+1102
 01:23:25,090 --> 01:23:26,751
 你想不想學探戈？
 Would you like
 to learn to tango,
 Donna?
 
-1069
+1103
 01:23:30,695 --> 01:23:31,684
 現在？
 Right now?
 
-1070
+1104
 01:23:33,398 --> 01:23:37,664
 免費服務，如何？
 I'm offering you
@@ -7101,24 +7203,24 @@ my services,
 free of charge.
 What do you say?
 
-1071
+1105
 01:23:41,906 --> 01:23:43,635
 我有點怕
 I think I'd be
 a little afraid.
 
-1072
+1106
 01:23:45,010 --> 01:23:46,136
 怕什麼？
 Of what?
 
-1073
+1107
 01:23:47,646 --> 01:23:49,637
 踩錯步
 Afraid of making
 a mistake.
 
-1074
+1108
 01:23:51,249 --> 01:23:54,377
 探戈裡無所謂錯步的
 不像人生…
@@ -7126,14 +7228,14 @@ No mistakes
 in the tango, Donna.
 Not like life.
 
-1075
+1109
 01:23:55,053 --> 01:23:57,783
 它簡單，所以才棒
 It's simple.
 That's what makes
 the tango so great.
 
-1076
+1110
 01:23:57,856 --> 01:24:01,519
 要是踏錯步或絆倒了
 繼續跳
@@ -7141,40 +7243,40 @@ If you make a mistake,
 get all tangled up,
 just tango on.
 
-1077
+1111
 01:24:04,663 --> 01:24:05,652
 何不試試？
 Why don't you try?
 
-1078
+1112
 01:24:10,802 --> 01:24:11,791
 好嗎？
 Will you try it?
 
-1079
+1113
 01:24:14,205 --> 01:24:16,002
 好，我試試
 All right.
 I'll give it a try.
 
-1080
+1114
 01:24:17,742 --> 01:24:18,868
 扶住我，孩子
 Hold me down, son.
 
-1081
+1115
 01:24:26,017 --> 01:24:27,006
 你的手？
 Your arm?
 Charlie,
 
-1082
+1116
 01:24:32,957 --> 01:24:34,618
 給我一點方位
 I'm gonna need some
 coordinates here, son.
 
-1083
+1117
 01:24:35,560 --> 01:24:41,632
 舞池大約二十尺乘三十尺
 你在舞池這邊
@@ -7183,7 +7285,7 @@ The floor's about
 and you're at
 the long end.
 
-1084
+1118
 01:24:41,700 --> 01:24:45,033
 外圍有些桌子…
 樂隊也在那
@@ -7192,26 +7294,26 @@ on the outside and
 the band's
 on the right.
 
-1085
+1119
 01:27:25,737 --> 01:27:29,138
 你跳的好極了！
 Frank, you are
 one incredible
 dancer.
 
-1086
+1120
 01:27:32,410 --> 01:27:34,071
 查理跳的才好呢
 Wait'll you see
 Charlie dance.
 
-1087
+1121
 01:27:35,413 --> 01:27:37,074
 他撒謊，我不會跳
 He's a liar.
 I don't dance.
 
-1088
+1122
 01:27:37,348 --> 01:27:42,877
 事實上，他不僅會跳
 還能唱
@@ -7222,7 +7324,7 @@ not only can he dance,
 but he'll sing you
 a hell of a tune.
 
-1089
+1123
 01:27:42,954 --> 01:27:46,287
 他會學鳥叫
 還會模仿明星
@@ -7232,19 +7334,19 @@ Hi, honey.
 Hi.
 Hey.
 
-1090
+1124
 01:27:48,626 --> 01:27:51,356
 麥可，這是法蘭克，查理
 Michael, this is Frank
 and this is Charlie.
 
-1091
+1125
 01:27:51,496 --> 01:27:53,361
 抱歉我遲到了
 Hi, Frank, Charlie.
 Sorry I'm late.
 
-1092
+1126
 01:27:53,431 --> 01:27:57,561
 沒關係
 有兩位先生陪著我
@@ -7252,18 +7354,18 @@ That's okay.
 These two gentlemen
 entertained me,
 
-1093
+1127
 01:27:57,902 --> 01:27:59,233
 時間一下子打發了
 and time flew.
 
-1094
+1128
 01:27:59,771 --> 01:28:02,569
 你女友的探戈跳得好極了
 Your girl is a hell
 of a tango dancer.
 
-1095
+1129
 01:28:02,840 --> 01:28:05,968
 你總算找到人
 陪你跳探戈了
@@ -7271,42 +7373,42 @@ At last,
 you found someone
 to tango with.
 
-1096
+1130
 01:28:06,244 --> 01:28:07,176
 太棒了！
 That's terrific!
 
-1097
+1131
 01:28:07,445 --> 01:28:08,776
 我們握個手
 Let me shake your hand.
 
-1098
+1132
 01:28:09,314 --> 01:28:10,645
 不，是法蘭克陪我跳的
 No, it was Frank.
 
-1099
+1133
 01:28:10,915 --> 01:28:12,576
 那我握你們倆的手
 Hell, I'll shake
 both your hands!
 
-1100
+1134
 01:28:14,285 --> 01:28:17,083
 親愛的，我們得走了
 This looks like
 the place, but
 we gotta go.
 
-1101
+1135
 01:28:17,155 --> 01:28:19,817
 和戴瑞和卡洛約好了
 We got a date with
 Darryl and Carol
 in the Village.
 
-1102
+1136
 01:28:20,992 --> 01:28:22,050
 帳單…
 我的榮幸
@@ -7314,50 +7416,50 @@ Do you have a check?
 Michael, please.
 My pleasure.
 
-1103
+1137
 01:28:25,363 --> 01:28:26,455
 不不，我來付
 No, no. I got this.
 
-1104
+1138
 01:28:26,531 --> 01:28:29,659
 把貴手拿開吧，我來
 Michael, get your hand
 outta your pocket.
 I'll take it. Really.
 
-1105
+1139
 01:28:30,835 --> 01:28:31,824
 讓我請吧
 Allow me.
 
-1106
+1140
 01:28:34,706 --> 01:28:38,437
 謝謝了，再會
 Why, thank you.
 Bye, guys.
 Bye.
 
-1107
+1141
 01:28:47,452 --> 01:28:50,785
 「戴瑞和卡洛」，是哦
 Darryl and Carol.
 Yeah.
 
-1108
+1142
 01:28:59,230 --> 01:29:02,222
 17-E，她在等您呢
 It's apartment 17E,
 Colonel.
 She's expecting you.
 
-1109
+1143
 01:29:02,567 --> 01:29:05,764
 別擔心，她是最紅的
 Don't worry about a thing.
 She's the cr·me de la cr·me.
 
-1110
+1144
 01:29:06,571 --> 01:29:11,235
 德國副議長找過她
 現在他想移民呢
@@ -7367,79 +7469,79 @@ of Germany to her.
 Now he wants to
 immigrate to this country.
 
-1111
+1145
 01:29:11,643 --> 01:29:13,110
 辦得好！
 You did good, hombre.
 
-1112
+1146
 01:29:16,114 --> 01:29:17,775
 我的頭髮，還好吧
 My hair, how is it?
 
-1113
+1147
 01:29:18,983 --> 01:29:19,972
 完美
 It's perfect.
 
-1114
+1148
 01:29:23,855 --> 01:29:26,050
 配紅領巾可以嗎？
 I got the red
 foulard okay,
 didn't I?
 
-1115
+1149
 01:29:26,324 --> 01:29:27,985
 是啊，深紅色
 Yeah,
 real dark red.
 
-1116
+1150
 01:29:28,092 --> 01:29:31,255
 是葡萄酒色
 她們愛死了！
 Burgundy, Charlie.
 Burgundy. They love it.
 
-1117
+1151
 01:29:33,498 --> 01:29:34,487
 港灣刮鬍水
 Bay rum.
 
-1118
+1152
 01:29:37,068 --> 01:29:38,057
 溫莎結
 Windsor knot.
 
-1119
+1153
 01:29:41,306 --> 01:29:42,967
 摸摸我的心
 That's my heart
 I'm feelin'.
 
-1120
+1154
 01:29:53,484 --> 01:29:54,143
 走了
 I'm off.
 
-1121
+1155
 01:30:12,970 --> 01:30:13,959
 可以打長途電話嗎？
 Can you get long
 distance on this?
 
-1122
+1156
 01:30:14,639 --> 01:30:15,970
 請自便
 And how. Be my guest.
 
-1123
+1157
 01:30:27,685 --> 01:30:28,879
 「甘蔗叢」賓館
 Sugarbush Lodge.
 
-1124
+1158
 01:30:28,986 --> 01:30:31,853
 請接喬治威利斯
 請稍等
@@ -7448,69 +7550,72 @@ One moment, please.
 Hello?
 Harry?
 
-1125
+1159
 01:30:35,526 --> 01:30:38,188
 哈瑞？
 小查，你好嗎？
 Chas, how are you?
 
-1126
+1160
 01:30:38,262 --> 01:30:41,459
 我們正要帶喬治去機場
 You just caught us.
 We're about to shoot
 George over to the airport.
 
-1127
+1161
 01:30:41,532 --> 01:30:43,193
 他為什麼要去機場？
-慢著，你和他說吧
 Why is George going
 to the airport?
+
+1162
+01:30:43,401 --> 01:30:46,734
+慢著，你和他說吧
 Hold on. Maybe
 you should talk
 to the man himself.
 Chas.
 
-1128
+1163
 01:30:50,074 --> 01:30:50,938
 嗨，喬治
 Yeah. Hi, George.
 
-1129
+1164
 01:30:51,008 --> 01:30:52,475
 晚一步我就走了
 You just caught me.
 
-1130
+1165
 01:30:52,543 --> 01:30:55,205
 我知道，你要去哪？
 That's what Harry said.
 Where you goin'?
 
-1131
+1166
 01:30:55,279 --> 01:30:56,268
 回家
 Home.
 
-1132
+1167
 01:30:56,614 --> 01:30:57,603
 波士頓？
 To Boston?
 
-1133
+1168
 01:30:57,882 --> 01:31:00,749
 嗯，祝我好運
 Catching the puddle·umper.
 Keep your fingers crossed.
 
-1134
+1169
 01:31:00,818 --> 01:31:03,150
 你回家做什麼？
 What are you
 going home for?
 
-1135
+1170
 01:31:05,890 --> 01:31:09,826
 我想…
 老垂也太不講理了
@@ -7518,14 +7623,14 @@ I was thinking.
 This asshole, Trask?
 He's making no sense at all.
 
-1136
+1171
 01:31:11,095 --> 01:31:14,826
 得有人和他說說
 我爸是五九年那屆的
 Somebody's gotta talk to him.
 My father was class of '59.
 
-1137
+1172
 01:31:14,899 --> 01:31:18,491
 你爸爸？
 我們約好不告訴父母的
@@ -7533,13 +7638,16 @@ Your father?
 I thought we were gonna
 keep our parents outta this.
 
-1138
+1173
 01:31:18,970 --> 01:31:23,134
 老垂發瘋了！真瘋了
-一定要有人出面
-我爸又是主要捐款人
 This guy Trask
 is out of control, Chas.
+
+1174
+01:31:23,207 --> 01:31:27,667
+一定要有人出面
+我爸又是主要捐款人
 Out of control!
 Somebody's gotta
 talk to him.
@@ -7547,12 +7655,12 @@ My father's
 a major fundraiser,
 you know.
 
-1139
+1175
 01:31:28,379 --> 01:31:29,311
 我沒有說
 No, I didn't.
 
-1140
+1176
 01:31:29,380 --> 01:31:34,841
 別緊張，我爸會解決
 我要走了，還好吧？
@@ -7562,12 +7670,12 @@ off the hook.
 I gotta go.
 Everything all right?
 
-1141
+1177
 01:31:35,052 --> 01:31:35,848
 還好
 Sure.
 
-1142
+1178
 01:31:36,487 --> 01:31:39,285
 週一見，拜
 I'll see you Monday.
@@ -7578,107 +7686,107 @@ Good night.
 Hiya, Charlie.
 Watch the door.
 
-1143
+1179
 01:32:42,453 --> 01:32:44,250
 好漂亮的女人
 What a beautiful woman.
 
-1144
+1180
 01:32:58,602 --> 01:32:59,534
 哈囉
 Hello, there.
 
-1145
+1181
 01:33:00,337 --> 01:33:01,998
 你看到我看到了的？
 Do you
 see what I see?
 
-1146
+1182
 01:33:02,339 --> 01:33:04,933
 是，有問題…
 Yeah.
 Either there's
 something wrong,
 
-1147
+1183
 01:33:05,476 --> 01:33:07,341
 不然就是我醉了
 or we got the world's
 worst hangover.
 
-1148
+1184
 01:33:07,878 --> 01:33:09,004
 進來
 Won't you come in?
 
-1149
+1185
 01:33:09,680 --> 01:33:12,012
 銀行搶案的照片呢？
 We hear
 you got a picture of
 the bank robbery.
 
-1150
+1186
 01:33:30,201 --> 01:33:31,190
 中校？
 Colonel?
 
-1151
+1187
 01:33:45,883 --> 01:33:47,214
 你還好吧？
 Colonel,
 you all right?
 
-1152
+1188
 01:33:49,453 --> 01:33:50,442
 幹嘛？
 What is it?
 
-1153
+1189
 01:33:54,458 --> 01:33:58,121
 下午了，一早上你都在睡
 It's after noon.
 You've been sleeping
 all morning.
 
-1154
+1190
 01:33:59,797 --> 01:34:00,786
 又怎樣？
 So what?
 
-1155
+1191
 01:34:03,968 --> 01:34:04,957
 沒什麼
 I don't know.
 I thought...
 
-1156
-01:34:10,608 --> 01:34:14,807
+1192
+01:34:10,608 --> 01:34:12,473
 昨晚我和喬治通電話
-他的…
 I talked to George
 last night.
 
-1157
-01:34:14,945 --> 01:34:18,813
+1193
+01:34:14,011 --> 01:34:18,813
+他的…
 他爸爸是很有勢力的校友
 His father's a big-deal
 alumnus at school.
 He's got a lot of pull.
 
-1158
+1194
 01:34:20,751 --> 01:34:21,740
 是嗎？
 Really?
 
-1159
+1195
 01:34:24,421 --> 01:34:28,289
 他要去和校長談
 Yeah, he's gonna talk
 to the headmaster.
 
-1160
+1196
 01:34:29,827 --> 01:34:31,954
 喬治說他爸爸
 能幫我們脫險
@@ -7686,157 +7794,157 @@ George thinks he might
 be able to get us
 off the hook.
 
-1161
+1197
 01:34:32,830 --> 01:34:34,491
 「幫我們脫險」
 "Get us off the hook."
 
-1162
+1198
 01:34:35,633 --> 01:34:37,294
 他這麼說的
 Yeah, that's what he said.
 
-1163
+1199
 01:34:39,303 --> 01:34:41,294
 當心他所謂的「我們」
 Watch the "us" part.
 
-1164
+1200
 01:34:44,375 --> 01:34:46,104
 要不要去逛逛？
 Colonel, don't you wanna
 get up and do something?
 Colonel?
 
-1165
+1201
 01:34:53,851 --> 01:34:55,716
 查理，你要幹什麼？
 Charlie, what do
 you want?
 
-1166
+1202
 01:34:56,453 --> 01:34:58,114
 不曉得，但是…
 I don't know,
 
-1167
+1203
 01:34:58,923 --> 01:35:00,584
 我被你弄的很緊張
 but you're making
 me nervous.
 
-1168
+1204
 01:35:04,128 --> 01:35:06,596
 我的皮夾在抽屜裡
 My wallet is
 on the dresser.
 
-1169
+1205
 01:35:07,998 --> 01:35:09,465
 拿走你的機票…
 Take out your plane ticket
 
-1170
+1206
 01:35:10,801 --> 01:35:15,464
 和四百塊錢
 退伍津帖
 and $400
 mustering-out pay, plus
 
-1171
+1207
 01:35:17,107 --> 01:35:20,508
 外加機場到學校的車資
 airport-to-school taxi.
 
-1172
+1208
 01:35:22,847 --> 01:35:25,577
 中校，不必急
 Colonel, it's no rush.
 I mean, I can...
 
-1173
+1209
 01:35:26,817 --> 01:35:28,011
 我可以多待一會兒
 I could stay for a while.
 
-1174
+1210
 01:35:28,219 --> 01:35:30,687
 查理，你已給了我一天
 Charlie, you already
 gave me a day.
 
-1175
+1211
 01:35:32,156 --> 01:35:35,148
 就為了那天，我永遠感激
 And for that day,
 I am eternally grateful.
 
-1176
+1212
 01:35:37,828 --> 01:35:42,296
 但現在…
 我另有計劃
 But right now
 I have other plans.
 
-1177
+1213
 01:35:43,434 --> 01:35:45,095
 什麼計劃？
 What other plans
 do you have?
 
-1178
+1214
 01:35:47,705 --> 01:35:49,036
 去死，孩子
 To die, son.
 
-1179
+1215
 01:35:51,175 --> 01:35:52,301
 中校，你…
 Colonel, you're...
 
-1180
+1216
 01:35:53,644 --> 01:35:55,635
 你今天可不准去死
 Come on, Colonel,
 you're not gonna die today.
 
-1181
+1217
 01:35:57,181 --> 01:35:59,513
 查理，把你的手給我
 Charlie,
 give me your hand.
 
-1182
+1218
 01:36:04,121 --> 01:36:06,112
 你走，好嗎？
 You go now, boy.
 Okay?
 
-1183
+1219
 01:36:08,525 --> 01:36:10,789
 你走，留我一個…
 You go. Just...
 
-1184
+1220
 01:36:14,131 --> 01:36:15,792
 在這裡睡覺
 Just leave me
 sleep here.
 
-1185
+1221
 01:36:17,735 --> 01:36:20,727
 我們再試試，好嗎？
 Look...
 Can we start
 over, please?
 
-1186
+1222
 01:36:22,139 --> 01:36:23,470
 你想做什麼？
 What do you feel
 like doin' today, huh?
 
-1187
+1223
 01:36:25,209 --> 01:36:29,202
 你看，陽光燦爛
 天氣美好
@@ -7845,13 +7953,13 @@ The sun is shining!
 It's a beautiful day.
 Let's...
 
-1188
+1224
 01:36:34,018 --> 01:36:36,350
 你不會想掃我興致吧
 Colonel, I know you don't
 want to be a party poop,
 
-1189
+1225
 01:36:37,087 --> 01:36:40,887
 我們出去活動一下
 兜兜風
@@ -7859,40 +7967,40 @@ so let's go out
 and do something.
 Let's go for a ride.
 
-1190
+1226
 01:36:46,430 --> 01:36:47,761
 對，兜兜風
 Yeah, a ride.
 
-1191
+1227
 01:36:50,301 --> 01:36:51,290
 兜風？
 A ride?
 
-1192
+1228
 01:36:53,570 --> 01:36:55,231
 嗯，好不好？
 Yeah, Colonel Slade,
 what do you say?
 
-1193
+1229
 01:36:55,773 --> 01:36:57,434
 我們去兜風
 Let's go
 for a ride, huh?
 
-1194
+1230
 01:37:05,582 --> 01:37:07,243
 哪一種兜風法？
 What kind of ride?
 
-1195
+1231
 01:37:09,353 --> 01:37:11,821
 嗯，這張駕照有效
 Yeah, this is a valid
 Oregon driver's license,
 
-1196
+1232
 01:37:12,189 --> 01:37:15,317
 信得過的顧客可以試
 泰德蘿莎
@@ -7900,7 +8008,7 @@ and we let appropriate
 customers test-drive
 the Testarossa.
 
-1197
+1233
 01:37:16,060 --> 01:37:19,922
 你只有十七歲
 同伴又失明
@@ -7909,31 +8017,31 @@ But you're 17, with
 a blind companion.
 That we don't do.
 
-1198
+1234
 01:37:19,997 --> 01:37:22,431
 這車值十九萬
 This is a $100,000
 piece of machinery.
 
-1199
+1235
 01:37:22,499 --> 01:37:23,898
 我不能讓它這樣出門
 I'm not letting it
 out this door.
 
-1200
+1236
 01:37:24,668 --> 01:37:25,862
 那這部呢？
 How about this one
 over here?
 
-1201
+1237
 01:37:26,270 --> 01:37:28,534
 那是加布雷提
 That's a Cabriolet T.
 The same deal.
 
-1202
+1238
 01:37:28,939 --> 01:37:33,205
 我不能讓小孩開走
 十一萬的車
@@ -7941,26 +8049,26 @@ You think I'll let
 an unaccompanied kid
 get in a $110,000 car?
 
-1203
+1239
 01:37:33,277 --> 01:37:35,541
 他會有伴的
 He will not be
 unaccompanied.
 
-1204
+1240
 01:37:36,447 --> 01:37:39,439
 我會和他一起試車
 我是他父親
 I'll be with him.
 I'm his father.
 
-1205
+1241
 01:37:39,817 --> 01:37:41,079
 你是他父親？
 You're his father?
 Yes.
 
-1206
+1242
 01:37:43,220 --> 01:37:45,814
 這樣吧
 我帶你父親去試車
@@ -7968,41 +8076,44 @@ I have an idea. Why don't
 I take your father
 for a test drive?
 
-1207
+1243
 01:37:46,090 --> 01:37:47,751
 你的業績要多少？
 What's your quota, Freddie?
 
-1208
+1244
 01:37:48,192 --> 01:37:49,784
 不勞費心
 Don't worry
 about my quota.
 I do well.
 
-1209
+1245
 01:37:50,027 --> 01:37:51,892
 這個月你賣了幾輛法拉利？
 How many Ferraris
 you sold this month?
 
-1210
+1246
 01:37:52,096 --> 01:37:53,893
 數目不重要
-八０年代結束了
 That's not relevant
 to this discussion.
+
+1247
+01:37:53,964 --> 01:37:56,091
+八０年代結束了
 Freddie,
 the '·0s are over.
 
-1211
+1248
 01:37:57,034 --> 01:37:59,696
 這些奢侈品不好送出門吧？
 Are you tryin' to tell me
 these things are walkin'
 outta the store?
 
-1212
+1249
 01:37:59,770 --> 01:38:03,896
 這可是法拉利哦
 汽車界的最佳出品
@@ -8010,7 +8121,7 @@ This is a Ferrari, sir,
 the finest machinery made
 in the automobile industry.
 
-1213
+1250
 01:38:04,108 --> 01:38:06,838
 你要那麼喜歡它
 何不跟它睡
@@ -8018,19 +8129,19 @@ If you like it that much,
 why don't you sleep with it?
 Why are you sellin' it?
 
-1214
+1251
 01:38:07,177 --> 01:38:08,644
 我很願意幫忙，但是…
 I'd love to
 accommodate you...
 
-1215
+1252
 01:38:08,712 --> 01:38:11,374
 如果它符合我的期望…
 If this car performs
 the way I expect it to,
 
-1216
+1253
 01:38:11,982 --> 01:38:16,112
 你會拿到一張
 十萬一千元的支票
@@ -8038,13 +8149,13 @@ you will get
 a check of $101,000,
 and change,
 
-1217
+1254
 01:38:16,186 --> 01:38:17,312
 就明天一早！
 when you come in
 here tomorrow morning.
 
-1218
+1255
 01:38:17,721 --> 01:38:22,055
 售價是十萬九千九百
 五十塊，外加稅
@@ -8052,17 +8163,17 @@ It's $100,000,
 plus $050,
 plus tax.
 
-1219
+1256
 01:38:22,126 --> 01:38:23,923
 佛迪，為了你…
 Freddie, for you
 
-1220
+1257
 01:38:25,195 --> 01:38:27,186
 我加到十萬七千元
 107 all in,
 
-1221
+1258
 01:38:27,398 --> 01:38:30,390
 外送一箱香檳
 讓你配剩火雞喝
@@ -8070,28 +8181,28 @@ plus a case of champagne
 to go with your
 leftover turkey.
 
-1222
+1259
 01:38:32,202 --> 01:38:34,864
 如何？別擔心這孩子
 What do you say?
 Don't worry about
 the boy.
 
-1223
+1260
 01:38:35,005 --> 01:38:38,065
 他開得穩的可以在引擎上煮蛋
 He drives so smooth,
 you can boil an egg
 on the engine.
 
-1224
+1261
 01:38:38,742 --> 01:38:41,540
 還車的時候，我來剝蛋
 When we bring
 the car back, I'll peel
 the egg for ya.
 
-1225
+1262
 01:38:43,013 --> 01:38:45,743
 你把我逗笑了
 但車不能給你
@@ -8099,25 +8210,25 @@ Listen, you made me laugh,
 but I can't let
 the car go out.
 
-1226
+1263
 01:38:48,485 --> 01:38:49,679
 要不要押金？
 Want a deposit?
 
-1227
+1264
 01:38:50,421 --> 01:38:52,753
 我們不搞分期付款的
 先生
 This is not an
 installment item, sir.
 
-1228
+1265
 01:38:56,226 --> 01:38:59,889
 你又不是生手
 Freddie, you're
 no spring chicken.
 
-1229
+1266
 01:39:01,832 --> 01:39:04,164
 你知道同事叫我什麼嗎？
 老黑爵
@@ -8128,7 +8239,7 @@ at the home office?
 You know why they
 still keep me around?
 
-1230
+1267
 01:39:08,505 --> 01:39:11,838
 因為後生小輩
 賣不掉法拉利
@@ -8136,7 +8247,7 @@ There's no kid here
 that can move a Ferrari
 like I can.
 
-1231
+1268
 01:39:12,042 --> 01:39:17,036
 從東岸到西岸人盡皆知
 I'm known from
@@ -8145,44 +8256,44 @@ like butter and toast.
 Ask anybody about
 Freddie Bisco.
 
-1232
+1269
 01:39:17,247 --> 01:39:19,977
 進來一部…
 我就賣掉一部
 When I get a Ferrari...
 Out the door!
 
-1233
+1270
 01:39:21,785 --> 01:39:23,446
 你才逗我笑呢，佛迪
 You just made
 me laugh, Freddie.
 Yeah?
 
-1234
+1271
 01:39:25,456 --> 01:39:26,445
 兩千塊
 2,000.
 
-1235
+1272
 01:39:27,991 --> 01:39:30,118
 你不拿，我可要哭了
 Unless you take it,
 you're gonna make me cry.
 
-1236
+1273
 01:39:34,131 --> 01:39:35,530
 我也是老黑爵
 I'm a grey ghost, too.
 
-1237
+1274
 01:39:47,411 --> 01:39:50,412
 看吧？
 很過癮吧？
 See? This is fun,
 isn't it?
 
-1238
+1275
 01:40:05,195 --> 01:40:06,526
 放空檔
 推二檔，放離合器
@@ -8190,341 +8301,347 @@ Drop her into neutral.
 Slide her into second.
 Pop the clutch.
 
-1239
+1276
 01:40:48,197 --> 01:40:49,186
-開直
-就這樣開，直點
 開直
 Straight.
 Hold it right
 like that.
+
+1277
+01:40:50,132 --> 01:40:54,796
+就這樣開，直點
+開直
 Feel it?
 That's straight.
 It's a straight street,
 so keep it straight.
 
-1240
+1278
 01:40:58,140 --> 01:40:59,129
 開直
 Keep it straight.
 
-1241
+1279
 01:40:59,675 --> 01:41:01,108
 開直就沒意思了
 No fun just
 to keep it straight.
 
-1242
+1280
 01:41:01,210 --> 01:41:04,611
 要猛一點才夠勁
 You've got to move
 a little bit,
 feel the road.
 
-1243
+1281
 01:41:04,680 --> 01:41:07,547
 拜託，就這麼開，好嗎？
 Please? Just like this.
 All right? There you go.
 
-1244
+1282
 01:41:08,217 --> 01:41:09,616
 穩穩的
 Take it nice and easy.
 
-1245
+1283
 01:41:10,953 --> 01:41:11,942
 喜歡嗎？
 Do you like this?
 
-1246
+1284
 01:41:16,358 --> 01:41:18,826
 放慢點，開太快了
 Slow it down
 a little, Colonel.
 You're goin' a little fast.
 
-1247
+1285
 01:41:20,563 --> 01:41:22,554
 中校，放慢點
 Colonel, slow it down.
 
-1248
+1286
 01:41:23,566 --> 01:41:25,033
 我的腳出問題了
 Something's happened
 to my foot!
 
-1249
+1287
 01:41:27,303 --> 01:41:28,292
 慢點，拜託
 Slow it down, please.
 
-1250
+1288
 01:41:28,370 --> 01:41:30,838
 分明有另一檔可以用
 Hold on. I think
 I've got another gear.
 
-1251
+1289
 01:41:32,074 --> 01:41:32,733
 史中校！
 Colonel Slade?
 Hoo-ah!
 
-1252
+1290
 01:41:37,246 --> 01:41:37,837
 看路！
 Watch out!
 
-1253
+1291
 01:41:42,551 --> 01:41:43,677
 你要害我們送命！
 You'll get us killed!
 
-1254
+1292
 01:41:43,786 --> 01:41:46,118
 別怪我，我看不到
 Don't blame me,
 Charlie, I can't see!
 
-1255
+1293
 01:41:48,657 --> 01:41:49,919
 中校，慢點
-天啊，耶穌基督
 Colonel,
 slow it down!
+
+1294
+01:41:59,935 --> 01:42:02,062
+天啊，耶穌基督
 Oh, Jesus!
 
-1256
+1295
 01:42:02,671 --> 01:42:05,139
 看看這個寶貝怎麼轉彎
 Now let's see how
 this baby corners.
 
-1257
+1296
 01:42:05,374 --> 01:42:06,033
 轉彎？
 Corners?
 
-1258
+1297
 01:42:06,342 --> 01:42:08,207
 對啊，給我信號
 Yeah. Say when.
 
-1259
+1298
 01:42:08,477 --> 01:42:09,273
 什麼？
 Say when what?
 
-1260
+1299
 01:42:09,945 --> 01:42:10,934
 轉彎信號
 Say when to turn.
 
-1261
+1300
 01:42:11,146 --> 01:42:12,545
 你不能轉彎
 Colonel,
 you can't turn the car.
 
-1262
+1301
 01:42:13,015 --> 01:42:14,539
 在哪轉，查理？
 Where's
 the turn, Charlie?
 
-1263
+1302
 01:42:15,417 --> 01:42:18,614
 三點鐘方位？兩點
 右？歪？
 3 o'clock? 2 o'clock?
 Right oblique? Right face?
 
-1264
+1303
 01:42:18,754 --> 01:42:20,346
 快啊，說啊
 Come on! Talk to me!
 
-1265
+1304
 01:42:21,824 --> 01:42:22,882
 左
 It's left, I guess.
 
-1266
+1305
 01:42:23,158 --> 01:42:25,626
 我知道轉左，現在？
 Left. I knew it. Okay. Now?
 
-1267
+1306
 01:42:27,563 --> 01:42:29,155
 不是不是！
 No, no! Not now! Not now!
 
-1268
+1307
 01:42:30,733 --> 01:42:31,392
 現在？
 Now?
 
-1269
+1308
 01:42:32,434 --> 01:42:33,298
 拜託
 Colonel, please!
 
-1270
+1309
 01:42:33,502 --> 01:42:35,493
 我要轉了
 I'm gonna do it anyway,
 all right?
 
-1271
+1310
 01:42:35,838 --> 01:42:37,567
 不管你同不同意
 Whether you say so
 or not, here we go!
 
-1272
-01:42:37,706 --> 01:42:40,338
+1311
+01:42:37,706 --> 01:42:39,037
 好，等等
-等一下
 Okay! Wait, wait, wait!
 Just wait!
 
-1273
-01:42:40,409 --> 01:42:42,502
+1312
+01:42:39,542 --> 01:42:42,502
+等一下
 我要轉了…要轉了…
 Here I go.
 
-1274
+1313
 01:42:42,711 --> 01:42:44,002
 慢著
 轉！
 Wait... Now!
 
-1275
+1314
 01:42:51,053 --> 01:42:53,783
 我轉成了！噢，查理！
 I did it! Charlie!
 
-1276
+1315
 01:42:55,524 --> 01:42:57,651
 你的同伴很快樂！
 You're ridin' with
 one very happy man!
 
-1277
+1316
 01:43:00,129 --> 01:43:01,061
 你還得再轉
 Turn again!
 
-1278
+1317
 01:43:01,330 --> 01:43:02,126
 要仔細
 Be specific, son.
 
-1279
+1318
 01:43:03,432 --> 01:43:04,228
 向左，轉！
 Left now!
 Okay.
 
-1280
+1319
 01:43:10,873 --> 01:43:13,797
 愛死這遊戲了！
 愛死了！
 I love this! I love it!
 
-1281
+1320
 01:43:15,210 --> 01:43:16,541
 試試最高速
 Shall we take it to the max?
 
-1282
+1321
 01:43:17,146 --> 01:43:18,135
 我要下車
 Let me out.
 
-1283
+1322
 01:43:21,083 --> 01:43:22,744
 媽的！條子
 Shit!
 The yellow flag.
 
-1284
+1323
 01:43:23,752 --> 01:43:26,414
 我還沒開始衝呢
 I haven't even
 opened her up yet.
 Which way's the curb?
 
-1285
+1324
 01:43:26,822 --> 01:43:29,290
 靠邊停，放慢，中校
 Pull over. Slow down!
 Slow down.
 
-1286
+1325
 01:43:29,358 --> 01:43:30,347
 好吧，來了
 I'm doin' it.
 
-1287
+1326
 01:43:30,426 --> 01:43:32,485
 放慢
 Pull over to
 the curb, here.
 Slow down.
 
-1288
+1327
 01:43:32,695 --> 01:43:33,491
 我知道
 Yep. Got it.
 
-1289
+1328
 01:43:47,242 --> 01:43:48,903
 我幾年來都沒拿罰單
 Haven't had
 a ticket in years.
 
-1290
+1329
 01:43:52,848 --> 01:43:54,042
 我來應付
 I'll do the talking.
 
-1291
+1330
 01:44:00,389 --> 01:44:01,788
 駕照和車牌
 License
 and registration.
 
-1292
+1331
 01:44:14,670 --> 01:44:15,932
 在試這部小寶貝？
 Are you test-driving
 this baby?
 
-1293
+1332
 01:44:16,739 --> 01:44:17,865
 很神吧？
 Don't she purr, though?
 
-1294
+1333
 01:44:19,008 --> 01:44:20,475
 時速七十英哩？
 At 70 miles an hour?
 
-1295
+1334
 01:44:21,076 --> 01:44:23,067
 你該看看她一百廿五的英姿
 You should hear
 her at 125.
 
-1296
+1335
 01:44:25,214 --> 01:44:26,545
 駕照呢？
 Where's your license?
 
-1297
+1336
 01:44:28,751 --> 01:44:32,414
 在車行
 還車的時候才拿
@@ -8532,60 +8649,60 @@ At the dealer's.
 They give it back
 when you return the car.
 
-1298
+1337
 01:44:33,956 --> 01:44:35,082
 你有身份證？
 You got ID?
 
-1299
+1338
 01:44:35,491 --> 01:44:36,287
 可不是
 You bet.
 
-1300
+1339
 01:44:38,360 --> 01:44:39,349
 在此
 Indeed.
 
-1301
+1340
 01:44:43,632 --> 01:44:45,429
 史雷德中校
 Lieutenant Colonel Slade.
 
-1302
+1341
 01:44:46,235 --> 01:44:47,361
 你呢，警員？
 And you, soldier?
 
-1303
+1342
 01:44:48,771 --> 01:44:51,239
 我是高爾警官
 The name is
 Police Officer Gore.
 
-1304
+1343
 01:44:53,042 --> 01:44:54,703
 你執勤認真
 Doin' a hell
 of a job, Gore.
 
-1305
+1344
 01:44:55,244 --> 01:44:56,905
 你也不差，中校
 And so are you,
 Colonel.
 
-1306
+1345
 01:44:58,414 --> 01:44:59,346
 小孩是誰？
 Who's the kid?
 
-1307
+1346
 01:45:00,916 --> 01:45:02,247
 小犬，查理
 My boy Charlie.
 
-1308
+1347
 01:45:02,851 --> 01:45:06,787
 一直叫我開她出來
 能讓他失望嗎？
@@ -8594,102 +8711,102 @@ to "let her out."
 What was I gonna do,
 disappoint him?
 
-1309
+1348
 01:45:07,656 --> 01:45:08,452
 當然
 Yes.
 
-1310
+1349
 01:45:12,695 --> 01:45:14,026
 這麼辦吧…
 Tell you what
 I'm gonna do,
 Colonel.
 
-1311
+1350
 01:45:14,730 --> 01:45:17,221
 我放你一馬，但有個條件
 I'm gonna let you go,
 on one condition.
 
-1312
+1351
 01:45:17,733 --> 01:45:18,529
 什麼？
 What's that?
 
-1313
+1352
 01:45:19,268 --> 01:45:21,998
 馬上把車送回車行
 That you take this rig
 straight back to the dealer.
 
-1314
+1353
 01:45:24,339 --> 01:45:25,328
 沒問題
 You got it.
 
-1315
+1354
 01:45:25,741 --> 01:45:26,730
 閉嘴
 Shut up.
 
-1316
+1355
 01:45:27,943 --> 01:45:28,932
 要這個嗎？
 You want this?
 
-1317
+1356
 01:45:29,678 --> 01:45:30,406
 當然
 Sure.
 
-1318
+1357
 01:45:32,081 --> 01:45:32,877
 高爾
 Gore?
 
-1319
+1358
 01:45:34,216 --> 01:45:36,480
 你的臉孔和聲音我很熟
 Your face and
 your voice
 are familiar.
 
-1320
+1359
 01:45:36,852 --> 01:45:38,843
 加入過丹納的軍官俱樂部嗎？
 You ever been
 in the officer's
 club at Da Nang?
 
-1321
+1360
 01:45:40,456 --> 01:45:41,115
 沒有
 No.
 
-1322
+1361
 01:45:41,790 --> 01:45:42,779
 也沒進過陸軍
 Never in the Army?
 
-1323
+1362
 01:45:44,760 --> 01:45:46,091
 沒有，海岸防衛隊而已
 No. Coast Guard.
 
-1324
+1363
 01:45:46,962 --> 01:45:47,951
 老天
 Good Lord.
 
-1325
+1364
 01:45:53,969 --> 01:45:55,834
 你爸氣色不錯，查理
 Your dad
 is looking good,
 Charlie.
 
-1326
+1365
 01:45:56,238 --> 01:45:59,571
 就是喜歡開快車…
 勸他開慢點
@@ -8697,89 +8814,89 @@ He's got a heavy foot, though.
 Tell him to take it light,
 all right?
 
-1327
+1366
 01:46:01,176 --> 01:46:02,507
 知道了
 I hear ya!
 All right.
 Thanks.
 
-1328
+1367
 01:46:17,192 --> 01:46:20,457
 下車，不准你再開了
 Get out of the car,
 because you are not
 driving anymore.
 
-1329
+1368
 01:46:20,529 --> 01:46:22,520
 我在暖車罷了
 Just keeping this baby
 warm, that's all.
 
-1330
+1369
 01:46:25,134 --> 01:46:26,601
 我不開了
 I'm not drivin' anymore.
 Yes.
 
-1331
+1370
 01:46:38,280 --> 01:46:40,145
 扶著我的肩膀
 Take my arm.
 I'm okay.
 
-1332
+1371
 01:46:40,415 --> 01:46:41,882
 路不平
 Colonel,
 it's really
 bumpy here.
 
-1333
+1372
 01:46:56,765 --> 01:46:57,754
 還好吧？
 You all right?
 Yeah.
 
-1334
+1373
 01:47:11,113 --> 01:47:13,104
 紅燈，中校，別走
 Red light. Hold it.
 
-1335
+1374
 01:47:19,521 --> 01:47:20,385
 等太久了
 Taking too long.
 Shit! Colonel! Colonel!
 Colonel!
 
-1336
+1375
 01:47:40,209 --> 01:47:41,540
 沒事吧？
 Shit! You all right?
 
-1337
+1376
 01:47:43,212 --> 01:47:46,204
 你幹什麼你？拿好拐杖啊
 What the hell
 are you doing?
 Take the cane.
 
-1338
+1377
 01:47:46,415 --> 01:47:48,542
 我要尿尿
 拿好拐杖
 I gotta take a piss.
 Take the cane.
 
-1339
+1378
 01:47:48,617 --> 01:47:49,811
 小便不能忍
 Happens to
 the best of us.
 
-1340
+1379
 01:47:49,885 --> 01:47:53,343
 不能在公園大道尿啊
 最好不過
@@ -8788,12 +8905,12 @@ Park Avenue.
 You can't.
 Perfect place.
 
-1341
+1380
 01:47:54,156 --> 01:47:55,487
 警察會抓你的
 You'll get arrested.
 
-1342
+1381
 01:47:55,891 --> 01:47:57,222
 我從來不亂尿
 Never been
@@ -8801,69 +8918,69 @@ housebroken.
 Colonel!
 Shit!
 
-1343
+1382
 01:48:00,429 --> 01:48:02,090
 你到底怎麼搞的？
 What's the matter
 with you, Colonel?
 
-1344
+1383
 01:48:09,238 --> 01:48:12,404
 你在幹嘛？
 快起來
 What are you doing?
 Stand up.
 
-1345
+1384
 01:48:13,842 --> 01:48:14,831
 別亂來
 Come on.
 
-1346
+1385
 01:48:15,310 --> 01:48:17,642
 我好累，查理
 I'm tired, Charlie.
 I'm tired.
 
-1347
+1386
 01:48:20,115 --> 01:48:21,309
 讓我握你手臂
 Give me your arm.
 
-1348
+1387
 01:48:22,517 --> 01:48:23,506
 你的拐杖
 Here's your cane.
 
-1349
+1388
 01:48:25,520 --> 01:48:27,249
 帶我回旅館，孩子
 Take me back
 to the hotel, son.
 
-1350
+1389
 01:48:33,784 --> 01:48:34,910
 總算到家了
 Home at last.
 
-1351
+1390
 01:48:56,807 --> 01:48:57,796
 你還好吧？
 You all right now?
 Yeah.
 
-1352
+1391
 01:49:05,482 --> 01:49:07,211
 要不要上廁所？
 Do you want to
 use the bathroom?
 
-1353
+1392
 01:49:07,685 --> 01:49:08,344
 不要
 No.
 
-1354
+1393
 01:49:18,028 --> 01:49:20,019
 需要什麼嗎？
 不要
@@ -8871,7 +8988,7 @@ Can I get you
 something?
 No.
 
-1355
+1394
 01:49:24,835 --> 01:49:27,167
 你真的沒事？
 我很好
@@ -8879,46 +8996,46 @@ You sure you're
 all right?
 I'm fine, Charlie.
 
-1356
+1395
 01:49:46,523 --> 01:49:47,854
 我可以打電話嗎？
 Do you mind if
 I use the phone?
 
-1357
+1396
 01:49:48,859 --> 01:49:49,848
 打吧
 Go ahead.
 Hello?
 
-1358
+1397
 01:50:10,614 --> 01:50:11,945
 請問喬治在嗎？
 Hi, is George there,
 please?
 
-1359
+1398
 01:50:12,483 --> 01:50:13,472
 小喬還是老喬？
 Senior or Junior?
 
-1360
+1399
 01:50:15,686 --> 01:50:16,482
 小喬
 Junior.
 
-1361
+1400
 01:50:17,021 --> 01:50:18,010
 哪位？
 Who's this?
 
-1362
+1401
 01:50:18,689 --> 01:50:20,213
 他學校的朋友
 A friend of his
 from school.
 
-1363
+1402
 01:50:20,291 --> 01:50:24,625
 他不能跟任何朋友講話了
 Sorry, but George isn't going
@@ -8927,156 +9044,156 @@ from school right now.
 Oh.
 Goodbye.
 
-1364
+1403
 01:50:46,583 --> 01:50:48,107
 你在瞪我嗎？
 Colonel, are you
 looking at me?
 
-1365
+1404
 01:50:51,655 --> 01:50:53,054
 我是個瞎子，查理
 I'm blind, Charlie.
 
-1366
+1405
 01:50:59,730 --> 01:51:01,254
 我要去睡一會兒
 I'm gonna take a nap.
 
-1367
+1406
 01:51:04,401 --> 01:51:05,595
 兜風太久
 Too much fresh air.
 
-1368
+1407
 01:51:08,072 --> 01:51:09,403
 那好
 It's probably a good idea.
 
-1369
+1408
 01:51:10,808 --> 01:51:12,139
 我扶你進房
 Want me to help you
 to your room?
 
-1370
+1409
 01:51:13,811 --> 01:51:14,800
 不必
 No.
 
-1371
+1410
 01:51:16,213 --> 01:51:17,202
 我睡沙發
 Couch.
 
-1372
+1411
 01:51:18,549 --> 01:51:20,210
 我喜歡這張
 I like this couch here.
 
-1373
+1412
 01:51:23,754 --> 01:51:25,745
 你真的沒事？
 You sure you're
 all right, Colonel?
 
-1374
+1413
 01:51:26,090 --> 01:51:27,216
 我頭痛
 I got a headache.
 
-1375
+1414
 01:51:34,098 --> 01:51:37,090
 下樓去替我買阿斯匹靈吧
 Why don't you go
 downstairs, get me
 some aspirin?
 
-1376
+1415
 01:51:37,167 --> 01:51:40,500
 好
 另外…
 Some aspirin.
 Yeah. Also...
 
-1377
+1416
 01:51:43,307 --> 01:51:44,638
 再帶根雪茄
 I feel like a cigar.
 
-1378
+1417
 01:51:46,443 --> 01:51:50,971
 蒙地奎斯特一號的
 Get me a couple of
 Montecristos Number One.
 
-1379
+1418
 01:51:51,048 --> 01:51:52,913
 蒙地奎斯特一號
 Montecristos
 Number One.
 Yeah.
 
-1380
+1419
 01:51:53,517 --> 01:51:55,849
 樓下小店不會有
 You won't be able
 to get 'em at
 the newsstand downstairs.
 
-1381
+1420
 01:51:56,453 --> 01:51:58,114
 那你就過街…
 So why don't you
 go over to
 
-1382
+1421
 01:51:59,323 --> 01:52:01,791
 到街口的唐喜商店買
 50th and Fifth,
 Dunhill's.
 
-1383
+1422
 01:52:02,526 --> 01:52:05,051
 叫阿諾的在掌櫃
 Fella named Arnold there,
 in the humidor.
 
-1384
+1423
 01:52:06,330 --> 01:52:09,322
 告訴他是我要的
 Tell him
 they're for me.
 
-1385
+1424
 01:52:10,334 --> 01:52:11,323
 他知道的
 He'll know.
 
-1386
+1425
 01:53:00,588 --> 01:53:02,249
 回來的太快了吧？
 You're back
 too fast.
 
-1387
+1426
 01:53:05,526 --> 01:53:07,517
 你一定沒替我買雪茄？
 You didn't get
 my cigars, did you?
 
-1388
+1427
 01:53:13,067 --> 01:53:14,398
 滾開，查理
 Get out of
 here, Charlie.
 
-1389
+1428
 01:53:19,473 --> 01:53:20,804
 我們已經講清楚了
 I thought we had a deal.
 
-1390
+1429
 01:53:22,009 --> 01:53:26,137
 我毀約
 我愛毀約，沒告訴過你？
@@ -9084,60 +9201,60 @@ I welched.
 I'm a welcher.
 Didn't I tell you?
 
-1391
+1430
 01:53:27,514 --> 01:53:29,982
 你說要把所有子彈給我
 No, what you told me
 was that you gave me
 all the bullets.
 
-1392
+1431
 01:53:31,285 --> 01:53:32,411
 騙你的
 I lied.
 
-1393
+1432
 01:53:34,421 --> 01:53:35,888
 你是把我騙住了
 You could have fooled me.
 
-1394
+1433
 01:53:36,290 --> 01:53:37,348
 可不是
 And I did.
 
-1395
+1434
 01:53:40,561 --> 01:53:44,019
 沒有我，你怎麼辦啊？
 How you ever
 gonna survive in this
 world without me?
 
-1396
+1435
 01:53:48,802 --> 01:53:50,997
 把槍給我好嗎？
 Why don't you just
 give me the gun,
 all right?
 
-1397
+1436
 01:54:00,714 --> 01:54:02,045
 你幹什麼？
 What are you doing?
 
-1398
+1437
 01:54:04,184 --> 01:54:06,243
 我也會一槍打死你
 I'm gonna
 shoot you, too.
 
-1399
+1438
 01:54:09,390 --> 01:54:11,051
 反正你已經完了
 Your life's
 finished anyway.
 
-1400
+1439
 01:54:12,726 --> 01:54:16,924
 喬治會見風轉舵
 你也一樣完蛋
@@ -9146,37 +9263,37 @@ is going to sing
 like a canary.
 And so are you.
 
-1401
+1440
 01:54:17,331 --> 01:54:19,799
 一旦如此，查理寶寶…
 And once you've sung,
 Charlie, my boy,
 
-1402
+1441
 01:54:20,200 --> 01:54:24,330
 你在那乏味的成人隊伍中
 you're gonna take
 your place on that
 long, gray line
 
-1403
+1442
 01:54:24,405 --> 01:54:26,202
 就佔有一席之地了…
 of American manhood.
 
-1404
+1443
 01:54:27,875 --> 01:54:29,866
 你也就完了
 And you will
 be through.
 
-1405
+1444
 01:54:32,012 --> 01:54:33,411
 我不苟同
 I'd like to disagree
 with you, Colonel.
 
-1406
+1445
 01:54:33,647 --> 01:54:39,385
 你沒資格不苟同
 四五手槍在我手裡
@@ -9187,30 +9304,30 @@ with me, boy.
 I got a loaded.45 here.
 You got pimples.
 
-1407
+1446
 01:54:40,354 --> 01:54:42,015
 我要把你殺了…
 I'm gonna
 kill ya, Charlie,
 
-1408
+1447
 01:54:42,823 --> 01:54:44,916
 因為我不能忍受看著你去…
 because I can't
 bear the thought
 
-1409
+1448
 01:54:45,025 --> 01:54:46,151
 出賣原則
 of you sellin' out!
 
-1410
+1449
 01:54:48,562 --> 01:54:50,689
 把槍放下
 Put the gun down,
 all right, Colonel?
 
-1411
+1450
 01:54:51,098 --> 01:54:52,087
 什麼？
 你在下最後通牒？
@@ -9218,307 +9335,307 @@ What? You givin' me
 an ultimatum?
 No, I'm...
 
-1412
+1451
 01:54:57,504 --> 01:54:59,495
 最後通牒由我來下！
 I give the ultimatums!
 
-1413
+1452
 01:55:01,108 --> 01:55:02,097
 抱歉
 I'm sorry.
 
-1414
+1453
 01:55:04,211 --> 01:55:05,872
 我道歉
 All right? I'm sorry.
 
-1415
+1454
 01:55:09,383 --> 01:55:10,714
 我也道歉
 It's all right,
 
-1416
+1455
 01:55:12,519 --> 01:55:13,508
 查理
 Charlie.
 
-1417
+1456
 01:55:18,659 --> 01:55:20,320
 你傷了我的心，孩子
 You break
 my heart, son.
 
-1418
+1457
 01:55:22,262 --> 01:55:24,059
 我這一生…
 All my life
 I stood up
 
-1419
+1458
 01:55:25,065 --> 01:55:27,397
 反抗任何人，所有事…
 to everyone
 and everything,
 
-1420
+1459
 01:55:28,402 --> 01:55:32,494
 只有這樣，我才覺得…
 自己重要
 because it made me
 feel important.
 
-1421
+1460
 01:55:34,608 --> 01:55:37,475
 但你卻是為了
 你的原則而反抗
 You do it
 'cause you mean it.
 
-1422
+1461
 01:55:40,214 --> 01:55:41,943
 你很正直
 You got
 integrity, Charlie.
 
-1423
+1462
 01:55:46,220 --> 01:55:49,417
 我不曉得該打死你
 還是收養你
 I don't know whether to
 shoot you or adopt you.
 
-1424
+1463
 01:55:52,426 --> 01:55:54,223
 很為難，是吧？
 Not much of a choice,
 is it, sir?
 
-1425
+1464
 01:55:54,762 --> 01:55:57,094
 少耍嘴皮子
 Don't get cute now.
 
-1426
+1465
 01:55:57,431 --> 01:55:59,160
 請把槍放下
 Could you please
 put the gun away?
 
-1427
+1466
 01:55:59,433 --> 01:56:00,764
 我在問你問題
 I asked you
 a question.
 
-1428
+1467
 01:56:01,769 --> 01:56:04,431
 你要不要我收養你？
 Do you want me
 to adopt you,
 or don't you?
 
-1429
+1468
 01:56:05,773 --> 01:56:06,899
 請放下槍…
 Please? I mean...
 
-1430
+1469
 01:56:08,909 --> 01:56:10,900
 你只是情緒低落
 You're just in a slump
 right now.
 
-1431
+1470
 01:56:11,645 --> 01:56:12,634
 情緒低落？
 Slump?
 
-1432
+1471
 01:56:15,315 --> 01:56:16,976
 不是，查理
 No slump, Charlie.
 
-1433
+1472
 01:56:19,453 --> 01:56:20,784
 我是壞人
 I'm bad.
 
-1434
+1473
 01:56:23,791 --> 01:56:25,452
 不，我不很壞
 I'm not bad. No.
 
-1435
+1474
 01:56:28,328 --> 01:56:29,317
 我爛掉了
 I'm rotten.
 
-1436
+1475
 01:56:33,133 --> 01:56:34,122
 你不壞
 You're not bad.
 
-1437
+1476
 01:56:37,871 --> 01:56:39,532
 只是痛苦而已
 You're just in pain.
 
-1438
+1477
 01:56:45,546 --> 01:56:47,537
 你懂什麼叫痛苦？
 What do you know
 about pain?
 
-1439
+1478
 01:56:51,351 --> 01:56:55,811
 你只不過是大海裡的一隻小魚
 You little snail darter
 from the Pacific Northwest.
 
-1440
+1479
 01:56:57,157 --> 01:56:59,148
 你媽的懂什麼叫痛苦？
 Fuck you know
 about pain?
 
-1441
+1480
 01:57:02,763 --> 01:57:04,230
 把槍給我
 Let me have the gun,
 Colonel.
 
-1442
+1481
 01:57:05,365 --> 01:57:07,492
 想充大人不容易，孩子
 No time to grow
 a dick, son.
 
-1443
+1482
 01:57:08,769 --> 01:57:10,760
 請把槍給我，中校
 Just give me the gun,
 all right, Colonel?
 
-1444
+1483
 01:57:13,407 --> 01:57:15,398
 你最好別動
 I'm talkin' a
 parade ground.
 
-1445
+1484
 01:57:15,642 --> 01:57:16,301
 立正！
 Ten-hut!
 
-1446
+1485
 01:57:20,047 --> 01:57:23,107
 小兵，那可是命令
 Soldier, that was
 a direct order.
 
-1447
+1486
 01:57:24,918 --> 01:57:25,782
 槍給我
 Give me the gun.
 
-1448
+1487
 01:57:30,390 --> 01:57:33,052
 要走要留隨便你
 You can stay or
 you can leave.
 
-1449
+1488
 01:57:34,261 --> 01:57:35,250
 懂嗎？
 You understand?
 
-1450
+1489
 01:57:36,129 --> 01:57:39,462
 反正我會用到這玩意兒
 Either way, I'm gonna
 do this thing.
 
-1451
+1490
 01:57:41,668 --> 01:57:45,661
 現在，你何不避開點
 Now why don't
 you leave and
 spare yourself?
 
-1452
+1491
 01:57:48,275 --> 01:57:49,606
 給我槍，中校
 I want your gun,
 Colonel.
 
-1453
+1492
 01:57:59,219 --> 01:58:00,880
 我自己來計時
 I'm gonna give
 myself a count.
 
-1454
+1493
 01:58:06,627 --> 01:58:09,687
 計時有助平衡
 You need a count
 for balance.
 
-1455
+1494
 01:58:12,766 --> 01:58:16,224
 五、四…
 Five...
 Four...
 
-1456
+1495
 01:58:18,105 --> 01:58:19,037
 三…
 Three...
 
-1457
+1496
 01:58:21,875 --> 01:58:22,534
 二…
 Two...
 
-1458
+1497
 01:58:25,712 --> 01:58:26,701
 一
 One...
 
-1459
+1498
 01:58:28,549 --> 01:58:29,208
 幹！
 Fuck it.
 
-1460
+1499
 01:58:37,791 --> 01:58:39,122
 給我！
 Give me! Fuck!
 
-1461
+1500
 01:58:42,796 --> 01:58:44,923
 滾出去！
 我不走！
 Get out of here!
 I'm stayin' right here!
 
-1462
+1501
 01:58:45,265 --> 01:58:46,459
 滾開！
 Get outta here!
 
-1463
+1502
 01:58:46,600 --> 01:58:47,726
 我不走！
 I'm stayin' right here.
 
-1464
+1503
 01:58:47,801 --> 01:58:49,428
 我射爛你腦袋！
 I'll blow your
 fuckin' head off!
 
-1465
+1504
 01:58:49,670 --> 01:58:53,197
 射呀！你要射就射
 快啊！
@@ -9526,18 +9643,18 @@ Then do it!
 You want to do it?
 Do it! Let's go.
 
-1466
+1505
 01:59:00,013 --> 01:59:02,004
 滾蛋！
 Get outta here!
 
-1467
+1506
 01:59:03,483 --> 01:59:05,610
 你搞砸了，又怎樣呢？
 You fucked up,
 all right? So what?
 
-1468
+1507
 01:59:05,886 --> 01:59:09,617
 人人都會犯錯
 你該勇往直前啊
@@ -9545,32 +9662,32 @@ So everybody does it.
 Get on with your life,
 would ya?
 
-1469
+1508
 01:59:10,023 --> 01:59:11,354
 直什麼前？
 What life?
 
-1470
+1509
 01:59:12,759 --> 01:59:14,420
 我早完了！
 I got no life!
 
-1471
+1510
 01:59:16,830 --> 01:59:18,821
 我活在黑暗裡
 I'm in the dark here!
 
-1472
+1511
 01:59:20,634 --> 01:59:21,965
 你明白嗎？
 You understand?
 
-1473
+1512
 01:59:23,437 --> 01:59:25,098
 活在黑暗裡！
 I'm in the dark!
 
-1474
+1513
 01:59:30,644 --> 01:59:36,179
 那放棄算了！
 儘管自暴自棄吧
@@ -9579,69 +9696,69 @@ So give up.
 You want to give up, give up.
 Because I'm givin' up, too.
 
-1475
+1514
 01:59:36,550 --> 01:59:38,347
 你講的對，我完了
 You said I'm through.
 You're right,
 I am through.
 
-1476
+1515
 01:59:38,919 --> 01:59:40,716
 我們都完了，沒希望了
 We're both through.
 It's all over.
 
-1477
+1516
 01:59:41,521 --> 01:59:42,988
 媽的就幹吧！
 So let's get on with it.
 Let's fuckin' do it.
 
-1478
+1517
 01:59:43,991 --> 01:59:45,982
 扣他媽的扳機…
 Let's fuckin'
 pull the trigger,
 
-1479
+1518
 01:59:46,960 --> 01:59:48,689
 你這不可理喻的瞎子！
 you miserable
 blind motherfucker.
 
-1480
+1519
 01:59:57,537 --> 01:59:58,526
 扣啊！
 Pull the trigger.
 
-1481
+1520
 02:00:01,308 --> 02:00:02,639
 預備了…
 Here we go, Charlie.
 
-1482
+1521
 02:00:04,411 --> 02:00:05,400
 我好了
 I'm ready.
 
-1483
+1522
 02:00:13,787 --> 02:00:14,981
 你不想死
 You don't want to die.
 
-1484
+1523
 02:00:18,125 --> 02:00:19,456
 你也不想
 And neither do you.
 
-1485
+1524
 02:00:23,363 --> 02:00:26,025
 再給我一個理由
 Give me one
 reason not to.
 
-1486
+1525
 02:00:30,604 --> 02:00:35,007
 我給你兩個，
 你跳探戈和開法拉利帥極了
@@ -9650,101 +9767,101 @@ You can dance the tango
 and drive a Ferrari better
 than anyone I've ever seen.
 
-1487
+1526
 02:00:41,948 --> 02:00:44,075
 你以前沒看過吧
 You never seen
 anyone do either.
 
-1488
+1527
 02:00:48,688 --> 02:00:50,019
 把槍給我，中校
 Give me the gun,
 Colonel.
 
-1489
+1528
 02:01:01,568 --> 02:01:04,230
 我該怎麼辦，查理？
 Where do I go
 from here, Charlie?
 
-1490
+1529
 02:01:05,772 --> 02:01:08,240
 「煩心就跳探戈」
 If you're tangled up,
 just tango on.
 
-1491
+1530
 02:01:11,444 --> 02:01:13,435
 你要請我跳舞？
 You askin' me
 to dance, Charlie?
 
-1492
+1531
 02:01:20,875 --> 02:01:26,336
 「你從沒想過要翩然離去？」
 Did you ever
 have the feelin'
 That you wanted to go
 
-1493
+1532
 02:01:27,082 --> 02:01:31,746
 「心裡又渴望留下」
 And still had the feelin'
 that you wanted to stay?
 
-1494
+1533
 02:01:48,103 --> 02:01:50,094
 你喜歡我的藍制服？
 You like my blues,
 Charlie?
 
-1495
+1534
 02:01:53,642 --> 02:01:54,631
 很漂亮
 Yeah, they're beautiful.
 
-1496
+1535
 02:01:56,911 --> 02:01:58,378
 我穿它們…
 I wore these
 
-1497
+1536
 02:02:00,482 --> 02:02:02,814
 參加詹森的就職大典
 for Lyndon's
 inauguration.
 
-1498
+1537
 02:02:04,919 --> 02:02:09,721
 當然啦…
 我們不是最重要的來賓
 Of course, we weren't
 the number one ball.
 
-1499
+1538
 02:02:12,594 --> 02:02:14,585
 但他過來打招呼了
 But he dropped by
 anyway.
 
-1500
+1539
 02:02:17,165 --> 02:02:18,689
 請把槍給我
 Will you please
 give me the gun?
 
-1501
+1540
 02:02:23,605 --> 02:02:25,266
 你在要求一個軍官…
 You're askin' an officer
 
-1502
+1541
 02:02:26,708 --> 02:02:28,835
 繳出他的武器
 to surrender his sidearm.
 
-1503
+1542
 02:02:30,645 --> 02:02:34,308
 你不必「繳出」
 放下就好了
@@ -9753,200 +9870,203 @@ to surrender it.
 Just put it down
 for a little while.
 
-1504
+1543
 02:02:35,884 --> 02:02:37,351
 放下來吧
 All right?
 Just put it down.
 
-1505
+1544
 02:02:50,031 --> 02:02:52,022
 我需要喝一杯
 Boy, I could use
 a drink, Charlie.
 
-1506
+1545
 02:02:55,770 --> 02:02:56,896
 咖啡好嗎？
 How about a cup of coffee?
 
-1507
+1546
 02:03:00,442 --> 02:03:03,707
 我要三思而行
 查理
 Too big a leap for me
 right now, Charlie.
 
-1508
+1547
 02:03:03,778 --> 02:03:05,109
 也許明天再死
 Maybe tomorrow.
 
-1509
+1548
 02:03:08,183 --> 02:03:12,847
 不
 還是來杯傑克丹尼爾吧
 No, a Mr. John Daniels
 would be preferred.
 
-1510
+1549
 02:03:15,090 --> 02:03:16,614
 別摻水，查理
 No water,
 Charlie.
 
-1511
+1550
 02:03:19,527 --> 02:03:20,585
 不摻水
 No water.
 
-1512
+1551
 02:03:21,463 --> 02:03:22,452
 麻煩你了
 Please.
 
-1513
-02:03:30,839 --> 02:03:41,672
+1552
+02:03:30,839 --> 02:03:31,828
 你的酒
-對不起
 Here's your drink,
 Colonel.
+
+1553
+02:03:40,148 --> 02:03:41,672
+對不起
 Oh, I'm so sorry.
 
-1514
+1554
 02:03:42,283 --> 02:03:44,274
 什麼時候幫你鋪床？
 What time do you want me
 to turn down the bed?
 
-1515
+1555
 02:03:44,953 --> 02:03:46,614
 等會兒吧
 Maybe later,
 all right?
 
-1516
+1556
 02:03:46,821 --> 02:03:49,016
 他的意思是，小姐…
 What he means,
 se·orita,
 
-1517
+1557
 02:03:50,024 --> 02:03:51,685
 坐過來
 is come right in.
 
-1518
+1558
 02:03:55,563 --> 02:03:56,359
 等會兒
 Later, please?
 
-1519
+1559
 02:03:58,166 --> 02:04:00,157
 是的，午安
 Yes, sir.
 Good afternoon.
 
-1520
+1560
 02:04:05,039 --> 02:04:06,370
 聲音不賴
 Nice voice.
 
-1521
+1561
 02:04:10,845 --> 02:04:12,779
 你老想著一件事
 Boy, you have
 a one-track mind.
 
-1522
+1562
 02:04:15,049 --> 02:04:17,517
 這世上還有別的事嗎？
 Is there anything else
 in this world, Charlie?
 
-1523
+1563
 02:04:19,387 --> 02:04:20,376
 對你可沒有
 Not for you.
 
-1524
+1564
 02:04:22,123 --> 02:04:24,387
 你知道我前進的動力嗎？
 You know what's
 kept me goin'
 all these years?
 
-1525
+1565
 02:04:25,794 --> 02:04:26,920
 就是夢想…
 The thought
 
-1526
+1566
 02:04:29,097 --> 02:04:30,428
 有一天…
 that one day...
 
-1527
+1567
 02:04:40,074 --> 02:04:41,132
 算了
 Never mind.
 
-1528
+1568
 02:04:42,744 --> 02:04:43,676
 什麼？
 The what?
 
-1529
+1569
 02:04:45,747 --> 02:04:46,736
 很笨
 Silly.
 
-1530
+1570
 02:04:50,018 --> 02:04:52,350
 就是夢想也許有一天…
 Just the thought that
 maybe one day, I'd...
 
-1531
+1571
 02:04:56,758 --> 02:04:59,226
 能有女人雙臂抱著我…
 I could have a woman's arms
 wrapped around me,
 
-1532
+1572
 02:05:01,496 --> 02:05:03,293
 雙腿纏著我…
 and her legs
 wrapped around me.
 
-1533
+1573
 02:05:06,568 --> 02:05:07,296
 然後呢？
 And what?
 
-1534
+1574
 02:05:12,841 --> 02:05:17,244
 早晨我睜開眼睛而她還在
 That I could wake up
 in the morning and
 she'd still be there.
 
-1535
+1575
 02:05:18,646 --> 02:05:20,045
 她的味道…
 Smell of her.
 
-1536
+1576
 02:05:21,449 --> 02:05:23,110
 甜膩而溫暖
 All funky and warm.
 
-1537
+1577
 02:05:27,922 --> 02:05:29,913
 後來我就死心了
 I finally gave up on it.
 
-1538
+1578
 02:05:33,194 --> 02:05:34,718
 我不懂這為什麼不可能
 我們回新罕布夏以後
@@ -9958,36 +10078,39 @@ to New Hampshire,
 I don't know why you
 can't find someone.
 
-1539
+1579
 02:05:44,205 --> 02:05:47,732
 你這麼帥，而且…
 You're a good-lookin' guy
 
-1540
-02:05:48,009 --> 02:05:53,171
+1580
+02:05:48,009 --> 02:05:50,000
 你很風趣…
-又是旅途良伴
 and you're fun to be with
+
+1581
+02:05:51,613 --> 02:05:53,171
+又是旅途良伴
 and you're a great
 travel companion,
 
-1541
+1582
 02:05:54,282 --> 02:05:56,682
 你敏感，富同情心
 sensitive, compassionate.
 
-1542
+1583
 02:06:00,989 --> 02:06:05,517
 查理，你在逗我是吧？
 Charlie,
 are you fuckin' with me?
 
-1543
+1584
 02:06:09,631 --> 02:06:10,290
 是啊
 Yes.
 
-1544
+1585
 02:06:15,169 --> 02:06:15,828
 喂
 我們錯過班機了
@@ -9995,26 +10118,26 @@ Yeah?
 Hey, Manny.
 We missed our plane.
 
-1545
+1586
 02:06:25,213 --> 02:06:29,013
 你的班機，查理
 我的機票是單程
 Your plane, Charlie.
 My ticket was one-way.
 
-1546
+1587
 02:06:31,330 --> 02:06:33,594
 走新英格蘭大道？
 New England thruway
 all the way, Colonel?
 
-1547
+1588
 02:06:33,666 --> 02:06:35,463
 一路到底
 All the way,
 Manolo.
 
-1548
+1589
 02:06:47,480 --> 02:06:49,812
 我的預感又來了
 I'm gettin' that heavy
@@ -10022,20 +10145,20 @@ feelin' again, Charlie.
 Uh...
 "Uh..."
 
-1549
+1590
 02:06:56,556 --> 02:06:58,888
 我想你對喬治父子的看法很對
 I think you were
 right about George
 and his father.
 
-1550
+1591
 02:06:59,892 --> 02:07:01,553
 真遺憾
 I'm sorry
 to hear that.
 
-1551
+1592
 02:07:02,295 --> 02:07:05,958
 回去以後
 垂斯克會叫我們出列
@@ -10043,48 +10166,48 @@ When we get back Mr. Trask
 is bringing us up
 in front of the whole school.
 
-1552
+1593
 02:07:07,033 --> 02:07:08,830
 「抓你的腳到火堆前」
 Puttin' your feet
 to the fire?
 
-1553
+1594
 02:07:09,669 --> 02:07:12,069
 生活委員會召開的
 特別會議
 Special meeting of the
 disciplinary committee.
 
-1554
+1595
 02:07:13,906 --> 02:07:15,168
 你要怎麼說？
 And what are you
 gonna tell 'em?
 
-1555
+1596
 02:07:19,178 --> 02:07:20,839
 我會找些話題
 I don't know.
 I'll think of somethin'.
 
-1556
+1597
 02:07:23,983 --> 02:07:27,384
 查理，你怎麼會落單呢？
 Charlie, why are you
 all alone in this thing?
 
-1557
+1598
 02:07:29,255 --> 02:07:30,449
 你爸爸在哪裡？
 Where's your father?
 
-1558
+1599
 02:07:32,725 --> 02:07:33,714
 走了
 He left.
 
-1559
+1600
 02:07:35,461 --> 02:07:39,722
 我以為你家的店是父母開的
 誰是爸爸？
@@ -10092,13 +10215,13 @@ I thought it was a
 mom-and-pop store.
 Who's the pop?
 
-1560
+1601
 02:07:40,333 --> 02:07:41,459
 我繼父
 It's my stepfather.
 Oh, yeah.
 
-1561
+1602
 02:07:47,006 --> 02:07:50,869
 他怎麼不管這事？
 他有毛病？
@@ -10106,7 +10229,7 @@ But why isn't
 he in on this?
 Somethin' wrong with him?
 
-1562
+1603
 02:07:52,078 --> 02:07:56,276
 沒有
 我們只是處不來而已
@@ -10114,12 +10237,12 @@ No, he's okay. We just...
 We don't get along
 very well.
 
-1563
+1604
 02:07:56,682 --> 02:07:57,671
 為什麼？
 Why not?
 
-1564
+1605
 02:07:59,819 --> 02:08:09,222
 他是混球
 倒也無妨
@@ -10128,23 +10251,23 @@ an asshole.
 Well, that's
 all right, Charlie.
 
-1565
+1606
 02:08:11,430 --> 02:08:14,092
 每家都有一個
 Every family's
 got one nowadays.
 
-1566
+1607
 02:08:43,928 --> 02:08:44,917
 就這些？
 That's it?
 
-1567
+1608
 02:08:45,663 --> 02:08:46,652
 就這些
 That's it.
 
-1568
+1609
 02:08:46,865 --> 02:08:49,663
 保重
 好，謝了
@@ -10153,143 +10276,143 @@ yourself, kid.
 All right, Manny.
 Thanks.
 
-1569
+1610
 02:08:56,007 --> 02:08:57,269
 不，我不開窗
 No,
 I'm not opening.
 
-1570
+1611
 02:08:59,611 --> 02:09:01,272
 我痛恨道別
 I hate goodbyes.
 
-1571
+1612
 02:09:03,681 --> 02:09:07,082
 你不會有事吧？
 So...
 You'll be
 all right, huh?
 
-1572
+1613
 02:09:08,953 --> 02:09:10,147
 不會
 I'll be fine.
 
-1573
+1614
 02:09:11,956 --> 02:09:12,945
 那好
 All right.
 
-1574
+1615
 02:09:16,628 --> 02:09:17,287
 什麼玩意？
 What's that?
 
-1575
+1616
 02:09:19,230 --> 02:09:20,697
 預備鈴
 That's first bell.
 
-1576
+1617
 02:09:22,634 --> 02:09:24,363
 剛好夠我梳洗
 Just got time
 to get cleaned up.
 
-1577
+1618
 02:09:28,306 --> 02:09:29,637
 我差點忘了
 I almost forgot.
 
-1578
+1619
 02:09:34,512 --> 02:09:35,979
 我還欠你錢
 I owe you
 some money.
 
-1579
+1620
 02:09:38,650 --> 02:09:42,116
 三百塊
 順利完工
 $300.
 Job well done.
 
-1580
+1621
 02:09:46,124 --> 02:09:49,116
 需要推薦信的話，來找我
 You ever need
 any references, Charlie,
 I'm your man.
 
-1581
+1622
 02:09:51,062 --> 02:09:52,051
 謝謝，中校
 Thanks, Colonel.
 
-1582
+1623
 02:09:59,537 --> 02:10:02,335
 華特街十六號，過橋就到
 16 Water Street.
 Over the bridge.
 
-1583
+1624
 02:10:02,407 --> 02:10:03,601
 我知道路
 We'll find it.
 
-1584
+1625
 02:10:05,009 --> 02:10:05,998
 再會，查理
 Goodbye, Charlie.
 
-1585
+1626
 02:10:08,480 --> 02:10:09,469
 再見，中校
 Goodbye, Colonel.
 
-1586
+1627
 02:10:13,351 --> 02:10:14,340
 來，查理
 Come here, son.
 
-1587
+1628
 02:10:31,703 --> 02:10:32,829
 好了，曼尼
 Okay, Manny.
 
-1588
+1629
 02:11:47,245 --> 02:11:49,042
 喬治…
 George. George!
 
-1589
+1630
 02:12:28,486 --> 02:12:31,011
 我召開這次會議
 I called an open meeting
 of this institution
 this morning
 
-1590
+1631
 02:12:31,089 --> 02:12:34,547
 因為上週二發生的事件
 because the incident
 that occurred this
 Tuesday last
 
-1591
+1632
 02:12:34,626 --> 02:12:38,494
 關係到我們全體
 describes an issue
 that concerns all of us.
 
-1592
+1633
 02:12:40,164 --> 02:12:41,688
 那不是單純的塗鴨
 Not an isolated case
 of vandalism.
 
-1593
+1634
 02:12:42,433 --> 02:12:47,427
 而是我們社會的病態表徵
 What happened
@@ -10297,7 +10420,7 @@ is a symptom
 of the sickness
 of a society.
 
-1594
+1635
 02:12:48,573 --> 02:12:53,972
 並與博德的立校精神…
 嚴重衝突
@@ -10305,20 +10428,20 @@ A sickness which runs
 counter to the principles
 this school was founded on.
 
-1595
+1636
 02:12:55,980 --> 02:12:58,312
 本校的畢業生中
 A school among
 whose graduates
 
-1596
+1637
 02:12:58,383 --> 02:13:03,047
 兩個曾入主白宮
 two have sat behind the
 desk in the Oval O·ce,
 in the White House.
 
-1597
+1638
 02:13:04,322 --> 02:13:07,257
 博德的人掌管州政府
 投資局
@@ -10326,21 +10449,21 @@ Baird men have
 run State Departments
 and investment houses,
 
-1598
+1639
 02:13:08,459 --> 02:13:11,455
 興建百貨商場…
 指導足球隊
 founded department stores
 and coached football teams.
 
-1599
+1640
 02:13:11,529 --> 02:13:14,987
 我們的校友在印度僧舍…
 Our alumni receive
 their bulletins in
 ashrams in India
 
-1600
+1641
 02:13:15,466 --> 02:13:18,333
 及約旦皇宮中都有
 我們被視為
@@ -10351,7 +10474,7 @@ known around the world
 as the cradle of this
 country's leadership.
 
-1601
+1642
 02:13:23,541 --> 02:13:26,601
 你怎麼會在這裡？
 台上有沒有位子？
@@ -10360,14 +10483,14 @@ What are you doing here?
 Got room for me
 up there, Charlie?
 
-1602
+1643
 02:13:26,678 --> 02:13:29,943
 今天
 我們因受辱而蒙羞
 But today we are bleeding
 from disrespect.
 
-1603
+1644
 02:13:30,081 --> 02:13:32,413
 應該有
 幫我一把
@@ -10375,20 +10498,20 @@ Yeah, I guess so.
 Blatant disrespect.
 Give us a hand.
 
-1604
+1645
 02:13:33,284 --> 02:13:35,218
 不尊重本校價值觀…
 A disrespect
 for our values,
 
-1605
+1646
 02:13:35,286 --> 02:13:38,688
 也不尊重
 我們的標準
 and a disrespect
 for our standards.
 
-1606
+1647
 02:13:39,290 --> 02:13:45,024
 更不尊重博德傳統
 為了護衛該傳統…
@@ -10397,7 +10520,7 @@ the Baird tradition.
 And, as the custodians
 of that tradition,
 
-1607
+1648
 02:13:46,698 --> 02:13:48,632
 今天我們齊聚一堂…
 保衛它不受摧殘
@@ -10405,65 +10528,65 @@ we are here today
 to protect each other
 from those who threaten it.
 
-1608
+1649
 02:13:55,106 --> 02:13:56,630
 這是哪位，西門先生？
 Who is this, Mr. Simms?
 
-1609
+1650
 02:13:59,310 --> 02:14:01,301
 法蘭克.史雷德先生
 This is Mr. Frank Slade,
 
-1610
+1651
 02:14:01,913 --> 02:14:05,576
 美國陸軍中校，退役
 Lieutenant Colonel,
 United States Army,
 retired.
 
-1611
+1652
 02:14:06,551 --> 02:14:08,746
 我代表查理父母出席
 I'm here in place
 of Charlie's parents.
 
-1612
+1653
 02:14:09,053 --> 02:14:10,042
 抱歉？
 Excuse me?
 
-1613
+1654
 02:14:10,655 --> 02:14:12,646
 「代表他父母」
 In loco parentis.
 
-1614
+1655
 02:14:14,659 --> 02:14:17,321
 他們不能從奧勒岡趕來
 They could not make
 the trip from
 Oregon today.
 
-1615
+1656
 02:14:17,995 --> 02:14:19,986
 您和西門先生是什麼關係？
 And what is your
 relationship to Mr. Simms?
 
-1616
+1657
 02:14:20,998 --> 02:14:22,329
 這是法庭嗎？
 Is this a
 courtroom?
 
-1617
+1658
 02:14:23,468 --> 02:14:25,663
 是最接近法庭的安排
 Closest thing
 we could manage to it.
 
-1618
+1659
 02:14:25,737 --> 02:14:29,070
 如果要發誓
 我倒想和幾個人一起
@@ -10471,18 +10594,18 @@ Then if we're taking oaths,
 there's a few people
 I'd like to swear in.
 
-1619
+1660
 02:14:31,743 --> 02:14:34,405
 在博德是不發誓的
 There are no oaths
 at Baird.
 
-1620
+1661
 02:14:35,012 --> 02:14:36,411
 我們自律
 We are all on our honor.
 
-1621
+1662
 02:14:39,016 --> 02:14:44,010
 拉瑞和芬妮
 是我很好的朋友
@@ -10490,41 +10613,41 @@ Larry and Franny Simms
 are very dear,
 close friends of mine.
 
-1622
+1663
 02:14:44,689 --> 02:14:47,681
 他們拜託我來
 They've asked me
 to appear here on
 Charlie's behalf.
 
-1623
+1664
 02:14:48,826 --> 02:14:49,815
 行嗎？
 Okay?
 
-1624
+1665
 02:14:52,697 --> 02:14:53,686
 歡迎光臨
 Happy to have you
 with us, Colonel.
 
-1625
+1666
 02:14:59,453 --> 02:15:00,647
 威利斯先生
 Mr. Willis.
 
-1626
+1667
 02:15:03,257 --> 02:15:04,246
 哪一位？
 Which Mr. Willis?
 
-1627
+1668
 02:15:04,892 --> 02:15:12,961
 喬治二世，先生
 George, Junior, sir.
 Yes.
 
-1628
+1669
 02:15:12,961 --> 02:15:18,595
 你目睹了塗鴨事件的經過
 是誰做的？
@@ -10534,100 +10657,100 @@ to see who committed
 this act of vandalism.
 Who was it?
 
-1629
+1670
 02:15:21,169 --> 02:15:24,502
 嗯，我不曉得是誰
 Well, I have an idea
 who it was.
 
-1630
+1671
 02:15:24,572 --> 02:15:25,903
 不曉得
 No, not an idea,
 Mr. Willis.
 
-1631
+1672
 02:15:25,974 --> 02:15:27,771
 你看到或沒看到？
 Did you see or
 did you not see?
 Well...
 
-1632
+1673
 02:15:34,048 --> 02:15:36,642
 我沒戴隱形眼鏡
 I didn't have
 my contacts in.
 Come on.
 
-1633
+1674
 02:15:45,526 --> 02:15:48,654
 在圖書館的時候脫下的
 I was in the library.
 I'd taken my glasses off,
 
-1634
+1675
 02:15:48,730 --> 02:15:51,198
 本來要再戴回去
 and I was gonna put
 my contacts back in.
 
-1635
+1676
 02:15:56,871 --> 02:15:58,133
 我幫西門鎖門
 Then I helped
 Simms close up
 
-1636
+1677
 02:15:58,406 --> 02:16:00,874
 之後，我們已經在外面了
 and the next thing
 I know, we're outside,
 
-1637
+1678
 02:16:01,542 --> 02:16:05,672
 我聽到聲音…
 and I hear
 this sound and I
 
-1638
+1679
 02:16:05,747 --> 02:16:08,409
 但是沒時間戴隱形眼鏡
 didn't have any time
 to put my contacts in.
 
-1639
+1680
 02:16:09,217 --> 02:16:11,685
 在你有限的視力下你看到誰
 Whom, with your
 limited vision,
 did you see?
 
-1640
+1681
 02:16:29,637 --> 02:16:31,628
 我講過了，看不清楚
 Like I say,
 it was blurry.
 
-1641
+1682
 02:16:37,512 --> 02:16:39,503
 沒戴眼鏡我看不到
 I can't see
 without my contacts.
 
-1642
+1683
 02:16:40,181 --> 02:16:42,513
 你看到誰，威利斯先生？
 What did you see,
 Mr. Willis?
 
-1643
+1684
 02:16:42,850 --> 02:16:46,308
 你是說，確定地？
 What?
 You mean definitively?
 
-1644
+1685
 02:16:46,387 --> 02:16:49,584
 不要閃爍其詞
 講清楚
@@ -10635,7 +10758,7 @@ Stop fencing with me,
 Mr. Willis!
 Tell me what you saw!
 
-1645
+1686
 02:16:55,396 --> 02:16:59,990
 不要全信我的話
 不過…
@@ -10643,118 +10766,118 @@ Tell me what you saw!
 Now, don't hold me to this,
 but no contacts, it's dark...
 
-1646
+1687
 02:17:02,336 --> 02:17:03,598
 等等…
 And everything, I mean...
 Mr. Willis!
 
-1647
+1688
 02:17:08,209 --> 02:17:09,198
 可能是…
 Maybe...
 
-1648
+1689
 02:17:11,879 --> 02:17:13,870
 哈瑞.海夫曼爾
 Harry Havemeyer,
 
-1649
+1690
 02:17:14,482 --> 02:17:17,349
 博德.波特
 和吉米.詹姆森
 Trent Potter and
 Jimmy Jameson.
 
-1650
+1691
 02:17:21,756 --> 02:17:22,415
 「可能」？
 Maybe?
 
-1651
+1692
 02:17:22,890 --> 02:17:24,551
 猜測而已，我盡力了
 Ballpark, best guess.
 
-1652
+1693
 02:17:26,894 --> 02:17:28,885
 能提供一點細節嗎？
 Could you provide us
 with some detaiI?
 
-1653
+1694
 02:17:32,233 --> 02:17:35,430
 何不問查理？他站的更近
 Why don't you ask Charlie?
 I really think he was closer.
 
-1654
+1695
 02:17:44,712 --> 02:17:45,701
 西門先生
 Mr. Simms.
 Yes.
 
-1655
+1696
 02:17:49,050 --> 02:17:50,711
 你沒戴隱形眼鏡吧？
 You don't wear contact lenses,
 do you?
 
-1656
+1697
 02:17:51,853 --> 02:17:52,842
 沒有，先生
 No, sir.
 
-1657
+1698
 02:17:54,922 --> 02:17:56,913
 在你無礙的視野內
 With your
 untrammeled sight,
 
-1658
+1699
 02:17:57,992 --> 02:17:58,856
 你看到誰了？
 w£om did you see?
 
-1659
+1700
 02:18:03,197 --> 02:18:05,290
 我是看到一些人
 Well, I saw something,
 
-1660
+1701
 02:18:06,868 --> 02:18:09,769
 但不能講是誰
 but I couldn't say who.
 
-1661
+1702
 02:18:09,871 --> 02:18:12,772
 你看到的是什麼？
 All right. What was
 the something you saw?
 
-1662
+1703
 02:18:16,878 --> 02:18:17,867
 我不能說
 I couldn't say.
 
-1663
+1704
 02:18:17,945 --> 02:18:19,810
 不能說或不想說？
 You couldn't or wouldn't say?
 
-1664
+1705
 02:18:22,617 --> 02:18:24,482
 不，我只是…
 Well, I just...
 
-1665
+1706
 02:18:28,222 --> 02:18:30,747
 我不能說
 不能、不想、不該
 I just couldn't say.
 Couldn't, wouldn't, shouldn't.
 
-1666
+1707
 02:18:31,025 --> 02:18:34,620
 你磨盡我的耐性
 還愚弄了大家
@@ -10762,7 +10885,7 @@ You're exhausting my patience
 and making a mockery
 of these proceedings.
 
-1667
+1708
 02:18:34,829 --> 02:18:38,788
 我給你最後一次機會
 西門先生
@@ -10772,67 +10895,67 @@ The consequences
 of your response
 will be dire.
 
-1668
+1709
 02:18:38,866 --> 02:18:43,735
 你的回答將決定你的未來
 By dire, I mean
 your future will be
 jeopardized permanently.
 
-1669
+1710
 02:18:44,972 --> 02:18:46,633
 現在，最後一次問你…
 Now for the last time,
 
-1670
+1711
 02:18:46,841 --> 02:18:51,278
 上週二晚上你看到誰在停車場
 w£at did you see
 last Tuesday night
 outside my office?
 
-1671
+1712
 02:18:55,316 --> 02:18:56,374
 我看到某些人
 I saw somebody.
 
-1672
+1713
 02:18:57,251 --> 02:18:59,583
 「我看到某些人」，好
 "I saw somebody." Good.
 
-1673
+1714
 02:19:00,521 --> 02:19:02,284
 看到他們的身材面貌了？
 Did you see their
 size and shape?
 Yeah.
 
-1674
+1715
 02:19:06,460 --> 02:19:08,690
 是誰的身材，面貌？
 And they were the size
 and shape of whom?
 
-1675
+1716
 02:19:14,669 --> 02:19:16,933
 那些特徵…
 They were the size and shape
 
-1676
+1717
 02:19:31,819 --> 02:19:33,810
 看來像任何博德學生
 先生
 of most any
 Baird student, sir.
 
-1677
+1718
 02:19:49,036 --> 02:19:51,698
 我竟沒有一個證人！
 I am left with
 no real witness.
 
-1678
+1719
 02:19:53,174 --> 02:19:56,610
 威利斯先生的證詞
 模糊不清
@@ -10840,43 +10963,46 @@ Mr. Willis' testimony
 is not only vague,
 it is unsubstantiated.
 
-1679
+1720
 02:19:56,677 --> 02:19:59,840
 我所尋找的線索
 西門先生
 The substance I was
 looking for, Mr. Simms,
 
-1680
+1721
 02:19:59,914 --> 02:20:01,905
 應該來自於你
 was to come from you.
 
-1681
+1722
 02:20:05,486 --> 02:20:06,817
 我很抱歉
 I'm sorry.
 
-1682
+1723
 02:20:08,456 --> 02:20:10,447
 我也很抱歉，西門先生
+I'm sorry, too, Mr. Simms,
+
+1724
+02:20:11,892 --> 02:20:14,918
 我既不能處罰…
 海夫曼爾先生、波特先生
 或詹姆森先生
-I'm sorry, too, Mr. Simms,
 because you know
 what I'm going to do
 inasmuch as I can't
 punish Mr. Havemeyer
 Mr. Potter or Mr. Jameson?
 
-1683
+1725
 02:20:18,366 --> 02:20:20,357
 我也不會處罰威利斯先生
 And I won't punish
 Mr. Willis.
 
-1684
+1726
 02:20:21,035 --> 02:20:25,699
 他是唯一配稱
 「博德人」的份子
@@ -10886,18 +11012,18 @@ w£o is still worthy
 of calling himself
 a Baird man.
 
-1685
+1727
 02:20:27,241 --> 02:20:30,233
 我將建議生活委員會…
 I'm going to recommend to
 the disciplinary committee
 
-1686
+1728
 02:20:32,179 --> 02:20:33,441
 開除你
 that you be expelled.
 
-1687
+1729
 02:20:34,315 --> 02:20:38,282
 你隱瞞真相…
 又撒謊
@@ -10905,42 +11031,42 @@ Mr. Simms, you are
 a cover-up artist
 and you are a liar.
 
-1688
+1730
 02:20:38,519 --> 02:20:40,384
 但不出賣朋友
 But not a snitch!
 
-1689
+1731
 02:20:41,922 --> 02:20:43,116
 請你重覆一遍
 Excuse me?
 
-1690
+1732
 02:20:43,591 --> 02:20:44,922
 我說得很清楚
 No, I don't think
 I will.
 Mr. Slade.
 
-1691
+1733
 02:20:46,527 --> 02:20:49,519
 這場聽證會簡直是胡鬧
 This is such
 a crock of shit!
 
-1692
+1734
 02:20:50,631 --> 02:20:52,496
 請小心措詞
 Please watch
 your language, Mr. Slade.
 
-1693
+1735
 02:20:52,633 --> 02:20:55,625
 你身在博德，不是軍營
 You are in the Baird school,
 not a barracks.
 
-1694
+1736
 02:20:56,337 --> 02:20:58,737
 西門先生
 我給你最後機會
@@ -10948,13 +11074,13 @@ Mr. Simms, I will
 give you one final
 opportunity to speak up.
 
-1695
+1737
 02:20:58,939 --> 02:21:01,066
 西門先生不需要
 Mr. Simms
 doesn't want it.
 
-1696
+1738
 02:21:01,942 --> 02:21:05,935
 他不需要被帖上
 「博德人」標誌
@@ -10963,36 +11089,36 @@ to be labeled
 "still worthy of
 being a Baird man."
 
-1697
+1739
 02:21:06,280 --> 02:21:08,077
 這算什麼？
 What the hell is that?
 
-1698
+1740
 02:21:08,416 --> 02:21:10,281
 你們的座右銘是什麼？
 What is your motto here?
 
-1699
+1741
 02:21:10,551 --> 02:21:14,453
 「孩子們，出賣朋友求自保」
 "Boys, inform on
 your classmates,
 save your hide,
 
-1700
+1742
 02:21:14,555 --> 02:21:17,353
 「否則讓你屍骨無存」
 "anything short of that,
 we're gonna burn you
 at the stake?"
 
-1701
+1743
 02:21:18,159 --> 02:21:20,150
 先生們…
 Well, gentlemen,
 
-1702
+1744
 02:21:20,428 --> 02:21:25,422
 出紕漏時
 有人跑，有人留
@@ -11000,7 +11126,7 @@ when the shit hits the fan,
 some guys run,
 and some guys stay.
 
-1703
+1745
 02:21:25,633 --> 02:21:27,760
 查理面對困難
 那邊的喬治卻躲進老爹的口袋裡
@@ -11009,30 +11135,30 @@ facin' the fire,
 and there's George,
 hidin' in big daddy's pocket.
 
-1704
+1746
 02:21:31,705 --> 02:21:33,366
 結果你做什麼呢？
 And what are you doin'?
 
-1705
+1747
 02:21:33,441 --> 02:21:37,571
 你獎勵喬治，開除查理
 You're gonna reward George
 and destroy Charlie.
 
-1706
+1748
 02:21:39,180 --> 02:21:40,442
 你講完了，史先生？
 Are you finished,
 Mr. Slade?
 
-1707
+1749
 02:21:40,648 --> 02:21:43,116
 不，我才剛暖好身
 No, I'm just gettin'
 warmed up.
 
-1708
+1750
 02:21:43,918 --> 02:21:50,713
 我不知道誰念過博德
 威廉塔夫脫、威廉布萊恩…
@@ -11044,7 +11170,7 @@ William Howard Taft,
 William Jennings Bryan,
 William Tell, whoever.
 
-1709
+1751
 02:21:50,791 --> 02:21:55,125
 他們精神已死
 就算曾有現在也沒了
@@ -11052,19 +11178,19 @@ Their spirit is dead,
 if they ever had one.
 It's gone.
 
-1710
+1752
 02:21:55,529 --> 02:21:57,861
 你在這裡培育的是老鼠大隊
 You're buildin'
 a rat ship here,
 
-1711
+1753
 02:21:58,532 --> 02:22:01,126
 一堆賣友求榮的告密者
 a vessel for
 seagoin' snitches.
 
-1712
+1754
 02:22:01,535 --> 02:22:05,198
 如果你以為在鍛煉
 蝦兵成龍頭
@@ -11072,36 +11198,36 @@ And if you think
 you're preparin' these
 minnows for manhood,
 
-1713
+1755
 02:22:05,272 --> 02:22:06,603
 你最好三思
 you better think again,
 
-1714
+1756
 02:22:06,874 --> 02:22:09,604
 因為你正扼殺了…
 because I say you are
 killin' the very spirit
 
-1715
+1757
 02:22:09,810 --> 02:22:12,210
 這所學府所堅持的精神
 this institution
 proclaims it instills.
 
-1716
+1758
 02:22:14,014 --> 02:22:15,345
 真是恥辱
 What a sham.
 
-1717
+1759
 02:22:15,683 --> 02:22:18,618
 你們今天給我看的是什麼秀？
 What kind of a show
 are you guys puttin'
 on here today?
 
-1718
+1760
 02:22:18,686 --> 02:22:22,213
 唯一有格調的人
 坐在我旁邊！
@@ -11109,7 +11235,7 @@ The only class
 in this act is
 sittin' next to me.
 
-1719
+1761
 02:22:22,289 --> 02:22:25,952
 我可以告訴你
 這孩子的靈魂沒有被污染
@@ -11117,14 +11243,14 @@ And I'm here
 to tell you this boy's
 soul is intact.
 
-1720
+1762
 02:22:26,026 --> 02:22:28,756
 而且無庸置疑
 為什麼我知道？
 It's non-negotiable.
 You know how I know?
 
-1721
+1763
 02:22:28,829 --> 02:22:32,356
 這裡有人…我不說他是誰
 要收買他
@@ -11132,7 +11258,7 @@ Someone here,
 and I won't say who,
 offered to buy it.
 
-1722
+1764
 02:22:33,300 --> 02:22:36,030
 但查理不為所動
 你太過份了
@@ -11141,20 +11267,20 @@ here wasn't sellin'.
 Sir, you're
 out of order.
 
-1723
+1765
 02:22:36,237 --> 02:22:38,569
 我告訴你什麼叫過份
 I'd show you
 out of order.
 
-1724
+1766
 02:22:38,973 --> 02:22:41,635
 你根本不知道什麼叫過份
 You don't know what
 out of order is,
 Mr. Trask.
 
-1725
+1767
 02:22:41,709 --> 02:22:46,578
 我很想示範
 但我太老、太累又瞎了
@@ -11163,7 +11289,7 @@ but I'm too old,
 I'm too tired,
 I'm too fuckin' blind.
 
-1726
+1768
 02:22:46,847 --> 02:22:55,247
 如果是五年前
 我會帶火焰噴射槍來這兒！
@@ -11171,51 +11297,51 @@ If I were the man I was
 five years ago, I'd take
 a flamethrower to this place!
 
-1727
+1769
 02:22:55,247 --> 02:22:57,909
 你以為你在跟誰說話？
 Out of order? Who the hell
 you think you're talkin' to?
 
-1728
+1770
 02:22:59,918 --> 02:23:02,250
 我是見過世面的
 明白嗎？
 I've been around, you know?
 
-1729
+1771
 02:23:02,721 --> 02:23:05,451
 有一度，我還看得見…
 There was a time
 I could see.
 
-1730
+1772
 02:23:05,524 --> 02:23:09,858
 我見過很多更年輕的男孩
 And I have seen.
 Boys like these,
 younger than these,
 
-1731
+1773
 02:23:10,062 --> 02:23:13,657
 臂膀被扭斷，雙腿被炸斷
 their arms torn out,
 their legs ripped off.
 
-1732
+1774
 02:23:13,932 --> 02:23:18,869
 但那些都不及醜陋的靈魂可怕
 But there is nothin'
 like the sight
 of an amputated spirit.
 
-1733
+1775
 02:23:18,937 --> 02:23:22,464
 靈魂不可能有義肢
 There is no prosthetic
 for that.
 
-1734
+1776
 02:23:23,609 --> 02:23:25,543
 你以為你只是…
 把這好青年
@@ -11226,24 +11352,24 @@ foot soldier
 back home to Oregon with
 his tail between his legs,
 
-1735
+1777
 02:23:30,482 --> 02:23:34,475
 我說你是處死了他的靈魂
 but I say you are
 executin' his soul!
 
-1736
+1778
 02:23:35,621 --> 02:23:36,952
 為什麼？
 And why?
 
-1737
+1779
 02:23:37,890 --> 02:23:40,222
 因為他不是博德人
 Because he's not
 a Baird man.
 
-1738
+1780
 02:23:40,893 --> 02:23:42,224
 博德人
 傷了這男孩，你就是博德孬種
@@ -11252,33 +11378,33 @@ You hurt this boy,
 you're gonna be Baird bums,
 the lot of you.
 
-1739
+1781
 02:23:46,832 --> 02:23:48,959
 而哈瑞、吉米、博德…
 And, Harry, Jimmy,
 
-1740
+1782
 02:23:49,968 --> 02:23:52,232
 不管你們坐在哪裡…
 Trent, wherever you are
 out there,
 
-1741
+1783
 02:23:52,571 --> 02:23:53,765
 去你媽的！
 fuck you, too!
 
-1742
+1784
 02:23:56,975 --> 02:23:58,704
 坐下，史雷德先生
 Stand down, Mr. Slade!
 
-1743
+1785
 02:23:58,844 --> 02:24:00,835
 我還沒講完
 I'm not finished.
 
-1744
+1786
 02:24:01,513 --> 02:24:03,504
 來這兒的時候…
 我聽到類似
@@ -11287,7 +11413,7 @@ As I came in here,
 I heard those words,
 "cradle of leadership."
 
-1745
+1787
 02:24:09,054 --> 02:24:12,717
 當支幹斷掉時
 搖籃就垮了
@@ -11297,20 +11423,20 @@ the cradle will fall,"
 and it has fallen here.
 It has fallen.
 
-1746
+1788
 02:24:16,195 --> 02:24:19,187
 人類製造者、領袖創造家
 Makers of men,
 creators of leaders.
 
-1747
+1789
 02:24:19,264 --> 02:24:22,461
 當心你創造的是哪種領袖
 Be careful what
 kind of leaders
 you're producin' here.
 
-1748
+1790
 02:24:23,602 --> 02:24:24,591
 我不知道…
 查理今天的緘默是對是錯
@@ -11319,48 +11445,48 @@ silence here today
 is right or wrong.
 I'm not a judge orjury.
 
-1749
+1791
 02:24:29,474 --> 02:24:31,135
 但我可以告訴你…
 But I can tell you this,
 
-1750
+1792
 02:24:31,343 --> 02:24:35,143
 他絕不會出賣別人
 以求前程
 he won't sell anybody out
 to buy his future!
 
-1751
+1793
 02:24:36,348 --> 02:24:39,681
 朋友們，這就叫正直
 And that, my friends,
 is called integrity.
 
-1752
+1794
 02:24:40,485 --> 02:24:41,952
 也叫勇氣
 That's called courage.
 
-1753
+1795
 02:24:42,487 --> 02:24:45,820
 那才是領袖的要件
 Now that's the stuff
 leaders should be made of.
 
-1754
+1796
 02:24:51,230 --> 02:24:54,893
 每次我走到人生十字路口
 Now I have come to
 the crossroads in my life.
 
-1755
+1797
 02:24:55,901 --> 02:24:59,564
 我總是知道哪條路是對的
 I always knew what
 the right path was.
 
-1756
+1798
 02:25:00,172 --> 02:25:02,367
 毫無例外，我就知道
 但我從不走，為什麼？
@@ -11368,12 +11494,12 @@ Without exception, I knew,
 but I never took it.
 You know why?
 
-1757
+1799
 02:25:06,111 --> 02:25:08,773
 因為那他媽的太苦了
 It was too damn hard.
 
-1758
+1800
 02:25:10,782 --> 02:25:13,774
 而現在查理
 他也走到了十字路口
@@ -11381,72 +11507,72 @@ Now here's Charlie.
 He's come to
 the crossroads.
 
-1759
+1801
 02:25:14,052 --> 02:25:18,045
 他選擇了對的路
 He has chosen a path.
 It's the right path.
 
-1760
+1802
 02:25:18,457 --> 02:25:22,450
 一條磨練領袖個性的道路
 It's a path made of principle
 that leads to character.
 
-1761
+1803
 02:25:25,063 --> 02:25:27,395
 讓他繼續他的行程吧
 Let him continue
 on his journey.
 
-1762
+1804
 02:25:29,668 --> 02:25:33,331
 他的未來掌握在您手中
 委員們
 You hold this boy's future
 in your hands, committee.
 
-1763
+1805
 02:25:34,339 --> 02:25:36,330
 那是個價值連城的未來
 It's a valuable future,
 
-1764
+1806
 02:25:37,075 --> 02:25:38,064
 相信我
 believe me.
 
-1765
+1807
 02:25:39,077 --> 02:25:41,739
 別毀了它，保護它
 Don't destroy it.
 Protect it.
 
-1766
+1808
 02:25:43,415 --> 02:25:44,746
 擁抱它
 Embrace it.
 
-1767
+1809
 02:25:45,617 --> 02:25:48,950
 我保證有一天您會引以為傲
 It's gonna make you
 proud one day,
 I promise you.
 
-1768
+1810
 02:26:06,371 --> 02:26:08,032
 很濫情吧？
 How's that
 for cornball?
 
-1769
+1811
 02:26:29,861 --> 02:26:31,852
 摀不住他們嘴巴的，先生
 Nothing can
 shut them up, sir.
 
-1770
+1812
 02:26:36,335 --> 02:26:41,329
 生活委員會將再開會討論此案
 The disciplinary
@@ -11454,7 +11580,7 @@ committee will take
 this matter under advisement
 in closed session.
 
-1771
+1813
 02:26:49,815 --> 02:26:51,476
 他們在幹嘛？
 What are they doin',
@@ -11464,37 +11590,37 @@ going to come to
 a decision now.
 Very well.
 
-1772
+1814
 02:27:06,031 --> 02:27:08,693
 很顯然的，不必再開會了
 Apparently, that meeting
 will be unnecessary.
 
-1773
+1815
 02:27:09,768 --> 02:27:11,099
 杭賽克太太
 Mrs. Hunsaker.
 
-1774
+1816
 02:27:15,574 --> 02:27:20,443
 生活委員會不必另行開會
 The joint student-faculty
 disciplinary committee
 needs no further sessions.
 
-1775
+1817
 02:27:20,846 --> 02:27:22,837
 他們已達成決議
 They have come to a decision.
 
-1776
+1818
 02:27:23,582 --> 02:27:26,449
 海夫曼爾、波特
 及詹姆森先生
 Messrs. Havemeyer,
 Potter and Jameson
 
-1777
+1819
 02:27:26,518 --> 02:27:31,512
 因涉嫌不當作為
 而留校查看
@@ -11502,21 +11628,21 @@ are placed on probation
 for suspicion of
 ungentlemanly conduct.
 
-1778
+1820
 02:27:31,790 --> 02:27:34,953
 另外建議
 喬治威利斯二世先生
 It is further recommended
 that Mr. George Willis, Jr.
 
-1779
+1821
 02:27:35,027 --> 02:27:40,363
 不因其合作而做任何表揚或處分
 Receive neither recognition
 nor commendation
 for his cooperation.
 
-1780
+1822
 02:27:41,666 --> 02:27:46,535
 西門先生將不需
 為此事件負責
@@ -11526,7 +11652,7 @@ to this incident.
 Hoo-ah!
 Charlie!
 
-1781
+1823
 02:28:47,532 --> 02:28:50,865
 小心！
 有你在我很放心
@@ -11534,12 +11660,12 @@ Last step.
 I can always count
 on you, Charlie.
 
-1782
+1824
 02:28:54,606 --> 02:28:57,598
 中校…
 Colonel!
 
-1783
+1825
 02:28:59,544 --> 02:29:02,877
 我是克莉絲汀.唐伊
 政治學教授
@@ -11548,21 +11674,21 @@ Colonel Slade.
 I teach
 political science.
 
-1784
+1826
 02:29:03,148 --> 02:29:06,481
 非常感謝您的高見
 I wanted to tell you
 how much I appreciate
 you speaking your mind.
 
-1785
+1827
 02:29:06,551 --> 02:29:07,950
 謝謝，你結婚了？
 Why, thank you.
 Are you married?
 I...
 
-1786
+1828
 02:29:13,491 --> 02:29:17,086
 我在炮兵課的同學
 也姓唐伊
@@ -11570,56 +11696,56 @@ Went to an artillery school
 at Fort Sill with
 a Mickey Downes.
 
-1787
+1829
 02:29:17,162 --> 02:29:18,220
 我以為他釣上你了
 Thought he might've
 snagged you.
 
-1788
+1830
 02:29:18,897 --> 02:29:20,888
 沒有呢
 No, I'm afraid not.
 
-1789
+1831
 02:29:22,767 --> 02:29:25,964
 史中校曾是詹森的幕僚
 Colonel Slade was on
 Lyndon Johnson's staff,
 Miss Downes.
 
-1790
+1832
 02:29:26,705 --> 02:29:28,764
 真的？太精彩了
 Were you? Fascinating.
 
-1791
+1833
 02:29:29,040 --> 02:29:31,565
 有空我們應該聊聊政治
 We should get together,
 talk politics sometime.
 
-1792
+1834
 02:29:35,513 --> 02:29:36,707
 芙洛兒.狄蘿卡里絲香水
 Fleurs de Rocaille.
 
-1793
+1835
 02:29:39,184 --> 02:29:40,173
 正是！
 Yes.
 
-1794
+1836
 02:29:41,986 --> 02:29:43,578
 「小溪之花」
 "Flowers from a brook."
 
-1795
+1837
 02:29:45,590 --> 02:29:46,921
 對
 That's right.
 
-1796
+1838
 02:29:51,062 --> 02:29:54,463
 唐伊小姐
 我知道到哪找你
@@ -11629,40 +11755,40 @@ Charlie.
 Bye, Miss Downes.
 Bye.
 
-1797
+1839
 02:30:04,275 --> 02:30:06,266
 你不必告訴我
 You don't have to
 tell me, Charlie.
 
-1798
+1840
 02:30:07,345 --> 02:30:08,676
 五尺七
 5'7",
 
-1799
+1841
 02:30:10,148 --> 02:30:11,809
 赤鳶色髮
 auburn hair,
 
-1800
+1842
 02:30:12,884 --> 02:30:33,973
 美麗的棕色大眼
 beautiful brown eyes.
 
-1801
+1843
 02:30:33,973 --> 02:30:35,304
 呀吧嗒吧嘟！
 Yabba-dabba-doo.
 Manny.
 
-1802
+1844
 02:30:44,316 --> 02:30:45,647
 太多了
 Colonel, this
 is too much.
 
-1803
+1845
 02:30:45,718 --> 02:30:50,121
 你應得的
 下次查理和我去紐約時
@@ -11676,7 +11802,7 @@ we're gonna call you.
 You can drive us
 both ways.
 
-1804
+1846
 02:30:53,793 --> 02:30:57,991
 沒問題，中校，我的榮幸
 我給您打折
@@ -11687,19 +11813,19 @@ be an honor,
 I'll give you
 a rate.
 
-1805
+1847
 02:30:58,264 --> 02:30:59,458
 我再加倍給小費
 I'll see your rate
 and raise you.
 
-1806
+1848
 02:31:01,000 --> 02:31:02,797
 保重
 Stay outta
 harm's way, Manny.
 
-1807
+1849
 02:31:03,002 --> 02:31:04,993
 保重，中校
 你也一樣
@@ -11707,21 +11833,21 @@ Take care,
 Colonel.
 You, too.
 
-1808
+1850
 02:31:06,472 --> 02:31:08,463
 不，謝了，我自己走
 Ready?
 No. I'll take it
 from here.
 
-1809
+1851
 02:31:09,742 --> 02:31:13,075
 走吧，曼尼會送你回宿舍
 You go on ahead.
 Manny'll drive you
 to your dorm.
 
-1810
+1852
 02:31:14,814 --> 02:31:18,341
 聖誕節前再來
 咱倆喝一杯
@@ -11729,13 +11855,13 @@ Come by before you
 go home for Christmas.
 We'll have a little cheer.
 
-1811
+1853
 02:31:19,752 --> 02:31:22,084
 你要是願意，就留下晚餐
 And if you like,
 stay for dinner.
 
-1812
+1854
 02:31:22,288 --> 02:31:26,622
 有時候她做燒雞
 還能入口
@@ -11743,19 +11869,19 @@ Sometimes she cooks
 a pot roast.
 It's almost edible.
 
-1813
+1855
 02:31:28,494 --> 02:31:29,825
 好，中校
 All right, Colonel.
 That'd be really...
 
-1814
+1856
 02:31:30,696 --> 02:31:31,890
 那會是…
 再見，查理
 Bye, Charlie.
 
-1815
+1857
 02:31:52,518 --> 02:31:53,849
 是誰？
 是你嗎，法蘭絲？
@@ -11763,31 +11889,31 @@ Who's there?
 That you, Francine?
 Yes.
 
-1816
+1858
 02:31:57,323 --> 02:32:00,315
 你在做什麼？
 騎車
 What are you doing?
 Taking a ride.
 
-1817
+1859
 02:32:00,526 --> 02:32:03,791
 讓我搭便車吧？
 Taking a ride?
 What about you
 giving me a lift?
 
-1818
+1860
 02:32:04,864 --> 02:32:05,592
 不要
 No.
 
-1819
+1861
 02:32:06,065 --> 02:32:07,054
 不要？
 No?
 
-1820
+1862
 02:32:07,666 --> 02:32:13,061
 拜託嘛，法蘭絲
 我們重歸於好嘛
@@ -11797,14 +11923,14 @@ We should make up.
 Don't you think
 it's time we made up?
 
-1821
+1863
 02:32:13,672 --> 02:32:14,536
 不想
 No.
 Francine?
 What?
 
-1822
+1864
 02:32:16,475 --> 02:32:22,478
 你法蘭克叔公過了一個
 很辛苦的…
@@ -11813,7 +11939,7 @@ Uncle Frank's had
 a really hard
 Thanksgiving weekend.
 
-1823
+1865
 02:32:23,549 --> 02:32:24,208
 那是什麼？
 我聽到花栗鼠
@@ -11822,12 +11948,12 @@ What's that?
 I hear a chipmunk.
 Is it a walrus?
 
-1824
+1866
 02:32:28,954 --> 02:32:30,285
 都不是，是威利
 No, it's Willie.
 
-1825
+1867
 02:32:30,823 --> 02:32:38,689
 要不要幫我拿提袋？
 來嘛！乖
@@ -11838,7 +11964,7 @@ Come on, son.
 Help me with my bag.
 Come on. Come on.
 
-1826
+1868
 02:32:39,098 --> 02:32:41,896
 拿好了？拿穩哦
 走
@@ -11846,13 +11972,13 @@ You got it. Hold onto it.
 You're strong. Come on.
 Here we are.
 
-1827
+1869
 02:32:47,773 --> 02:32:50,105
 跟我和威利來
 Francine, come on
 with me and Willie.
 
-1828
+1870
 02:32:50,643 --> 02:32:54,443
 你可以請我吃巧克力
 好不好
