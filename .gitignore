@@ -1,6 +1,4 @@
-11.srt
-chn1.srt
-eng1.srt
+*.srt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

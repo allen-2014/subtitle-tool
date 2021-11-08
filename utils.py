@@ -6,4 +6,4 @@ def base_time_bias(time_bias_list: List[int]) ->int:
         if abs(time_bias) > 0:
             res += time_bias
             l += 1
-    return res / l
+    return res / l if l > 0 else 0
