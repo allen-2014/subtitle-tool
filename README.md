@@ -1,5 +1,6 @@
 # subtitle-tool
 merging two subtitle files(.srt) into one subtitle file(.srt), which belonging to the same video,including movie, or TV Series etc.
+merging rule: two subtitles having the most adjacent begin times are merged into one.
 
 # Problems encounted and Solution
 ## PS1
@@ -30,7 +31,7 @@ step4:goto step 2
 
 as we can see, the base_time_bias changing with time_biase_list updating. That can improve the merging result dramatically.
 
-## PS
-when we get base time bias, the threshold
+## PS3
+when we get base time bias, then how to know which subtitles should be merged. the way is to compute the begin time of two subtitles, and if the bias less than a two subtitles, then two subtitles will be merged,so how to the select threshold? just test more srt files.this program adopt the threshold of 1000ms.
 
 

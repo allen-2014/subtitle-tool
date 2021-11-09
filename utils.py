@@ -2,6 +2,16 @@ from io import TextIOWrapper
 from typing import List
 
 def base_time_bias(time_bias_list: List[int]) ->int:
+    """
+    compute avg of recent 5 time bias, as base time bias
+   
+    Parameters:
+    --------
+        List[int]:time bais list
+    Returns:
+    -------
+        int:base time bias
+    """
     l,res = 0,0
     for time_bias in time_bias_list:
         if abs(time_bias) > 0:
