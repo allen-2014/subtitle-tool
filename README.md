@@ -5,6 +5,7 @@ merging rule: two subtitles having the most adjacent begin times are merged.
 # Usage
 the way of calling is command line. open the cmd in windows or others, input the following command:  
 
+## Basic example
 **python merge_subtitle.py "./eng.srt" "./chn.srt" 2 10 2** <br>
 
 ## Options
