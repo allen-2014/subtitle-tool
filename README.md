@@ -5,11 +5,11 @@ merging rule: two subtitles having the most adjacent begin times are merged.
 # Usage
 the way of calling is command line.open the cmd in windows,input the following command:  
 
-python merge_subtitle.py "./eng.srt" "./chn.srt" 2 10 2 <br>
+**python merge_subtitle.py "./eng.srt" "./chn.srt" 2 10 2** <br>
 
-"./eng.srt" and "./chn.srt" :need to be merged.<br>
-2 and 10: the 2nd line in eng.srt and the 10th in chn.srt are matching subtitles.<br>
-the last 2:the second file subtitle is up,the other is down.<br>
+1. "./eng.srt" and "./chn.srt" :need to be merged.<br>
+2. 2 and 10: the 2nd line in eng.srt and the 10th in chn.srt are matching subtitles.<br>
+3. the last 2:the second file subtitle is up,the other is down.<br>
 the merging result is a new srt file,named "1.srt" default, or you can rename it.<br>
 
 
