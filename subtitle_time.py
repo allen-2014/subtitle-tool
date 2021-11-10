@@ -13,9 +13,10 @@ class SubtitleTime(object):
         if end_time == "" and begin_time == "":
             return None
         elif end_time == "":
-            two_time_list = begin_time.strip().split(self.link_sig.strip())
-            self.begin_time = two_time_list[0].strip()
-            self.end_time = two_time_list[1].strip()
+            if "-->" in begin_time:
+                two_time_list = begin_time.strip().split(self.link_sig.strip())
+                self.begin_time = two_time_list[0].strip()
+                self.end_time = two_time_list[1].strip()
         else:
             self.begin_time = begin_time
             self.end_time = end_time
@@ -71,10 +72,12 @@ class SubtitleTime(object):
             including hour,miniute,seconed and millisecond
 
         """
-        time_list = self.begin_time.strip().split(":")
-        sec_list = time_list[2].split(",")
-        return [int(time_list[0]), int(time_list[1]), int(sec_list[0]),int(sec_list[1])]
-
+        if self.begin_time.strip() != "" and ":" in self.begin_time:
+            time_list = self.begin_time.strip().split(":")
+            sec_list = time_list[2].split(",")
+            return [int(time_list[0]), int(time_list[1]), int(sec_list[0]),int(sec_list[1])]
+        else:
+            return None
     def end_time_split(self) -> List[int]:
         """
         one subtitle time is splitted into hour,miniute,seconed and millisecond, four values
@@ -85,10 +88,12 @@ class SubtitleTime(object):
             including hour,miniute,seconed and millisecond
 
         """
-        time_list = self.end_time.strip().split(":")
-        sec_list = time_list[2].split(",")
-        return [int(time_list[0]), int(time_list[1]), int(sec_list[0]),int(sec_list[1])]
-
+        if self.end_time.strip() != "" and ":" in self.end_time:
+            time_list = self.end_time.strip().split(":")
+            sec_list = time_list[2].split(",")
+            return [int(time_list[0]), int(time_list[1]), int(sec_list[0]),int(sec_list[1])]
+        else:
+            return None
     def to_string(self) -> str:
         return self.begin_time + self.link_sig + self.end_time + self.line_sig
 
