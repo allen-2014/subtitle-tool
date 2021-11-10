@@ -1,8 +1,19 @@
 # subtitle-tool
 merging two subtitle files(.srt) into one subtitle file(.srt), which belonging to the same video,including movie, or TV Series etc.
-merging rule: two subtitles having the most adjacent begin times are merged into one.
+merging rule: two subtitles having the most adjacent begin times are merged.
 
-# Problems encounted and Solution
+# Usage
+the way of calling is command line.open the cmd in windows,input the following command:
+
+python merge_subtitle.py "./eng.srt" "./chn.srt" 2 10 2
+
+"./eng.srt" and "./chn.srt" :need to be merged.
+2 and 10: the 2nd line in eng.srt and the 10th in chn.srt are matching subtitles.
+the last 2:the second file subtitle is up,the other is down.
+the merging result is a new srt file,named "1.srt" default, or you can rename it.
+
+
+# Problems encountered and Solutions
 ## PS1
 when using the end time of subtitle to compare, the result of emerging is bad,
 because of the end time not matching the actual time in the video so much,so if 
@@ -34,4 +45,8 @@ as we can see, the base_time_bias changing with time_biase_list updating. That c
 ## PS3
 when we get base time bias, then how to know which subtitles should be merged. the way is to compute the begin time of two subtitles, and if the bias less than a two subtitles, then two subtitles will be merged,so how to the select threshold? just test more srt files.this program adopt the threshold of 1000ms.
 
+# Version
+|date     |version |
+|---------|--------|
+|20211110 |1.0.0   |
 

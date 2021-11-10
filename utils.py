@@ -4,7 +4,7 @@ from typing import List
 def base_time_bias(time_bias_list: List[int]) ->int:
     """
     compute avg of recent 5 time bias, as base time bias
-   
+
     Parameters:
     --------
         List[int]:time bais list
