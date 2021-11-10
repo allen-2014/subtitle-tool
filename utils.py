@@ -24,6 +24,8 @@ def read_subtitle(fd: TextIOWrapper = 0) ->List[str]:
         return None
     #read num
     one_line11 = fd.readline()
+    if not(one_line11.strip().isnumeric()):
+        return None
     if one_line11 == "":
         return None
     line11_num = one_line11
