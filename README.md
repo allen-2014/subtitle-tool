@@ -13,8 +13,7 @@ the way of calling is command line. open the cmd in windows or others, input the
 |eng.srt      |first file to be merged                                                                   |
 |chn.srt      |second file to be merged                                                                  |
 |2 and 10     |the 2nd line in eng.srt and the 10th line in chn.srt are matching subtitles.              |
-|2            |2 means the merging result format is the second file subtitle is up,the other is down.<br>|
-|             |1 means the merging result format is the first file subtitle is up,the other is down. <br>|
+|2            |2 means the merging result format is the second file subtitle is up,the other is down.<br>1 means the merging result format is the first file subtitle is up,the other is down. <br>|
 
 
 the merging result is a new srt file,named "1.srt" default, or you can rename it.<br>
