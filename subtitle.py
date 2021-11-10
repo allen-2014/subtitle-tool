@@ -2,7 +2,7 @@ from os import linesep
 from typing import Text
 from subtitle_time import SubtitleTime
 
-class Subtitle:
+class Subtitle(object):
     num = ""
     subtitle_time = SubtitleTime()
     sub_text = ""

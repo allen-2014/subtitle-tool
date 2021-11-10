@@ -3,7 +3,7 @@ import os
 from typing import List
 """
 """
-class SubtitleTime:
+class SubtitleTime(object):
     begin_time = ""
     end_time = ""
     link_sig = " --> "

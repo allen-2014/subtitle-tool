@@ -37,7 +37,7 @@ if len(sys.argv) == 6:
             break
         if acd == 2:
             fd_merge.write(one_line2)
-            fd_merge.flush()        
+            fd_merge.flush()
     #read the subtitle files and merge
     #time
     one_line1 = fd1.readline()
