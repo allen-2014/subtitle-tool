@@ -4,28 +4,28 @@ from typing import List
 """
 """
 class SubtitleTime(object):
-    begin_time = ""
-    end_time = ""
-    link_sig = " --> "
-    line_sig = "\n"
+    __begin_time = ""
+    __end_time = ""
+    __link_sig = " --> "
+    __line_sig = "\n"
     
     def __init__(self, begin_time: str="", end_time: str=""):
         if end_time == "" and begin_time == "":
             return None
         elif end_time == "":
             if "-->" in begin_time:
-                two_time_list = begin_time.strip().split(self.link_sig.strip())
-                self.begin_time = two_time_list[0].strip()
-                self.end_time = two_time_list[1].strip()
+                two_time_list = begin_time.strip().split(self.__link_sig.strip())
+                self.__begin_time = two_time_list[0].strip()
+                self.__end_time = two_time_list[1].strip()
         else:
-            self.begin_time = begin_time
-            self.end_time = end_time
-
-    def get_begin_time(self):
-        return self.begin_time
-
-    def get_end_time(self):
-        return self.end_time
+            self.__begin_time = begin_time
+            self.__end_time = end_time
+    @property
+    def begin_time(self):
+        return self.__begin_time
+    @property
+    def end_time(self):
+        return self.__end_time
 
     def time_bias(self, subtitle_time, base_time_bias: int=0) -> List[int]:
         """
@@ -72,8 +72,8 @@ class SubtitleTime(object):
             including hour,miniute,seconed and millisecond
 
         """
-        if self.begin_time.strip() != "" and ":" in self.begin_time:
-            time_list = self.begin_time.strip().split(":")
+        if self.__begin_time.strip() != "" and ":" in self.__begin_time:
+            time_list = self.__begin_time.strip().split(":")
             sec_list = time_list[2].split(",")
             return [int(time_list[0]), int(time_list[1]), int(sec_list[0]),int(sec_list[1])]
         else:
@@ -88,13 +88,13 @@ class SubtitleTime(object):
             including hour,miniute,seconed and millisecond
 
         """
-        if self.end_time.strip() != "" and ":" in self.end_time:
-            time_list = self.end_time.strip().split(":")
+        if self.__end_time.strip() != "" and ":" in self.__end_time:
+            time_list = self.__end_time.strip().split(":")
             sec_list = time_list[2].split(",")
             return [int(time_list[0]), int(time_list[1]), int(sec_list[0]),int(sec_list[1])]
         else:
             return None
     def to_string(self) -> str:
-        return self.begin_time + self.link_sig + self.end_time + self.line_sig
+        return self.__begin_time + self.__link_sig + self.__end_time + self.__line_sig
 
 

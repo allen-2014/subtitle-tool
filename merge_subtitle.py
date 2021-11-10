@@ -79,25 +79,25 @@ if len(sys.argv) == 6:
         while (True):
             if time12_bias[2] < 0:
                 subtitle11_list = utils.read_subtitle(fd1)
-                if subtitle11_list == None:
+                if subtitle11_list is None:
                     fd_merge.write(str(merge_subtitle_num) + "\n" + base_line_time + (subtitle2 + subtitle1) + "\n")
                     fd_merge.flush()
                     break
             if time12_bias[2] > 0:
                 subtitle21_list = utils.read_subtitle(fd2)
-                if subtitle21_list == None:
+                if subtitle21_list is None:
                     fd_merge.write(str(merge_subtitle_num) + "\n" + base_line_time + (subtitle2 + subtitle1) + "\n")
                     fd_merge.flush()
                     break         
             
             if time12_bias[2] == 0:
                 subtitle11_list = utils.read_subtitle(fd1)
-                if subtitle11_list == None:
+                if subtitle11_list is None:
                     fd_merge.write(str(merge_subtitle_num) + "\n" + base_line_time + (subtitle2 + subtitle1) + "\n")
                     fd_merge.flush()
                     break
                 subtitle21_list = utils.read_subtitle(fd2)
-                if subtitle21_list == None:
+                if subtitle21_list is None:
                     fd_merge.write(str(merge_subtitle_num) + "\n" + base_line_time + (subtitle2 + subtitle1) + "\n")
                     fd_merge.flush()
                     break  
@@ -106,7 +106,7 @@ if len(sys.argv) == 6:
             subtitle21 = Subtitle(subtitle21_list[0],subtitle21_list[1],subtitle21_list[2])
             # subtitle_time11 = SubtitleTime(line11_time)
             # subtitle_time21 = SubtitleTime(line21_time)
-            time12_bias = subtitle11.subtitle_time_inst().time_bias(subtitle21.subtitle_time_inst(), base_time_bias)
+            time12_bias = subtitle11.subtitle_time.time_bias(subtitle21.subtitle_time, base_time_bias)
             
             #write to new file directly
             if abs(time12_bias[0]) < 1000:
@@ -116,11 +116,11 @@ if len(sys.argv) == 6:
                 #subtitle num
                 merge_subtitle_num += 1
                 #time
-                line1_time = subtitle11.subtitle_time_inst().to_string()
-                line2_time = subtitle21.subtitle_time_inst().to_string()
+                line1_time = subtitle11.subtitle_time.to_string()
+                line2_time = subtitle21.subtitle_time.to_string()
                 #subtitle
-                subtitle2 = subtitle21.subtitle_text()
-                subtitle1 = subtitle11.subtitle_text()
+                subtitle2 = subtitle21.subtitle_text
+                subtitle1 = subtitle11.subtitle_text
                 #base_time_bias
                 time_bias_list.pop(0)
                 time_bias_list.append(time12_bias[0] + base_time_bias)
@@ -133,22 +133,22 @@ if len(sys.argv) == 6:
                 time12_bias[2] = 0
             #subtitle of file1 need to be self merging,and then with file2 write to new file
             elif time12_bias[2] < 0:
-                subtitle1 += subtitle11.subtitle_text()
+                subtitle1 += subtitle11.subtitle_text
                 if acd == 1:
                     subtitle_time1 = SubtitleTime(line1_time)
-                    subtitle_time11 = subtitle11.subtitle_time_inst()
-                    base_line_time = SubtitleTime(subtitle_time1.get_begin_time(), subtitle_time11.get_end_time()).to_string()
+                    subtitle_time11 = subtitle11.subtitle_time
+                    base_line_time = SubtitleTime(subtitle_time1.begin_time, subtitle_time11.end_time).to_string()
                 elif acd == 2:
                     base_line_time = line2_time
             #subtitle of file2 need to be self merging,and then with file1 write to new file    
             elif time12_bias[2] > 0:
-                subtitle2 += subtitle21.subtitle_text()
+                subtitle2 += subtitle21.subtitle_text
                 if acd == 1:
                     base_line_time = line1_time
                 elif acd == 2:
                     subtitle_time2 = SubtitleTime(line2_time)
-                    subtitle_time21 = subtitle21.subtitle_time_inst()
-                    base_line_time = SubtitleTime(subtitle_time2.get_begin_time(), subtitle_time21.get_end_time()).to_string()
+                    subtitle_time21 = subtitle21.subtitle_time
+                    base_line_time = SubtitleTime(subtitle_time2.begin_time, subtitle_time21.end_time).to_string()
             
         print("merge finished.")
     except:

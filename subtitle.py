@@ -3,24 +3,26 @@ from typing import Text
 from subtitle_time import SubtitleTime
 
 class Subtitle(object):
-    num = ""
-    subtitle_time = SubtitleTime()
-    sub_text = ""
-    line_sig = "\n"
+    __num = ""
+    __subtitle_time = SubtitleTime()
+    __sub_text = ""
+    __line_sig = "\n"
     def __init__(self, num: str="",line_time: str="", sub_text: str=""):
-        self.num = num
-        self.subtitle_time = SubtitleTime(line_time)
-        self.sub_text = sub_text
-    
-    def subtitle_time_inst(self):
-        return  self.subtitle_time
+        self.__num = num
+        self.__subtitle_time = SubtitleTime(line_time)
+        self.__sub_text = sub_text
 
+    @property
+    def subtitle_time(self):
+        return  self.__subtitle_time
+    
+    @property
     def subtitle_text(self):
-        return self.sub_text
+        return self.__sub_text
 
     def to_string(self) ->str:
-        return self.num + \
-                self.subtitle_time.to_string() + \
-                self.sub_text + self.line_sig
+        return self.__num + \
+                self.__subtitle_time.to_string() + \
+                self.__sub_text + self.__line_sig
                 
                 
