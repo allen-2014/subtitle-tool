@@ -1,4 +1,5 @@
 # subtitle-tool
+本程序的功能是把两个 srt 文件合并成一个 srt 文件.<br>
 merging two subtitle files(.srt) into one subtitle file(.srt), which belonging to the same video,including movie, or TV Series etc.<br>
 merging rule: two subtitles having the most adjacent begin times are merged.
 
